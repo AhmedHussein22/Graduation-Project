@@ -1,0 +1,3399 @@
+	<string>Częstotliwość próbkowania</string>
+			<key>kMDItemAudioSampleRate.Description</key>
+			<string>Częstotliwość próbkowania danych pliku audio</string>
+			<key>kMDItemAudioSampleRate.ShortDisplayName</key>
+			<string>Częstotliwość próbkowania</string>
+			<key>kMDItemAudioSampleRate.ShortName</key>
+			<string>częstotliwośćpróbkowaniaaudio,częstotliwośćpróbkowania</string>
+			<key>kMDItemAudioTrackNumber</key>
+			<string>Numer ścieżki</string>
+			<key>kMDItemAudioTrackNumber.Description</key>
+			<string>Numer ścieżki utworu, który wchodzi w skład albumu</string>
+			<key>kMDItemAudioTrackNumber.ShortName</key>
+			<string>numerścieżki</string>
+			<key>kMDItemAuthorAddresses</key>
+			<string>Adresy autorów</string>
+			<key>kMDItemAuthorAddresses.Description</key>
+			<string>Adresy autorów tej rzeczy</string>
+			<key>kMDItemAuthorAddresses.ShortName</key>
+			<string>od</string>
+			<key>kMDItemAuthorEmailAddresses</key>
+			<string>Adresy email autorów</string>
+			<key>kMDItemAuthorEmailAddresses.Description</key>
+			<string>Adresy email autorów tej rzeczy</string>
+			<key>kMDItemAuthorEmailAddresses.ShortName</key>
+			<string>od,email,mail,poczta</string>
+			<key>kMDItemAuthors</key>
+			<string>Twórcy</string>
+			<key>kMDItemAuthors.Description</key>
+			<string>Twórcy tej rzeczy</string>
+			<key>kMDItemAuthors.ShortName</key>
+			<string>od,autor,z,przez</string>
+			<key>kMDItemBitsPerSample</key>
+			<string>Liczba bitów w próbce</string>
+			<key>kMDItemBitsPerSample.Description</key>
+			<string>Liczba bitów w próbce</string>
+			<key>kMDItemBitsPerSample.ShortName</key>
+			<string>bitównapróbkę,bps</string>
+			<key>kMDItemCity</key>
+			<string>Miasto</string>
+			<key>kMDItemCity.Description</key>
+			<string>Miasto tej rzeczy</string>
+			<key>kMDItemCity.ShortName</key>
+			<string>miasto</string>
+			<key>kMDItemCodecs</key>
+			<string>Kodeki</string>
+			<key>kMDItemCodecs.Description</key>
+			<string>Kodeki służące do kodowania i odkodowywania materiału</string>
+			<key>kMDItemCodecs.ShortName</key>
+			<string>kodek</string>
+			<key>kMDItemColorSpace</key>
+			<string>Przestrzeń kolorów</string>
+			<key>kMDItemColorSpace.Description</key>
+			<string>Model przestrzeni kolorów tego obrazka</string>
+			<key>kMDItemColorSpace.ShortName</key>
+			<string>przestrzeńkolorów</string>
+			<key>kMDItemComment</key>
+			<string>Komentarz</string>
+			<key>kMDItemComment.Description</key>
+			<string>Komentarze dotyczące tej rzeczy</string>
+			<key>kMDItemComment.ShortName</key>
+			<string>komentarz</string>
+			<key>kMDItemComposer</key>
+			<string>Kompozytor</string>
+			<key>kMDItemComposer.Description</key>
+			<string>Kompozytor utworu w pliku audio</string>
+			<key>kMDItemComposer.ShortName</key>
+			<string>wg,kompozytora,autora,kompozytorów,autorów</string>
+			<key>kMDItemContactKeywords</key>
+			<string>Słowa kluczowe kontaktów</string>
+			<key>kMDItemContactKeywords.Description</key>
+			<string>Kontakty związane z tą rzeczą</string>
+			<key>kMDItemContactKeywords.ShortName</key>
+			<string>kontakt,słowokluczowekontaktu,słowokluczowe</string>
+			<key>kMDItemContentCreationDate</key>
+			<string>Utw. zawartość</string>
+			<key>kMDItemContentCreationDate.Description</key>
+			<string>Data utworzenia zawartości tej rzeczy</string>
+			<key>kMDItemContentCreationDate.ShortName</key>
+			<string>utworzonazawartość,utworzone,data</string>
+			<key>kMDItemContentModificationDate</key>
+			<string>Modyfikacja zawartości</string>
+			<key>kMDItemContentModificationDate.Description</key>
+			<string>Data modyfikacji zawartości tej rzeczy</string>
+			<key>kMDItemContentModificationDate.ShortName</key>
+			<string>zawartośćmodyfikowana,modyfikowane,data</string>
+			<key>kMDItemContributors</key>
+			<string>Osoby wnoszące wkład</string>
+			<key>kMDItemContributors.Description</key>
+			<string>Osoby lub organizacje wnoszące wkład do zawartości dokumentu</string>
+			<key>kMDItemContributors.ShortName</key>
+			<string>wg,zgłaszający,autor,zgłaszających,autorów,z</string>
+			<key>kMDItemCopyright</key>
+			<string>Prawa autorskie</string>
+			<key>kMDItemCopyright.Description</key>
+			<string>Informacje o prawach autorskich tej rzeczy</string>
+			<key>kMDItemCopyright.ShortName</key>
+			<string>prawaautorskie</string>
+			<key>kMDItemCountry</key>
+			<string>Region</string>
+			<key>kMDItemCountry.Description</key>
+			<string>Kraj, region lub miejsce, gdzie ta rzecz została utworzona według dostawcy</string>
+			<key>kMDItemCountry.ShortName</key>
+			<string>kraj,region</string>
+			<key>kMDItemCoverage</key>
+			<string>Obszar zainteresowania </string>
+			<key>kMDItemCoverage.Description</key>
+			<string>Zakres lub obszar zawartości dokumentu</string>
+			<key>kMDItemCoverage.ShortName</key>
+			<string>obszarzainteresowania</string>
+			<key>kMDItemCreator</key>
+			<string>Program generujący</string>
+			<key>kMDItemCreator.Description</key>
+			<string>Aplikacja użyta do utworzenia tej rzeczy</string>
+			<key>kMDItemCreator.ShortName</key>
+			<string>twórca</string>
+			<key>kMDItemDateAdded</key>
+			<string>Data dodania</string>
+			<key>kMDItemDateAdded.Description</key>
+			<string>Data ostatniego przeniesienia tej rzeczy</string>
+			<key>kMDItemDateAdded.ShortName</key>
+			<string>datadodania,dodania,data</string>
+			<key>kMDItemDeliveryType</key>
+			<string>Rodzaj dostarczania</string>
+			<key>kMDItemDeliveryType.Description</key>
+			<string>Metoda użyta do dostarczenia materiału (Fast Start lub RTSP)</string>
+			<key>kMDItemDeliveryType.ShortName</key>
+			<string>dostarczenie</string>
+			<key>kMDItemDescription</key>
+			<string>Opis</string>
+			<key>kMDItemDescription.Description</key>
+			<string>Opis zawartości dokumentu</string>
+			<key>kMDItemDescription.ShortName</key>
+			<string>opis,komentarz</string>
+			<key>kMDItemDirector</key>
+			<string>Reżyser</string>
+			<key>kMDItemDirector.Description</key>
+			<string>Reżyser</string>
+			<key>kMDItemDisplayName</key>
+			<string>Nazwa monitora</string>
+			<key>kMDItemDisplayName.Description</key>
+			<string>Zlokalizowana nazwa pliku</string>
+			<key>kMDItemDisplayName.ShortName</key>
+			<string>nazwa,nazwawyświetlana,wyświetlananazwa</string>
+			<key>kMDItemDocumentContainer</key>
+			<string>Kontener dokumentów</string>
+			<key>kMDItemDocumentContainer.Description</key>
+			<string>Zawiera folder rzeczy</string>
+			<key>kMDItemDocumentContainer.ShortName</key>
+			<string>kontener</string>
+			<key>kMDItemDueDate</key>
+			<string>Termin wykonania</string>
+			<key>kMDItemDueDate.Description</key>
+			<string>Data wymagalności tej rzeczy</string>
+			<key>kMDItemDueDate.ShortName</key>
+			<string>termin,data</string>
+			<key>kMDItemDurationSeconds</key>
+			<string>Czas trwania</string>
+			<key>kMDItemDurationSeconds.Description</key>
+			<string>Czas trwania tej rzeczy w sekundach</string>
+			<key>kMDItemDurationSeconds.ShortName</key>
+			<string>czastrwania,czas</string>
+			<key>kMDItemEXIFGPSVersion</key>
+			<string>Wersja GPS EXIF</string>
+			<key>kMDItemEXIFGPSVersion.Description</key>
+			<string>Wersja GPSInfoIFD w EXIF używana do generowania metadanych</string>
+			<key>kMDItemEXIFVersion</key>
+			<string>Wersja EXIF</string>
+			<key>kMDItemEXIFVersion.Description</key>
+			<string>Wersja EXIF użyta do generowania metadanych</string>
+			<key>kMDItemEXIFVersion.ShortName</key>
+			<string>wersjaexif</string>
+			<key>kMDItemEditors</key>
+			<string>Redaktorzy</string>
+			<key>kMDItemEditors.Description</key>
+			<string>Osoby, które redagowały tę rzecz</string>
+			<key>kMDItemEditors.ShortName</key>
+			<string>edytor</string>
+			<key>kMDItemEmailAddresses</key>
+			<string>Adresy email</string>
+			<key>kMDItemEmailAddresses.Description</key>
+			<string>Adresy email związane z tą rzeczą</string>
+			<key>kMDItemEmailAddresses.ShortName</key>
+			<string>email,mail</string>
+			<key>kMDItemEncodingApplications</key>
+			<string>Oprogramowanie kodujące</string>
+			<key>kMDItemEncodingApplications.Description</key>
+			<string>Oprogramowanie użyte do konwersji oryginalnej zawartości</string>
+			<key>kMDItemEncodingApplications.ShortDisplayName</key>
+			<string>Kodowane przez</string>
+			<key>kMDItemEncodingApplications.ShortName</key>
+			<string>koder,kodowaneprzez,aplikacjakodująca</string>
+			<key>kMDItemEndDate</key>
+			<string>Data końcowa</string>
+			<key>kMDItemEndDate.Description</key>
+			<string>Data końcowa tej rzeczy</string>
+			<key>kMDItemEndDate.ShortName</key>
+			<string>datakońcowa,data</string>
+			<key>kMDItemExecutableArchitectures</key>
+			<string>Architektury wykonywalne</string>
+			<key>kMDItemExecutableArchitectures.Description</key>
+			<string>Architektury wymagane przez rzecz do wykonywania</string>
+			<key>kMDItemExecutableArchitectures.ShortName</key>
+			<string>architektury</string>
+			<key>kMDItemExecutablePlatform</key>
+			<string>Platforma wykonywalna</string>
+			<key>kMDItemExecutablePlatform.Description</key>
+			<string>Platforma wymagana przez rzecz do wykonywania</string>
+			<key>kMDItemExecutablePlatform.ShortName</key>
+			<string>platforma</string>
+			<key>kMDItemExposureMode</key>
+			<string>Tryb ekspozycji</string>
+			<key>kMDItemExposureMode.Description</key>
+			<string>Tryb użyty podczas ekspozycji</string>
+			<key>kMDItemExposureMode.ShortName</key>
+			<string>trybekspozycji</string>
+			<key>kMDItemExposureProgram</key>
+			<string>Program ekspozycji</string>
+			<key>kMDItemExposureProgram.Description</key>
+			<string>Typ programu użytego przez aparat do ustawienia ekspozycji: ręczny, normalny, priorytet przysłony…</string>
+			<key>kMDItemExposureProgram.ShortName</key>
+			<string>ekspozycja,programekspozycji</string>
+			<key>kMDItemExposureTimeSeconds</key>
+			<string>Czas ekspozycji</string>
+			<key>kMDItemExposureTimeSeconds.Description</key>
+			<string>Czas otwarcia obiektywu podczas ekspozycji</string>
+			<key>kMDItemExposureTimeSeconds.ShortName</key>
+			<string>czasekspozycji,czas</string>
+			<key>kMDItemExposureTimeString</key>
+			<string>Czas ekspozycji</string>
+			<key>kMDItemExposureTimeString.Description</key>
+			<string>Czas ekspozycji</string>
+			<key>kMDItemExposureTimeString.ShortName</key>
+			<string>czasekspozycji,czas</string>
+			<key>kMDItemFNumber</key>
+			<string>Wartość przysłony</string>
+			<key>kMDItemFNumber.Description</key>
+			<string>Ogniskowa podzielona przez średnicę przysłony</string>
+			<key>kMDItemFNumber.ShortName</key>
+			<string>przysłona,fstop</string>
+			<key>kMDItemFSContentChangeDate</key>
+			<string>Zmodyfikowano</string>
+			<key>kMDItemFSContentChangeDate.Description</key>
+			<string>Data ostatniej zmiany zawartości pliku</string>
+			<key>kMDItemFSContentChangeDate.ShortName</key>
+			<string>modyfikowany</string>
+			<key>kMDItemFSCreationDate</key>
+			<string>Utworzono</string>
+			<key>kMDItemFSCreationDate.Description</key>
+			<string>Data utworzenia pliku</string>
+			<key>kMDItemFSCreationDate.ShortName</key>
+			<string>utworzono</string>
+			<key>kMDItemFSHasCustomIcon</key>
+			<string>Ikona własna</string>
+			<key>kMDItemFSHasCustomIcon.Description</key>
+			<string>Czy plik ma ikonę własną</string>
+			<key>kMDItemFSInvisible</key>
+			<string>Niewidoczny plik</string>
+			<key>kMDItemFSInvisible.Description</key>
+			<string>Czy plik jest widoczny</string>
+			<key>kMDItemFSInvisible.ShortName</key>
+			<string>niewidoczny</string>
+			<key>kMDItemFSIsExtensionHidden</key>
+			<string>Ukryte rozszerzenie nazwy pliku</string>
+			<key>kMDItemFSIsExtensionHidden.Description</key>
+			<string>Czy rozszerzenie nazwy pliku jest widoczne</string>
+			<key>kMDItemFSIsStationery</key>
+			<string>Papeteria</string>
+			<key>kMDItemFSIsStationery.Description</key>
+			<string>Czy plik jest papeterią</string>
+			<key>kMDItemFSIsStationery.ShortName</key>
+			<string>papeteria</string>
+			<key>kMDItemFSLabel</key>
+			<string>Etykieta pliku</string>
+			<key>kMDItemFSLabel.Description</key>
+			<string>Etykiety Findera przypisane plikom</string>
+			<key>kMDItemFSName</key>
+			<string>Nazwa pliku</string>
+			<key>kMDItemFSName.Description</key>
+			<string>Nazwa pliku</string>
+			<key>kMDItemFSName.ShortName</key>
+			<string>filename,nazwapliku</string>
+			<key>kMDItemFSNodeCount</key>
+			<string>Liczba rzeczy</string>
+			<key>kMDItemFSNodeCount.Description</key>
+			<string>Liczba plików i folderów w folderze</string>
+			<key>kMDItemFSOwnerGroupID</key>
+			<string>Grupa</string>
+			<key>kMDItemFSOwnerGroupID.Description</key>
+			<string>Id grupy właściciela tego pliku</string>
+			<key>kMDItemFSOwnerGroupID.ShortName</key>
+			<string>grupa</string>
+			<key>kMDItemFSOwnerUserID</key>
+			<string>Właściciel</string>
+			<key>kMDItemFSOwnerUserID.Description</key>
+			<string>Id użytkownika właściciela tego pliku</string>
+			<key>kMDItemFSOwnerUserID.ShortName</key>
+			<string>właściciel</string>
+			<key>kMDItemFSSize</key>
+			<string>Wielkość pliku</string>
+			<key>kMDItemFSSize.Description</key>
+			<string>Wielkość logiczna pliku na dysku (w bajtach)</string>
+			<key>kMDItemFSSize.ShortName</key>
+			<string>wielkość</string>
+			<key>kMDItemFinderComment</key>
+			<string>Komentarz Spotlight</string>
+			<key>kMDItemFinderComment.Description</key>
+			<string>Komentarz Spotlight dotyczący tej rzeczy</string>
+			<key>kMDItemFinderComment.ShortName</key>
+			<string>komentarz,komentarzspotlight</string>
+			<key>kMDItemFlashOnOff</key>
+			<string>Flesz</string>
+			<key>kMDItemFlashOnOff.Description</key>
+			<string>Czy zdjęcie zrobiono przy użyciu lampy błyskowej</string>
+			<key>kMDItemFlashOnOff.ShortName</key>
+			<string>flesz</string>
+			<key>kMDItemFocalLength</key>
+			<string>Ogniskowa</string>
+			<key>kMDItemFocalLength.Description</key>
+			<string>Ogniskowa obiektywu w milimetrach (mm)</string>
+			<key>kMDItemFocalLength.ShortName</key>
+			<string>długośćogniskowej</string>
+			<key>kMDItemFonts</key>
+			<string>Czcionki</string>
+			<key>kMDItemFonts.Description</key>
+			<string>Czcionki użyte w tej rzeczy</string>
+			<key>kMDItemFonts.ShortName</key>
+			<string>czcionka</string>
+			<key>kMDItemGenre</key>
+			<string>Gatunek</string>
+			<key>kMDItemGenre.Description</key>
+			<string>Gatunek</string>
+			<key>kMDItemHasAlphaChannel</key>
+			<string>Kanał alfa</string>
+			<key>kMDItemHasAlphaChannel.Description</key>
+			<string>Czy obrazek ma kanał alfa</string>
+			<key>kMDItemHasAlphaChannel.ShortName</key>
+			<string>alfa</string>
+			<key>kMDItemHeadline</key>
+			<string>Nagłówki informacji</string>
+			<key>kMDItemHeadline.Description</key>
+			<string>Opublikowane podsumowania zawartości rzeczy</string>
+			<key>kMDItemHeadline.ShortName</key>
+			<string>nagłówek,tytuł</string>
+			<key>kMDItemISOSpeed</key>
+			<string>Czułość ISO</string>
+			<key>kMDItemISOSpeed.Description</key>
+			<string>Szybkość ISO aparatu podczas zrobienia tego zdjęcia</string>
+			<key>kMDItemISOSpeed.ShortName</key>
+			<string>iso</string>
+			<key>kMDItemIdentifier</key>
+			<string>Identyfikator</string>
+			<key>kMDItemIdentifier.Description</key>
+			<string>Odwołanie do zasobów w danym kontekście</string>
+			<key>kMDItemIdentifier.ShortName</key>
+			<string>id</string>
+			<key>kMDItemInformation</key>
+			<string>Informacje o filmie</string>
+			<key>kMDItemInformation.Description</key>
+			<string>Informacje o filmie</string>
+			<key>kMDItemInstantMessageAddresses</key>
+			<string>Adresy komunikacji błyskawicznej</string>
+			<key>kMDItemInstantMessageAddresses.Description</key>
+			<string>Adresy komunikacji błyskawicznej związane z tą rzeczą</string>
+			<key>kMDItemInstantMessageAddresses.ShortName</key>
+			<string>czat,nazwaim</string>
+			<key>kMDItemInstructions</key>
+			<string>Instrukcje</string>
+			<key>kMDItemInstructions.Description</key>
+			<string>Inne informacje o rzeczy, np. instrukcja obsługi</string>
+			<key>kMDItemInstructions.ShortName</key>
+			<string>instrukcje</string>
+			<key>kMDItemIsApplicationManaged</key>
+			<string>Jest zarządzany przez aplikację</string>
+			<key>kMDItemIsApplicationManaged.Description</key>
+			<string>Ten plik należy do aplikacji i jest przez nią zarządzany</string>
+			<key>kMDItemIsApplicationManaged.ShortName</key>
+			<string>zarządzanyprzezaplikację</string>
+			<key>kMDItemIsGeneralMIDISequence</key>
+			<string>Sekwencja General MIDI</string>
+			<key>kMDItemIsGeneralMIDISequence.Description</key>
+			<string>Czy sekwencja MIDI zawarta w pliku jest konfiguracją urządzenia General MIDI</string>
+			<key>kMDItemIsGeneralMIDISequence.ShortName</key>
+			<string>midi</string>
+			<key>kMDItemIsLikelyJunk</key>
+			<string>Niechciane</string>
+			<key>kMDItemIsLikelyJunk.Description</key>
+			<string>Określa, czy plik zostanie prawdopodobnie uznany za niechciany</string>
+			<key>kMDItemIsLikelyJunk.ShortName</key>
+			<string>niechciane</string>
+			<key>kMDItemKeySignature</key>
+			<string>Sygnatura klucza</string>
+			<key>kMDItemKeySignature.Description</key>
+			<string>Klucz muzyczny utworu w pliku audio</string>
+			<key>kMDItemKeySignature.ShortName</key>
+			<string>klucz,sygnaturaklucza</string>
+			<key>kMDItemKeywords</key>
+			<string>Słowa kluczowe</string>
+			<key>kMDItemKeywords.Description</key>
+			<string>Słowa kluczowe związane z tą rzeczą</string>
+			<key>kMDItemKeywords.ShortName</key>
+			<string>słowokluczowe</string>
+			<key>kMDItemKind</key>
+			<string>Rodzaj</string>
+			<key>kMDItemKind.Description</key>
+			<string>Rodzaj tej rzeczy</string>
+			<key>kMDItemKind.ShortName</key>
+			<string>rodzaj</string>
+			<key>kMDItemLanguages</key>
+			<string>Języki</string>
+			<key>kMDItemLanguages.Description</key>
+			<string>Języki użyte w zawartości dokumentu</string>
+			<key>kMDItemLanguages.ShortName</key>
+			<string>język</string>
+			<key>kMDItemLastUsedDate</key>
+			<string>Ostatnio otwarto</string>
+			<key>kMDItemLastUsedDate.Description</key>
+			<string>Data ostatniego użycia tej rzeczy</string>
+			<key>kMDItemLastUsedDate.ShortName</key>
+			<string>ostatnioużywany,data</string>
+			<key>kMDItemLatitude</key>
+			<string>Szerokość geograficzna</string>
+			<key>kMDItemLatitude.Description</key>
+			<string>Szerokość geograficzna w stopniach na północ od równika wyrażona przy użyciu WGS84. Wartości ujemne oznaczają położenie na południe od równika.</string>
+			<key>kMDItemLatitude.ShortName</key>
+			<string>szerokośćgeograficzna</string>
+			<key>kMDItemLayerNames</key>
+			<string>Warstwy</string>
+			<key>kMDItemLayerNames.Description</key>
+			<string>Nazwy warstw w pliku</string>
+			<key>kMDItemLayerNames.ShortName</key>
+			<string>warstwa</string>
+			<key>kMDItemLensModel</key>
+			<string>Model obiektywu</string>
+			<key>kMDItemLensModel.Description</key>
+			<string>Model obiektywu użytego do uzyskania dokumentu</string>
+			<key>kMDItemLensModel.ShortName</key>
+			<string>obiektyw</string>
+			<key>kMDItemLogicalSize</key>
+			<string>Wielkość logiczna</string>
+			<key>kMDItemLogicalSize.Description</key>
+			<string>Wielkość logiczna rzeczy (w bajtach)</string>
+			<key>kMDItemLongitude</key>
+			<string>Długość geograficzna</string>
+			<key>kMDItemLongitude.Description</key>
+			<string>Długość geograf. w stopniach na wschód od południka zerowego (WGS84). Wartości ujemne oznaczają położenie na zachód od tego południka.</string>
+			<key>kMDItemLongitude.ShortName</key>
+			<string>długośćgeograficzna</string>
+			<key>kMDItemLyricist</key>
+			<string>Tekst utworu</string>
+			<key>kMDItemLyricist.Description</key>
+			<string>Słowa utworu w pliku audio</string>
+			<key>kMDItemLyricist.ShortName</key>
+			<string>wg,tekściarz,autor,tekściarza,autora</string>
+			<key>kMDItemMaxAperture</key>
+			<string>Maksymalna przysłona</string>
+			<key>kMDItemMaxAperture.Description</key>
+			<string>Najmniejsza wartość przysłony obiektywu wyrażona w jednostkach APEX, zwykle w zakresie od 00,00 do 99,99</string>
+			<key>kMDItemMaxAperture.ShortName</key>
+			<string>maksymalnaprzysłona</string>
+			<key>kMDItemMediaTypes</key>
+			<string>Rodzaj materiału</string>
+			<key>kMDItemMediaTypes.Description</key>
+			<string>Rodzaje materiałów obecne w zawartości</string>
+			<key>kMDItemMediaTypes.ShortName</key>
+			<string>nośnik,zawiera,rodzajmateriału</string>
+			<key>kMDItemMeteringMode</key>
+			<string>Tryb pomiaru</string>
+			<key>kMDItemMeteringMode.Description</key>
+			<string>Tryb pomiaru (nieznany, średni, średni ważony, punktowy, wielopunktowy, wzorzec, częściowy)</string>
+			<key>kMDItemMeteringMode.ShortName</key>
+			<string>pomiar,trybpomiaru</string>
+			<key>kMDItemMusicalGenre</key>
+			<string>Gatunek muzyczny</string>
+			<key>kMDItemMusicalGenre.Description</key>
+			<string>Gatunek muzyczny utworu w pliku audio</string>
+			<key>kMDItemMusicalGenre.ShortName</key>
+			<string>gatunek,gatunekmuzyczny,gatunekmuzyki</string>
+			<key>kMDItemMusicalInstrumentCategory</key>
+			<string>Kategoria instrumentu</string>
+			<key>kMDItemMusicalInstrumentCategory.Description</key>
+			<string>Kategoria instrumentu, do której należy plik</string>
+			<key>kMDItemMusicalInstrumentCategory.ShortName</key>
+			<string>instrument,kategoriainstrumentu</string>
+			<key>kMDItemMusicalInstrumentName</key>
+			<string>Nazwa instrumentu</string>
+			<key>kMDItemMusicalInstrumentName.Description</key>
+			<string>Nazwa instrumentu względem kategorii instrumentów</string>
+			<key>kMDItemMusicalInstrumentName.ShortName</key>
+			<string>instrument,nazwainstrumentu</string>
+			<key>kMDItemNamedLocation</key>
+			<string>Lokalizacja</string>
+			<key>kMDItemNamedLocation.Description</key>
+			<string>Nazwa położenia lub punktu POI</string>
+			<key>kMDItemNamedLocation.ShortName</key>
+			<string>lokalizacja</string>
+			<key>kMDItemNumberOfPages</key>
+			<string>Strony</string>
+			<key>kMDItemNumberOfPages.Description</key>
+			<string>Liczba stron w dokumencie</string>
+			<key>kMDItemNumberOfPages.ShortName</key>
+			<string>strony</string>
+			<key>kMDItemOrganizations</key>
+			<string>Organizacje</string>
+			<key>kMDItemOrganizations.Description</key>
+			<string>Organizacje, które utworzyły dokument</string>
+			<key>kMDItemOrganizations.ShortName</key>
+			<string>organizacja</string>
+			<key>kMDItemOrientation</key>
+			<string>Orientacja</string>
+			<key>kMDItemOrientation.Description</key>
+			<string>Orientacja obrazka (poziomo lub pionowo)</string>
+			<key>kMDItemOrientation.ShortName</key>
+			<string>położenie</string>
+			<key>kMDItemOriginalFormat</key>
+			<string>Format oryginalny</string>
+			<key>kMDItemOriginalFormat.Description</key>
+			<string>Format oryginalny</string>
+			<key>kMDItemOriginalSource</key>
+			<string>Źródło oryginalne</string>
+			<key>kMDItemOriginalSource.Description</key>
+			<string>Źródło oryginalne</string>
+			<key>kMDItemPageHeight</key>
+			<string>Wysokość strony</string>
+			<key>kMDItemPageHeight.Description</key>
+			<string>Wysokość strony dokumentu liczona w punktach </string>
+			<key>kMDItemPageHeight.ShortName</key>
+			<string>wysokośćstrony,wysokość</string>
+			<key>kMDItemPageWidth</key>
+			<string>Szerokość strony</string>
+			<key>kMDItemPageWidth.Description</key>
+			<string>Szerokość strony dokumentu liczona w punktach </string>
+			<key>kMDItemPageWidth.ShortName</key>
+			<string>szerokośćstrony,szerokość</string>
+			<key>kMDItemParticipants</key>
+			<string>Uczestnicy</string>
+			<key>kMDItemParticipants.Description</key>
+			<string>Uczestnicy tej rzeczy</string>
+			<key>kMDItemPath</key>
+			<string>Ścieżka dostępu do pliku</string>
+			<key>kMDItemPath.Description</key>
+			<string>Kompletna ścieżka dostępu tej rzeczy</string>
+			<key>kMDItemPath.ShortName</key>
+			<string>ścieżka</string>
+			<key>kMDItemPerformers</key>
+			<string>Odtwórcy</string>
+			<key>kMDItemPerformers.Description</key>
+			<string>Odtwórcy</string>
+			<key>kMDItemPhoneNumbers</key>
+			<string>Numer telefonu</string>
+			<key>kMDItemPhoneNumbers.Description</key>
+			<string>Numery telefonów związane z tą rzeczą</string>
+			<key>kMDItemPhoneNumbers.ShortName</key>
+			<string>telefon,numertelefonu,nrtelefonu</string>
+			<key>kMDItemPhysicalSize</key>
+			<string>Wielkość fizyczna</string>
+			<key>kMDItemPhysicalSize.Description</key>
+			<string>Wielkość fizyczna rzeczy (w bajtach)</string>
+			<key>kMDItemPixelCount</key>
+			<string>Liczba pikseli</string>
+			<key>kMDItemPixelCount.Description</key>
+			<string>Łączna liczba pikseli w dokumencie</string>
+			<key>kMDItemPixelCount.ShortName</key>
+			<string>liczbapikseli</string>
+			<key>kMDItemPixelHeight</key>
+			<string>Wysokość w pikselach</string>
+			<key>kMDItemPixelHeight.Description</key>
+			<string>Wysokość strony dokumentu liczona w pikselach </string>
+			<key>kMDItemPixelHeight.ShortName</key>
+			<string>wysokośćwpikselach,wysokość</string>
+			<key>kMDItemPixelWidth</key>
+			<string>Szerokość w pikselach</string>
+			<key>kMDItemPixelWidth.Description</key>
+			<string>Szerokość strony dokumentu liczona w pikselach </string>
+			<key>kMDItemPixelWidth.ShortName</key>
+			<string>szerokośćwpikselach,szerokość</string>
+			<key>kMDItemProducer</key>
+			<string>Producent</string>
+			<key>kMDItemProducer.Description</key>
+			<string>Osoba, która utworzyła tę rzecz</string>
+			<key>kMDItemProducer.ShortName</key>
+			<string>producent</string>
+			<key>kMDItemProfileName</key>
+			<string>Profil kolorów</string>
+			<key>kMDItemProfileName.Description</key>
+			<string>Nazwa profilu kolorów użytego w obrazku</string>
+			<key>kMDItemProfileName.ShortName</key>
+			<string>profil</string>
+			<key>kMDItemProject.ShortName</key>
+			<string>projekt</string>
+			<key>kMDItemProjects</key>
+			<string>Projekt</string>
+			<key>kMDItemProjects.Description</key>
+			<string>Projekty, których częścią są te rzeczy</string>
+			<key>kMDItemPublishers</key>
+			<string>Wydawcy</string>
+			<key>kMDItemPublishers.Description</key>
+			<string>Wydawca dokumentu</string>
+			<key>kMDItemPublishers.ShortName</key>
+			<string>wydawca</string>
+			<key>kMDItemPurchaseDate</key>
+			<string>Data zakupu</string>
+			<key>kMDItemPurchaseDate.Description</key>
+			<string>Data zakupu tej rzeczy</string>
+			<key>kMDItemPurchaseDate.ShortName</key>
+			<string>purchasedate</string>
+			<key>kMDItemRecipientAddresses</key>
+			<string>Adresy odbiorców</string>
+			<key>kMDItemRecipientAddresses.Description</key>
+			<string>Adresy odbiorców tej rzeczy</string>
+			<key>kMDItemRecipientAddresses.ShortName</key>
+			<string>do</string>
+			<key>kMDItemRecipientEmailAddresses</key>
+			<string>Adresy email odbiorców</string>
+			<key>kMDItemRecipientEmailAddresses.Description</key>
+			<string>Adresy email odbiorców tej rzeczy</string>
+			<key>kMDItemRecipientEmailAddresses.ShortName</key>
+			<string>do,email,mail,poczta</string>
+			<key>kMDItemRecipients</key>
+			<string>Odbiorcy</string>
+			<key>kMDItemRecipients.Description</key>
+			<string>Odbiorcy tej rzeczy</string>
+			<key>kMDItemRecipients.ShortName</key>
+			<string>do,odbiorca,z</string>
+			<key>kMDItemRecordingDate</key>
+			<string>Data nagrania</string>
+			<key>kMDItemRecordingDate.Description</key>
+			<string>Data nagrania utworu</string>
+			<key>kMDItemRecordingDate.ShortName</key>
+			<string>datanagrania,data</string>
+			<key>kMDItemRecordingYear</key>
+			<string>Rok nagrania</string>
+			<key>kMDItemRecordingYear.Description</key>
+			<string>Rok nagrania utworu</string>
+			<key>kMDItemRecordingYear.ShortName</key>
+			<string>roknagrania,rok</string>
+			<key>kMDItemRedEyeOnOff</key>
+			<string>Czerwone oczy</string>
+			<key>kMDItemRedEyeOnOff.Description</key>
+			<string>Czy redukcja efektu „czerwonych oczu” była włączona</string>
+			<key>kMDItemRedEyeOnOff.ShortName</key>
+			<string>czerwoneoczy</string>
+			<key>kMDItemResolutionHeightDPI</key>
+			<string>Rozdzielczość pionowa</string>
+			<key>kMDItemResolutionHeightDPI.Description</key>
+			<string>Rozdzielczość pionowa tego obrazka liczona w dpi</string>
+			<key>kMDItemResolutionHeightDPI.ShortName</key>
+			<string>rozdzielczośćpionowa,dpi</string>
+			<key>kMDItemResolutionWidthDPI</key>
+			<string>Rozdzielczość pozioma</string>
+			<key>kMDItemResolutionWidthDPI.Description</key>
+			<string>Rozdzielczość pozioma tego obrazka liczona w dpi</string>
+			<key>kMDItemResolutionWidthDPI.ShortName</key>
+			<string>rozdzielczośćpozioma,dpi</string>
+			<key>kMDItemRights</key>
+			<string>Prawa</string>
+			<key>kMDItemRights.Description</key>
+			<string>Odnośnik do informacji o posiadanych prawach do dokumentu</string>
+			<key>kMDItemRights.ShortName</key>
+			<string>prawa</string>
+			<key>kMDItemSecurityMethod</key>
+			<string>Zabezpieczenia</string>
+			<key>kMDItemSecurityMethod.Description</key>
+			<string>Metoda szyfrowania użyta do zabezpieczenia dokumentu</string>
+			<key>kMDItemSecurityMethod.ShortName</key>
+			<string>ochrona,metodaochrony</string>
+			<key>kMDItemStarRating</key>
+			<string>Ocena</string>
+			<key>kMDItemStarRating.Description</key>
+			<string>Ocena użytkownika</string>
+			<key>kMDItemStarRating.ShortName</key>
+			<string>ocena</string>
+			<key>kMDItemStartDate</key>
+			<string>Data początkowa</string>
+			<key>kMDItemStartDate.Description</key>
+			<string>Data początkowa tej rzeczy</string>
+			<key>kMDItemStartDate.ShortName</key>
+			<string>datapoczątkowa,data</string>
+			<key>kMDItemStateOrProvince</key>
+			<string>Województwo</string>
+			<key>kMDItemStateOrProvince.Description</key>
+			<string>Województwo (lub inna jednostka administracyjna) tej rzeczy według dostawcy</string>
+			<key>kMDItemStateOrProvince.ShortName</key>
+			<string>stan,prowincja,województwo</string>
+			<key>kMDItemStreamable</key>
+			<string>Przygotowane do przekazu strumieniowego</string>
+			<key>kMDItemStreamable.Description</key>
+			<string>Czy zawartość została przygotowana do przekazu strumieniowego</string>
+			<key>kMDItemStreamable.ShortName</key>
+			<string>strumień</string>
+			<key>kMDItemSubject</key>
+			<string>Temat</string>
+			<key>kMDItemSubject.Description</key>
+			<string>Temat tej rzeczy</string>
+			<key>kMDItemSubject.ShortName</key>
+			<string>temat,tytuł,nazwa</string>
+			<key>kMDItemTempo</key>
+			<string>Tempo</string>
+			<key>kMDItemTempo.Description</key>
+			<string>Tempo muzyki w pliku audio w uderzeniach na minutę</string>
+			<key>kMDItemTempo.ShortName</key>
+			<string>tempo</string>
+			<key>kMDItemTextContent</key>
+			<string>Zawartość tekstowa</string>
+			<key>kMDItemTextContent.Description</key>
+			<string>Zawartość tekstowa tej rzeczy</string>
+			<key>kMDItemTextContent.ShortName</key>
+			<string>zawartość,zawiera,wtekście</string>
+			<key>kMDItemTheme</key>
+			<string>Motyw</string>
+			<key>kMDItemTheme.Description</key>
+			<string>Motyw tej rzeczy</string>
+			<key>kMDItemTheme.ShortName</key>
+			<string>motyw</string>
+			<key>kMDItemTimeSignature</key>
+			<string>Metrum utworu</string>
+			<key>kMDItemTimeSignature.Description</key>
+			<string>Metrum utworu w pliku audio lub MIDI</string>
+			<key>kMDItemTimeSignature.ShortDisplayName</key>
+			<string>Sygnatura czasowa</string>
+			<key>kMDItemTimeSignature.ShortName</key>
+			<string>metrumutworu</string>
+			<key>kMDItemTitle</key>
+			<string>Tytuł</string>
+			<key>kMDItemTitle.Description</key>
+			<string>Tytuł tej rzeczy</string>
+			<key>kMDItemTitle.ShortName</key>
+			<string>tytuł</string>
+			<key>kMDItemTotalBitRate</key>
+			<string>Szybkość transmisji</string>
+			<key>kMDItemTotalBitRate.Description</key>
+			<string>Połączona szybkość transmisji audio i wideo materiału</string>
+			<key>kMDItemTotalBitRate.ShortName</key>
+			<string>łącznaszybkośćtransmisji,szybkośćtransmisji</string>
+			<key>kMDItemURL</key>
+			<string>URL</string>
+			<key>kMDItemURL.Description</key>
+			<string>URL tej rzeczy</string>
+			<key>kMDItemURL.ShortName</key>
+			<string>url</string>
+			<key>kMDItemUsedDates</key>
+			<string>Daty użycia</string>
+			<key>kMDItemUsedDates.Description</key>
+			<string>Daty użycia tej rzeczy</string>
+			<key>kMDItemUsedDates.ShortName</key>
+			<string>używane,data</string>
+			<key>kMDItemUserTags</key>
+			<string>Tagi</string>
+			<key>kMDItemUserTags.Description</key>
+			<string>Tagi powiązane z tą rzeczą</string>
+			<key>kMDItemUserTags.ShortName</key>
+			<string>tag</string>
+			<key>kMDItemVersion</key>
+			<string>Wersja</string>
+			<key>kMDItemVersion.Description</key>
+			<string>Numer wersji tej rzeczy</string>
+			<key>kMDItemVersion.ShortName</key>
+			<string>wersja</string>
+			<key>kMDItemVideoBitRate</key>
+			<string>Szybkość transmisji wideo</string>
+			<key>kMDItemVideoBitRate.Description</key>
+			<string>Szybkość transmisji bitów materiału wideo</string>
+			<key>kMDItemVideoBitRate.ShortName</key>
+			<string>szybkośćtransmisjiwideo,szybkośćtransmisji</string>
+			<key>kMDItemWhereFroms</key>
+			<string>Skąd</string>
+			<key>kMDItemWhereFroms.Description</key>
+			<string>Skąd ta rzecz pochodzi</string>
+			<key>kMDItemWhereFroms.ShortName</key>
+			<string>źródło,skąd</string>
+			<key>kMDItemWhiteBalance</key>
+			<string>Wyrównanie bieli</string>
+			<key>kMDItemWhiteBalance.Description</key>
+			<string>Ustawienia wyrównania bieli aparatu podczas robienia tego zdjęcia</string>
+			<key>kMDItemWhiteBalance.ShortName</key>
+			<string>wyrównaniebieli</string>
+		</dict>
+		<key>pt</key>
+		<dict>
+			<key>_kMDItemLabels.ShortName</key>
+			<string>rótulo,label</string>
+			<key>_kMDItemPathDisplayNames.ShortName</key>
+			<string>em,abrangência,in,scope</string>
+			<key>kMDItemAcquisitionMake</key>
+			<string>Marca do dispositivo</string>
+			<key>kMDItemAcquisitionMake.Description</key>
+			<string>Marca do dispositivo usado para obter este documento</string>
+			<key>kMDItemAcquisitionMake.ShortName</key>
+			<string>marca,make</string>
+			<key>kMDItemAcquisitionModel</key>
+			<string>Modelo do dispositivo</string>
+			<key>kMDItemAcquisitionModel.Description</key>
+			<string>Modelo do dispositivo usado para obter este documento</string>
+			<key>kMDItemAcquisitionModel.ShortName</key>
+			<string>modelo,model</string>
+			<key>kMDItemAlbum</key>
+			<string>Álbum</string>
+			<key>kMDItemAlbum.Description</key>
+			<string>Título de uma coleção de mídia, tal como um álbum de música</string>
+			<key>kMDItemAlbum.ShortName</key>
+			<string>álbum,título,album,title</string>
+			<key>kMDItemAlternateNames</key>
+			<string>Alternar nomes de exibição</string>
+			<key>kMDItemAlternateNames.Description</key>
+			<string>Alternar nomes do arquivo</string>
+			<key>kMDItemAltitude</key>
+			<string>Altitude</string>
+			<key>kMDItemAltitude.Description</key>
+			<string>A altitude do item em metros acima do nível do mar, expressa usando o dado WGS84. Valores negativos ficam abaixo do nível do mar.</string>
+			<key>kMDItemAltitude.ShortName</key>
+			<string>altitude,altitude</string>
+			<key>kMDItemAperture</key>
+			<string>Valor da abertura</string>
+			<key>kMDItemAperture.Description</key>
+			<string>Tamanho da abertura da lente em valor APEX de escala logarítmica</string>
+			<key>kMDItemAperture.ShortName</key>
+			<string>abertura,fparada,fstop,aperture</string>
+			<key>kMDItemAppStoreCategory</key>
+			<string>Categoria</string>
+			<key>kMDItemAppStoreCategory.Description</key>
+			<string>Categoria da App Store à qual o item pertence</string>
+			<key>kMDItemAppStoreCategory.ShortName</key>
+			<string>category,categoria</string>
+			<key>kMDItemAppleLoopDescriptors</key>
+			<string>Os descritores do loop</string>
+			<key>kMDItemAppleLoopDescriptors.Description</key>
+			<string>As palavras-chave que descrevem a ambiência e outros aspectos do loop</string>
+			<key>kMDItemAppleLoopsKeyFilterType</key>
+			<string>O tipo de escala do loop</string>
+			<key>kMDItemAppleLoopsKeyFilterType.Description</key>
+			<string>Se o loop utiliza ou não a escala maior ou menor, se não utiliza nenhuma escala ou se pode ser usado com ambas as escalas</string>
+			<key>kMDItemAppleLoopsLoopMode</key>
+			<string>O tipo de arquivo do loop</string>
+			<key>kMDItemAppleLoopsLoopMode.Description</key>
+			<string>Se o arquivo é ou não um arquivo de loop. Os arquivos de loop ajustam o seu tempo ao tempo da música, enquanto os arquivos que não são de loop mantêm o seu tempo de gravação</string>
+			<key>kMDItemAppleLoopsRootKey</key>
+			<string>A clave original do loop</string>
+			<key>kMDItemAppleLoopsRootKey.Description</key>
+			<string>Mostra a clave original do loop. A clave é a nota básica ou a tônica do loop e não inclui o tipo de escala</string>
+			<key>kMDItemApplicationCategories</key>
+			<string>Categorias de Aplicativos</string>
+			<key>kMDItemApplicationCategories.Description</key>
+			<string>Categorias das quais o aplicativo faz parte</string>
+			<key>kMDItemApplicationCategories.ShortName</key>
+			<string>categories,categorias</string>
+			<key>kMDItemAudiences</key>
+			<string>Público</string>
+			<key>kMDItemAudiences.Description</key>
+			<string>A quem o documento está dirigido</string>
+			<key>kMDItemAudiences.ShortName</key>
+			<string>para,público,audiência,to,audience</string>
+			<key>kMDItemAudioBitRate</key>
+			<string>Taxa de bits de áudio</string>
+			<key>kMDItemAudioBitRate.Description</key>
+			<string>Taxa de bits do áudio na mídia</string>
+			<key>kMDItemAudioBitRate.ShortDisplayName</key>
+			<string>Taxa de Bits</string>
+			<key>kMDItemAudioBitRate.ShortName</key>
+			<string>taxadebitsautomática,taxadebits,audiobitrate,bitrate</string>
+			<key>kMDItemAudioChannelCount</key>
+			<string>Canais de áudio</string>
+			<key>kMDItemAudioChannelCount.Description</key>
+			<string>Número de canais nos dados de áudio do arquivo</string>
+			<key>kMDItemAudioChannelCount.ShortName</key>
+			<string>canais,channels</string>
+			<key>kMDItemAudioEncodingApplication</key>
+			<string>Aplicativo de codificação de áudio</string>
+			<key>kMDItemAudioEncodingApplication.Description</key>
+			<string>Nome do aplicativo que codificou os dados no arquivo de áudio</string>
+			<key>kMDItemAudioEncodingApplication.ShortDisplayName</key>
+			<string>Codificado por</string>
+			<key>kMDItemAudioEncodingApplication.ShortName</key>
+			<string>codificador,codificadopor,aplicativodecodificaçãodeáudio,encoder,encodedby,audioencodingapplication</string>
+			<key>kMDItemAudioSampleRate</key>
+			<string>Taxa de amostragem</string>
+			<key>kMDItemAudioSampleRate.Description</key>
+			<string>Taxa de amostragem dos dados de áudio do arquivo</string>
+			<key>kMDItemAudioSampleRate.ShortDisplayName</key>
+			<string>Taxa de Amostragem</string>
+			<key>kMDItemAudioSampleRate.ShortName</key>
+			<string>taxadeamostragemdeáudio,taxadeamostragem,audiosamplerate,samplerate</string>
+			<key>kMDItemAudioTrackNumber</key>
+			<string>Número de faixa</string>
+			<key>kMDItemAudioTrackNumber.Description</key>
+			<string>Número de faixa da música que é parte de um álbum</string>
+			<key>kMDItemAudioTrackNumber.ShortName</key>
+			<string>númerodefaixa,tracknumber</string>
+			<key>kMDItemAuthorAddresses</key>
+			<string>Endereços do Autor</string>
+			<key>kMDItemAuthorAddresses.Description</key>
+			<string>Endereços dos autores deste item</string>
+			<key>kMDItemAuthorAddresses.ShortName</key>
+			<string>de,from</string>
+			<key>kMDItemAuthorEmailAddresses</key>
+			<string>Endereços de e-mail do Autor</string>
+			<key>kMDItemAuthorEmailAddresses.Description</key>
+			<string>Endereços de e-mail dos autores deste item</string>
+			<key>kMDItemAuthorEmailAddresses.ShortName</key>
+			<string>de,email,mail,from,email,mail</string>
+			<key>kMDItemAuthors</key>
+			<string>Autores</string>
+			<key>kMDItemAuthors.Description</key>
+			<string>Autores deste item</string>
+			<key>kMDItemAuthors.ShortName</key>
+			<string>de,autor,com,por,from,author,with,by</string>
+			<key>kMDItemBitsPerSample</key>
+			<string>Bits por amostra</string>
+			<key>kMDItemBitsPerSample.Description</key>
+			<string>Número de bits por amostra</string>
+			<key>kMDItemBitsPerSample.ShortName</key>
+			<string>bitsporamostragem,bitspersample,bps</string>
+			<key>kMDItemCity</key>
+			<string>Cidade</string>
+			<key>kMDItemCity.Description</key>
+			<string>Cidade do item</string>
+			<key>kMDItemCity.ShortName</key>
+			<string>cidade,city</string>
+			<key>kMDItemCodecs</key>
+			<string>Codecs</string>
+			<key>kMDItemCodecs.Description</key>
+			<string>Codecs usados para codificar e decodificar a mídia</string>
+			<key>kMDItemCodecs.ShortName</key>
+			<string>codificador,codec</string>
+			<key>kMDItemColorSpace</key>
+			<string>Espaço de cores</string>
+			<key>kMDItemColorSpace.Description</key>
+			<string>Modelo do espaço de cores desta imagem</string>
+			<key>kMDItemColorSpace.ShortName</key>
+			<string>espaçodecor,colorspace</string>
+			<key>kMDItemComment</key>
+			<string>Comentário</string>
+			<key>kMDItemComment.Description</key>
+			<string>Comentários sobre este item</string>
+			<key>kMDItemComment.ShortName</key>
+			<string>comentário,comment</string>
+			<key>kMDItemComposer</key>
+			<string>Compositor</string>
+			<key>kMDItemComposer.Description</key>
+			<string>Compositor da música do arquivo de áudio</string>
+			<key>kMDItemComposer.ShortName</key>
+			<string>por,compositor,autor,by,composer,author</string>
+			<key>kMDItemContactKeywords</key>
+			<string>Palavras-chave de contato</string>
+			<key>kMDItemContactKeywords.Description</key>
+			<string>Contatos associados com este item</string>
+			<key>kMDItemContactKeywords.ShortName</key>
+			<string>contato,palavrachavedocontato,palavrachave,contact,contactkeyword,keyword</string>
+			<key>kMDItemContentCreationDate</key>
+			<string>Conteúdo criado em</string>
+			<key>kMDItemContentCreationDate.Description</key>
+			<string>Data de criação do conteúdo deste item</string>
+			<key>kMDItemContentCreationDate.ShortName</key>
+			<string>conteúdocriado,criado,data,contentcreated,created,date</string>
+			<key>kMDItemContentModificationDate</key>
+			<string>Conteúdo modificado em</string>
+			<key>kMDItemContentModificationDate.Description</key>
+			<string>Data em que o conteúdo deste item foi modificado</string>
+			<key>kMDItemContentModificationDate.ShortName</key>
+			<string>conteúdomodificado,modificado,data,contentmodified,modified,date</string>
+			<key>kMDItemContributors</key>
+			<string>Colaboradores</string>
+			<key>kMDItemContributors.Description</key>
+			<string>Pessoas ou empresas que colaboram no conteúdo do documento</string>
+			<key>kMDItemContributors.ShortName</key>
+			<string>por,colaborador,autor,com,by,contributor,author,with</string>
+			<key>kMDItemCopyright</key>
+			<string>Copyright</string>
+			<key>kMDItemCopyright.Description</key>
+			<string>Informação de direitos autorais deste item</string>
+			<key>kMDItemCopyright.ShortName</key>
+			<string>direitosautorais,copyright</string>
+			<key>kMDItemCountry</key>
+			<string>Região</string>
+			<key>kMDItemCountry.Description</key>
+			<string>País, região ou localização de criação do item de acordo com o provedor</string>
+			<key>kMDItemCountry.ShortName</key>
+			<string>país,região</string>
+			<key>kMDItemCoverage</key>
+			<string>Cobertura</string>
+			<key>kMDItemCoverage.Description</key>
+			<string>Área de alcance ou abrangência do conteúdo do documento</string>
+			<key>kMDItemCoverage.ShortName</key>
+			<string>cobertura,coverage</string>
+			<key>kMDItemCreator</key>
+			<string>Criador de Conteúdo</string>
+			<key>kMDItemCreator.Description</key>
+			<string>Aplicativo usado para criar o documento</string>
+			<key>kMDItemCreator.ShortName</key>
+			<string>criador,creator</string>
+			<key>kMDItemDateAdded</key>
+			<string>Data da adição</string>
+			<key>kMDItemDateAdded.Description</key>
+			<string>Data em que este item foi movido pela última vez</string>
+			<key>kMDItemDateAdded.ShortName</key>
+			<string>datadeadição,adicionado,data,dateadded,added,date</string>
+			<key>kMDItemDeliveryType</key>
+			<string>Tipo de entrega</string>
+			<key>kMDItemDeliveryType.Description</key>
+			<string>Método usado para distribuir a mídia (Início Rápido ou RTSP)</string>
+			<key>kMDItemDeliveryType.ShortName</key>
+			<string>envio,entrega,delivery</string>
+			<key>kMDItemDescription</key>
+			<string>Descrição</string>
+			<key>kMDItemDescription.Description</key>
+			<string>Descrição do conteúdo do documento</string>
+			<key>kMDItemDescription.ShortName</key>
+			<string>descrição,comentário,description,comment</string>
+			<key>kMDItemDirector</key>
+			<string>Diretor</string>
+			<key>kMDItemDirector.Description</key>
+			<string>Diretor</string>
+			<key>kMDItemDisplayName</key>
+			<string>Nome do monitor</string>
+			<key>kMDItemDisplayName.Description</key>
+			<string>Nome localizado do arquivo</string>
+			<key>kMDItemDisplayName.ShortName</key>
+			<string>nome,exibirnome,name,displayname</string>
+			<key>kMDItemDocumentContainer</key>
+			<string>Contêiner de Documento</string>
+			<key>kMDItemDocumentContainer.Description</key>
+			<string>Pasta que contém o item</string>
+			<key>kMDItemDocumentContainer.ShortName</key>
+			<string>contêiner,container</string>
+			<key>kMDItemDueDate</key>
+			<string>Data limite</string>
+			<key>kMDItemDueDate.Description</key>
+			<string>Data limite deste item</string>
+			<key>kMDItemDueDate.ShortName</key>
+			<string>datalimite,data,duedate,date</string>
+			<key>kMDItemDurationSeconds</key>
+			<string>Duração</string>
+			<key>kMDItemDurationSeconds.Description</key>
+			<string>A duração deste item em segundos</string>
+			<key>kMDItemDurationSeconds.ShortName</key>
+			<string>duração,tempo,duration,time</string>
+			<key>kMDItemEXIFGPSVersion</key>
+			<string>Versão EXIF GPS</string>
+			<key>kMDItemEXIFGPSVersion.Description</key>
+			<string>A versão de GPSInfoIFD em EXIF usada para gerar os metadados</string>
+			<key>kMDItemEXIFVersion</key>
+			<string>Versão EXIF</string>
+			<key>kMDItemEXIFVersion.Description</key>
+			<string>Versão do EXIF usado para gerar os metadados</string>
+			<key>kMDItemEXIFVersion.ShortName</key>
+			<string>versãoexi,exifversion</string>
+			<key>kMDItemEditors</key>
+			<string>Editores</string>
+			<key>kMDItemEditors.Description</key>
+			<string>Editores deste item</string>
+			<key>kMDItemEditors.ShortName</key>
+			<string>editor,editor</string>
+			<key>kMDItemEmailAddresses</key>
+			<string>Endereços de e-mail</string>
+			<key>kMDItemEmailAddresses.Description</key>
+			<string>Endereços de e-mail associados com este item</string>
+			<key>kMDItemEmailAddresses.ShortName</key>
+			<string>email,mail,correioeletrônico,email,mail</string>
+			<key>kMDItemEncodingApplications</key>
+			<string>Software de codificação</string>
+			<key>kMDItemEncodingApplications.Description</key>
+			<string>Software usado para converter o conteúdo original</string>
+			<key>kMDItemEncodingApplications.ShortDisplayName</key>
+			<string>Codificado por</string>
+			<key>kMDItemEncodingApplications.ShortName</key>
+			<string>codificador,codificadopor,aplicativodecodificação,encoder,encodedby,encodingapplication</string>
+			<key>kMDItemEndDate</key>
+			<string>Data final</string>
+			<key>kMDItemEndDate.Description</key>
+			<string>Data final deste item</string>
+			<key>kMDItemEndDate.ShortName</key>
+			<string>datafinal,data,enddate,date</string>
+			<key>kMDItemExecutableArchitectures</key>
+			<string>Arquiteturas Executáveis</string>
+			<key>kMDItemExecutableArchitectures.Description</key>
+			<string>Arquiteturas que o item exige para executar</string>
+			<key>kMDItemExecutableArchitectures.ShortName</key>
+			<string>arquiteturas,architectures</string>
+			<key>kMDItemExecutablePlatform</key>
+			<string>Plataforma Executável</string>
+			<key>kMDItemExecutablePlatform.Description</key>
+			<string>A plataforma que o item exige para executar</string>
+			<key>kMDItemExecutablePlatform.ShortName</key>
+			<string>plataforma,platform</string>
+			<key>kMDItemExposureMode</key>
+			<string>Modo de exposição</string>
+			<key>kMDItemExposureMode.Description</key>
+			<string>Modo usado para a exposição</string>
+			<key>kMDItemExposureMode.ShortName</key>
+			<string>mododeexposição,exposuremode</string>
+			<key>kMDItemExposureProgram</key>
+			<string>Programa de exposição</string>
+			<key>kMDItemExposureProgram.Description</key>
+			<string>Tipo de programa usado pela câmera para definir a exposição: Manual, Normal, Prioridade de abertura, etc.</string>
+			<key>kMDItemExposureProgram.ShortName</key>
+			<string>exposição,programadeexposição,exposure,exposureprogram</string>
+			<key>kMDItemExposureTimeSeconds</key>
+			<string>Tempo de exposição</string>
+			<key>kMDItemExposureTimeSeconds.Description</key>
+			<string>Tempo de abertura da lente durante a exposição</string>
+			<key>kMDItemExposureTimeSeconds.ShortName</key>
+			<string>tempodeexposição,tempo,exposuretime,time</string>
+			<key>kMDItemExposureTimeString</key>
+			<string>Tempo de exposição</string>
+			<key>kMDItemExposureTimeString.Description</key>
+			<string>Tempo de exposição</string>
+			<key>kMDItemExposureTimeString.ShortName</key>
+			<string>tempodeexposição,tempo,exposuretime,time</string>
+			<key>kMDItemFNumber</key>
+			<string>Número F</string>
+			<key>kMDItemFNumber.Description</key>
+			<string>Distância focal da lente dividida pelo diâmetro da abertura</string>
+			<key>kMDItemFNumber.ShortName</key>
+			<string>fnúmero,fparada,fnumber,fstop</string>
+			<key>kMDItemFSContentChangeDate</key>
+			<string>Modificado em</string>
+			<key>kMDItemFSContentChangeDate.Description</key>
+			<string>Data da última modificação do conteúdo do arquivo</string>
+			<key>kMDItemFSContentChangeDate.ShortName</key>
+			<string>modificadoem,modified</string>
+			<key>kMDItemFSCreationDate</key>
+			<string>Criado em</string>
+			<key>kMDItemFSCreationDate.Description</key>
+			<string>Data de criação do arquivo</string>
+			<key>kMDItemFSCreationDate.ShortName</key>
+			<string>criado,criadoem,created</string>
+			<key>kMDItemFSHasCustomIcon</key>
+			<string>Ícone Personalizado</string>
+			<key>kMDItemFSHasCustomIcon.Description</key>
+			<string>Se o arquivo tem um ícone personalizado</string>
+			<key>kMDItemFSInvisible</key>
+			<string>Arquivo invisível</string>
+			<key>kMDItemFSInvisible.Description</key>
+			<string>Se o arquivo é visível</string>
+			<key>kMDItemFSInvisible.ShortName</key>
+			<string>invisível,invisible</string>
+			<key>kMDItemFSIsExtensionHidden</key>
+			<string>Extensão do arquivo oculta</string>
+			<key>kMDItemFSIsExtensionHidden.Description</key>
+			<string>Se a extensão do arquivo está oculta</string>
+			<key>kMDItemFSIsStationery</key>
+			<string>Modelo</string>
+			<key>kMDItemFSIsStationery.Description</key>
+			<string>Se o arquivo é modelo</string>
+			<key>kMDItemFSIsStationery.ShortName</key>
+			<string>modelo,stationery</string>
+			<key>kMDItemFSLabel</key>
+			<string>Rótulo do arquivo</string>
+			<key>kMDItemFSLabel.Description</key>
+			<string>Rótulo do Finder atribuído ao arquivo</string>
+			<key>kMDItemFSName</key>
+			<string>Nome do arquivo</string>
+			<key>kMDItemFSName.Description</key>
+			<string>Nome do arquivo</string>
+			<key>kMDItemFSName.ShortName</key>
+			<string>nomedoarquivo,filename</string>
+			<key>kMDItemFSNodeCount</key>
+			<string>Número de itens</string>
+			<key>kMDItemFSNodeCount.Description</key>
+			<string>Número de arquivos e pastas dentro da pasta</string>
+			<key>kMDItemFSOwnerGroupID</key>
+			<string>Grupo</string>
+			<key>kMDItemFSOwnerGroupID.Description</key>
+			<string>ID de Grupo do proprietário do arquivo</string>
+			<key>kMDItemFSOwnerGroupID.ShortName</key>
+			<string>grupo,group</string>
+			<key>kMDItemFSOwnerUserID</key>
+			<string>Proprietário</string>
+			<key>kMDItemFSOwnerUserID.Description</key>
+			<string>ID de Usuário do proprietário do arquivo</string>
+			<key>kMDItemFSOwnerUserID.ShortName</key>
+			<string>proprietário,owner</string>
+			<key>kMDItemFSSize</key>
+			<string>Tamanho do arquivo</string>
+			<key>kMDItemFSSize.Description</key>
+			<string>Tamanho lógico do arquivo no disco em bytes</string>
+			<key>kMDItemFSSize.ShortName</key>
+			<string>tamanho,size</string>
+			<key>kMDItemFinderComment</key>
+			<string>Comentário do Spotlight</string>
+			<key>kMDItemFinderComment.Description</key>
+			<string>Comentário do Spotlight para este item</string>
+			<key>kMDItemFinderComment.ShortName</key>
+			<string>comentário,comentáriodospotlight,comment,spotlightcomment</string>
+			<key>kMDItemFlashOnOff</key>
+			<string>Flash</string>
+			<key>kMDItemFlashOnOff.Description</key>
+			<string>Se a foto foi tirada usando flash</string>
+			<key>kMDItemFlashOnOff.ShortName</key>
+			<string>flash,flash</string>
+			<key>kMDItemFocalLength</key>
+			<string>Distância focal</string>
+			<key>kMDItemFocalLength.Description</key>
+			<string>Distância focal da lente em milímetros (mm)</string>
+			<key>kMDItemFocalLength.ShortName</key>
+			<string>distânciafocal,focallength</string>
+			<key>kMDItemFonts</key>
+			<string>Fontes</string>
+			<key>kMDItemFonts.Description</key>
+			<string>Fontes usadas neste item</string>
+			<key>kMDItemFonts.ShortName</key>
+			<string>fonte,font</string>
+			<key>kMDItemGenre</key>
+			<string>Gênero</string>
+			<key>kMDItemGenre.Description</key>
+			<string>Gênero</string>
+			<key>kMDItemHasAlphaChannel</key>
+			<string>Canal alfa</string>
+			<key>kMDItemHasAlphaChannel.Description</key>
+			<string>Se a imagem possui um canal alfa</string>
+			<key>kMDItemHasAlphaChannel.ShortName</key>
+			<string>alfa,alpha</string>
+			<key>kMDItemHeadline</key>
+			<string>Título</string>
+			<key>kMDItemHeadline.Description</key>
+			<string>Resumo publicável do conteúdo do item</string>
+			<key>kMDItemHeadline.ShortName</key>
+			<string>manchete,título,headline,title</string>
+			<key>kMDItemISOSpeed</key>
+			<string>Velocidade ISO</string>
+			<key>kMDItemISOSpeed.Description</key>
+			<string>Velocidade ISO da câmera quando a foto foi tirada</string>
+			<key>kMDItemISOSpeed.ShortName</key>
+			<string>iso</string>
+			<key>kMDItemIdentifier</key>
+			<string>Identificador</string>
+			<key>kMDItemIdentifier.Description</key>
+			<string>Referência a um recurso dentro de um determinado contexto</string>
+			<key>kMDItemIdentifier.ShortName</key>
+			<string>identificação,id</string>
+			<key>kMDItemInformation</key>
+			<string>Informação do filme</string>
+			<key>kMDItemInformation.Description</key>
+			<string>Informação do filme</string>
+			<key>kMDItemInstantMessageAddresses</key>
+			<string>Endereços de mensagens instantâneas</string>
+			<key>kMDItemInstantMessageAddresses.Description</key>
+			<string>Endereços de mensagens instantâneas associados a este item</string>
+			<key>kMDItemInstantMessageAddresses.ShortName</key>
+			<string>batepapo,nomedemensagensinstantâneas,nomemi,chat,imname</string>
+			<key>kMDItemInstructions</key>
+			<string>Instruções</string>
+			<key>kMDItemInstructions.Description</key>
+			<string>Outras informações referentes ao item, como instruções de controle</string>
+			<key>kMDItemInstructions.ShortName</key>
+			<string>instruções,instructions</string>
+			<key>kMDItemIsApplicationManaged</key>
+			<string>É Gerenciado por Aplicativo</string>
+			<key>kMDItemIsApplicationManaged.Description</key>
+			<string>O arquivo é de propriedade e gerenciado por um aplicativo</string>
+			<key>kMDItemIsApplicationManaged.ShortName</key>
+			<string>gerenciadopeloapp,gerenciadopeloapp,appmanaged</string>
+			<key>kMDItemIsGeneralMIDISequence</key>
+			<string>Sequência MIDI Geral</string>
+			<key>kMDItemIsGeneralMIDISequence.Description</key>
+			<string>Se a sequência MIDI contida no arquivo está configurada para ser usada com um dispositivo MIDI Geral</string>
+			<key>kMDItemIsGeneralMIDISequence.ShortName</key>
+			<string>émidi,ismidi</string>
+			<key>kMDItemIsLikelyJunk</key>
+			<string>É Spam</string>
+			<key>kMDItemIsLikelyJunk.Description</key>
+			<string>A probabilidade do arquivo ser considerado spam</string>
+			<key>kMDItemIsLikelyJunk.ShortName</key>
+			<string>éspam,isjunk</string>
+			<key>kMDItemKeySignature</key>
+			<string>Sinal do tom</string>
+			<key>kMDItemKeySignature.Description</key>
+			<string>Tom da música do arquivo de áudio</string>
+			<key>kMDItemKeySignature.ShortName</key>
+			<string>chave,assinaturadechave,key,keysignature</string>
+			<key>kMDItemKeywords</key>
+			<string>Palavras-chave</string>
+			<key>kMDItemKeywords.Description</key>
+			<string>Palavras-chave associadas a este item</string>
+			<key>kMDItemKeywords.ShortName</key>
+			<string>palavrachave,keyword</string>
+			<key>kMDItemKind</key>
+			<string>Tipo</string>
+			<key>kMDItemKind.Description</key>
+			<string>Tipo de item</string>
+			<key>kMDItemKind.ShortName</key>
+			<string>tipo,classe,kind</string>
+			<key>kMDItemLanguages</key>
+			<string>Idiomas</string>
+			<key>kMDItemLanguages.Description</key>
+			<string>Idiomas do conteúdo do documento</string>
+			<key>kMDItemLanguages.ShortName</key>
+			<string>idioma,language</string>
+			<key>kMDItemLastUsedDate</key>
+			<string>Última abertura</string>
+			<key>kMDItemLastUsedDate.Description</key>
+			<string>Data da última utilização deste item</string>
+			<key>kMDItemLastUsedDate.ShortName</key>
+			<string>últimouso,data,lastused,date</string>
+			<key>kMDItemLatitude</key>
+			<string>Latitude</string>
+			<key>kMDItemLatitude.Description</key>
+			<string>A latitude do item em graus ao norte do equador, expressa usando o dado WGS84. Valores negativos ficam ao sul do equador.</string>
+			<key>kMDItemLatitude.ShortName</key>
+			<string>latitude,latitude</string>
+			<key>kMDItemLayerNames</key>
+			<string>Camadas</string>
+			<key>kMDItemLayerNames.Description</key>
+			<string>Nomes das camadas do arquivo</string>
+			<key>kMDItemLayerNames.ShortName</key>
+			<string>camada,layer</string>
+			<key>kMDItemLensModel</key>
+			<string>Modelo da Lente</string>
+			<key>kMDItemLensModel.Description</key>
+			<string>Modelo da lente usada para obter este documento</string>
+			<key>kMDItemLensModel.ShortName</key>
+			<string>lente</string>
+			<key>kMDItemLogicalSize</key>
+			<string>Tamanho Lógico</string>
+			<key>kMDItemLogicalSize.Description</key>
+			<string>Tamanho lógico do item em bytes</string>
+			<key>kMDItemLongitude</key>
+			<string>Longitude</string>
+			<key>kMDItemLongitude.Description</key>
+			<string>A longitude do item em graus a leste do meridiano principal, expressa usando o dado WGS84. Valores negativos ficam a oeste do meridiano principal.</string>
+			<key>kMDItemLongitude.ShortName</key>
+			<string>longitude,longitude</string>
+			<key>kMDItemLyricist</key>
+			<string>Letrista</string>
+			<key>kMDItemLyricist.Description</key>
+			<string>Letrista da letra da música do arquivo de áudio</string>
+			<key>kMDItemLyricist.ShortName</key>
+			<string>por,letrista,autor,by,lyricist,author</string>
+			<key>kMDItemMaxAperture</key>
+			<string>Abertura máxima</string>
+			<key>kMDItemMaxAperture.Description</key>
+			<string>Menor número F da lente em unidades de valor APEX, normalmente no intervalo de 00,00 a 99,99</string>
+			<key>kMDItemMaxAperture.ShortName</key>
+			<string>aberturamáxima,maxaperture</string>
+			<key>kMDItemMediaTypes</key>
+			<string>Tipos de mídia</string>
+			<key>kMDItemMediaTypes.Description</key>
+			<string>Tipos de mídia presentes no conteúdo</string>
+			<key>kMDItemMediaTypes.ShortName</key>
+			<string>mídia,contém,tipodemídia,media,contains,mediatype</string>
+			<key>kMDItemMeteringMode</key>
+			<string>Modo de medição</string>
+			<key>kMDItemMeteringMode.Description</key>
+			<string>O modo de medição (Desconhecido, Médio, CenterWeightedAverage, Spot, MultiSpot, Padrão, Parcial)</string>
+			<key>kMDItemMeteringMode.ShortName</key>
+			<string>medição,mododemedição,metering,meteringmode</string>
+			<key>kMDItemMusicalGenre</key>
+			<string>Gênero musical</string>
+			<key>kMDItemMusicalGenre.Description</key>
+			<string>Gênero musical da música do arquivo de áudio</string>
+			<key>kMDItemMusicalGenre.ShortName</key>
+			<string>gênero,gêneromusical,genre,musicalgenre</string>
+			<key>kMDItemMusicalInstrumentCategory</key>
+			<string>Categoria de instrumento</string>
+			<key>kMDItemMusicalInstrumentCategory.Description</key>
+			<string>Categoria de instrumentos à qual o arquivo pertence</string>
+			<key>kMDItemMusicalInstrumentCategory.ShortName</key>
+			<string>instrumento,categoriadeinstrumento,instrument,instrumentcategory</string>
+			<key>kMDItemMusicalInstrumentName</key>
+			<string>Nome do instrumento</string>
+			<key>kMDItemMusicalInstrumentName.Description</key>
+			<string>Nome do instrumento relativo à categoria do instrumento</string>
+			<key>kMDItemMusicalInstrumentName.ShortName</key>
+			<string>instrumento,nomedoinstrumento,instrument,instrumentname</string>
+			<key>kMDItemNamedLocation</key>
+			<string>Localização</string>
+			<key>kMDItemNamedLocation.Description</key>
+			<string>Nome da localização ou ponto de interesse</string>
+			<key>kMDItemNamedLocation.ShortName</key>
+			<string>localização,location</string>
+			<key>kMDItemNumberOfPages</key>
+			<string>Páginas</string>
+			<key>kMDItemNumberOfPages.Description</key>
+			<string>Número de páginas do documento</string>
+			<key>kMDItemNumberOfPages.ShortName</key>
+			<string>páginas,pages</string>
+			<key>kMDItemOrganizations</key>
+			<string>Empresas</string>
+			<key>kMDItemOrganizations.Description</key>
+			<string>Empresas que criaram o documento</string>
+			<key>kMDItemOrganizations.ShortName</key>
+			<string>organização,organization</string>
+			<key>kMDItemOrientation</key>
+			<string>Orientação</string>
+			<key>kMDItemOrientation.Description</key>
+			<string>Orientação da imagem (horizontal ou vertical)</string>
+			<key>kMDItemOrientation.ShortName</key>
+			<string>orientação,orientation</string>
+			<key>kMDItemOriginalFormat</key>
+			<string>Formato Original</string>
+			<key>kMDItemOriginalFormat.Description</key>
+			<string>Formato Original</string>
+			<key>kMDItemOriginalSource</key>
+			<string>Fonte Original</string>
+			<key>kMDItemOriginalSource.Description</key>
+			<string>Fonte Original</string>
+			<key>kMDItemPageHeight</key>
+			<string>Altura da página</string>
+			<key>kMDItemPageHeight.Description</key>
+			<string>Altura da página do documento em pontos</string>
+			<key>kMDItemPageHeight.ShortName</key>
+			<string>alturadapágina,altura,pageheight,height</string>
+			<key>kMDItemPageWidth</key>
+			<string>Largura da página</string>
+			<key>kMDItemPageWidth.Description</key>
+			<string>Largura da página do documento em pontos</string>
+			<key>kMDItemPageWidth.ShortName</key>
+			<string>larguradapágina,largura,pagewidth,width</string>
+			<key>kMDItemParticipants</key>
+			<string>Participantes</string>
+			<key>kMDItemParticipants.Description</key>
+			<string>Participantes deste item</string>
+			<key>kMDItemPath</key>
+			<string>Nome do caminho do arquivo</string>
+			<key>kMDItemPath.Description</key>
+			<string>Nome do caminho completo para este arquivo</string>
+			<key>kMDItemPath.ShortName</key>
+			<string>caminho,path</string>
+			<key>kMDItemPerformers</key>
+			<string>Intérpretes</string>
+			<key>kMDItemPerformers.Description</key>
+			<string>Intérpretes</string>
+			<key>kMDItemPhoneNumbers</key>
+			<string>Número de telefone</string>
+			<key>kMDItemPhoneNumbers.Description</key>
+			<string>Números de telefone associados a este item</string>
+			<key>kMDItemPhoneNumbers.ShortName</key>
+			<string>telefone,númerodetelefone,phone,phonenumber</string>
+			<key>kMDItemPhysicalSize</key>
+			<string>Tamanho físico</string>
+			<key>kMDItemPhysicalSize.Description</key>
+			<string>Tamanho físico do item em bytes</string>
+			<key>kMDItemPixelCount</key>
+			<string>Contagem de Pixels</string>
+			<key>kMDItemPixelCount.Description</key>
+			<string>Número total de pixels do documento</string>
+			<key>kMDItemPixelCount.ShortName</key>
+			<string>contagemdepixels,pixelcount</string>
+			<key>kMDItemPixelHeight</key>
+			<string>Altura em pixels</string>
+			<key>kMDItemPixelHeight.Description</key>
+			<string>Altura do documento em pixels</string>
+			<key>kMDItemPixelHeight.ShortName</key>
+			<string>alturadepixel,altura,pixelheight,height</string>
+			<key>kMDItemPixelWidth</key>
+			<string>Largura em pixels</string>
+			<key>kMDItemPixelWidth.Description</key>
+			<string>Largura do documento em pixels</string>
+			<key>kMDItemPixelWidth.ShortName</key>
+			<string>larguradepixel,largura,pixelwidth,width</string>
+			<key>kMDItemProducer</key>
+			<string>Produtor</string>
+			<key>kMDItemProducer.Description</key>
+			<string>Produtor deste item</string>
+			<key>kMDItemProducer.ShortName</key>
+			<string>produtor,producer</string>
+			<key>kMDItemProfileName</key>
+			<string>Perfil de cores</string>
+			<key>kMDItemProfileName.Description</key>
+			<string>Nome do perfil de cores usado na imagem</string>
+			<key>kMDItemProfileName.ShortName</key>
+			<string>perfil,profile</string>
+			<key>kMDItemProject.ShortName</key>
+			<string>projeto,project</string>
+			<key>kMDItemProjects</key>
+			<string>Projetos</string>
+			<key>kMDItemProjects.Description</key>
+			<string>Projetos dos quais este item faz parte</string>
+			<key>kMDItemPublishers</key>
+			<string>Editor</string>
+			<key>kMDItemPublishers.Description</key>
+			<string>Editor do documento</string>
+			<key>kMDItemPublishers.ShortName</key>
+			<string>editor,publisher</string>
+			<key>kMDItemPurchaseDate</key>
+			<string>Data da Compra</string>
+			<key>kMDItemPurchaseDate.Description</key>
+			<string>Data em que este item foi comprado</string>
+			<key>kMDItemPurchaseDate.ShortName</key>
+			<string>datadecompra</string>
+			<key>kMDItemRecipientAddresses</key>
+			<string>Endereços do Destinatário</string>
+			<key>kMDItemRecipientAddresses.Description</key>
+			<string>Endereços dos destinatários deste item</string>
+			<key>kMDItemRecipientAddresses.ShortName</key>
+			<string>para,a,to</string>
+			<key>kMDItemRecipientEmailAddresses</key>
+			<string>Endereços de e-mail de destinatários</string>
+			<key>kMDItemRecipientEmailAddresses.Description</key>
+			<string>Endereços de e-mail dos destinatários deste item</string>
+			<key>kMDItemRecipientEmailAddresses.ShortName</key>
+			<string>para,email,email,to,email,mail</string>
+			<key>kMDItemRecipients</key>
+			<string>Destinatários</string>
+			<key>kMDItemRecipients.Description</key>
+			<string>Destinatários deste item</string>
+			<key>kMDItemRecipients.ShortName</key>
+			<string>para,destinatário,com,to,recipient,with</string>
+			<key>kMDItemRecordingDate</key>
+			<string>Data de gravação</string>
+			<key>kMDItemRecordingDate.Description</key>
+			<string>Data de gravação da música</string>
+			<key>kMDItemRecordingDate.ShortName</key>
+			<string>datadegravação,data,recordingdate,date</string>
+			<key>kMDItemRecordingYear</key>
+			<string>Ano de gravação</string>
+			<key>kMDItemRecordingYear.Description</key>
+			<string>Ano de gravação da música</string>
+			<key>kMDItemRecordingYear.ShortName</key>
+			<string>anodegravação,ano,yearrecorded,year</string>
+			<key>kMDItemRedEyeOnOff</key>
+			<string>Olhos vermelhos</string>
+			<key>kMDItemRedEyeOnOff.Description</key>
+			<string>Se a correção de ‘olhos vermelhos’ estava ativada ou não</string>
+			<key>kMDItemRedEyeOnOff.ShortName</key>
+			<string>olhosvermelhos,redeye</string>
+			<key>kMDItemResolutionHeightDPI</key>
+			<string>Altura da resolução</string>
+			<key>kMDItemResolutionHeightDPI.Description</key>
+			<string>Altura da resolução desta imagem em DPI (pontos por polegada)</string>
+			<key>kMDItemResolutionHeightDPI.ShortName</key>
+			<string>alturappp,ppp,heightdpi,dpi</string>
+			<key>kMDItemResolutionWidthDPI</key>
+			<string>Largura da resolução</string>
+			<key>kMDItemResolutionWidthDPI.Description</key>
+			<string>Largura da resolução desta imagem em DPI (pontos por polegada)</string>
+			<key>kMDItemResolutionWidthDPI.ShortName</key>
+			<string>largurappp,ppp,widthdpi,dpi</string>
+			<key>kMDItemRights</key>
+			<string>Direitos</string>
+			<key>kMDItemRights.Description</key>
+			<string>Link das informações sobre os direitos relacionados ao documento</string>
+			<key>kMDItemRights.ShortName</key>
+			<string>direitos,rights</string>
+			<key>kMDItemSecurityMethod</key>
+			<string>Segurança</string>
+			<key>kMDItemSecurityMethod.Description</key>
+			<string>Método de criptografia usado para tornar o documento seguro</string>
+			<key>kMDItemSecurityMethod.ShortName</key>
+			<string>segurança,métododesegurança,security,securitymethod</string>
+			<key>kMDItemStarRating</key>
+			<string>Classificação</string>
+			<key>kMDItemStarRating.Description</key>
+			<string>Classificação do usuário</string>
+			<key>kMDItemStarRating.ShortName</key>
+			<string>classificaçãoestrela,starrating</string>
+			<key>kMDItemStartDate</key>
+			<string>Data inicial</string>
+			<key>kMDItemStartDate.Description</key>
+			<string>Data inicial deste item</string>
+			<key>kMDItemStartDate.ShortName</key>
+			<string>datadeinício,data,startdate,date</string>
+			<key>kMDItemStateOrProvince</key>
+			<string>Estado ou Província</string>
+			<key>kMDItemStateOrProvince.Description</key>
+			<string>Estado ou província do item de acordo com o provedor</string>
+			<key>kMDItemStateOrProvince.ShortName</key>
+			<string>estado,distrito,província,município,cidade,state,province</string>
+			<key>kMDItemStreamable</key>
+			<string>Streamable</string>
+			<key>kMDItemStreamable.Description</key>
+			<string>Se o conteúdo está preparado para transmissões em tempo real</string>
+			<key>kMDItemStreamable.ShortName</key>
+			<string>transmissão,transmissível,streamable</string>
+			<key>kMDItemSubject</key>
+			<string>Assunto</string>
+			<key>kMDItemSubject.Description</key>
+			<string>Assunto deste item</string>
+			<key>kMDItemSubject.ShortName</key>
+			<string>assunto,título,nome,subject,title,name</string>
+			<key>kMDItemTempo</key>
+			<string>Tempo</string>
+			<key>kMDItemTempo.Description</key>
+			<string>Andamento da música no arquivo de áudio em Batidas por Minuto</string>
+			<key>kMDItemTempo.ShortName</key>
+			<string>tempo</string>
+			<key>kMDItemTextContent</key>
+			<string>Conteúdo de texto</string>
+			<key>kMDItemTextContent.Description</key>
+			<string>Conteúdo de texto deste item</string>
+			<key>kMDItemTextContent.ShortName</key>
+			<string>conteúdo,contém,textoinserido,content,contains,intext</string>
+			<key>kMDItemTheme</key>
+			<string>Tema</string>
+			<key>kMDItemTheme.Description</key>
+			<string>Tema deste item</string>
+			<key>kMDItemTheme.ShortName</key>
+			<string>tema,theme</string>
+			<key>kMDItemTimeSignature</key>
+			<string>Compasso</string>
+			<key>kMDItemTimeSignature.Description</key>
+			<string>Compasso da música do arquivo de áudio ou MIDI</string>
+			<key>kMDItemTimeSignature.ShortDisplayName</key>
+			<string>Compasso</string>
+			<key>kMDItemTimeSignature.ShortName</key>
+			<string>horaassinatura,assinaturadetempo,compasso,timesignature</string>
+			<key>kMDItemTitle</key>
+			<string>Título</string>
+			<key>kMDItemTitle.Description</key>
+			<string>Título deste item</string>
+			<key>kMDItemTitle.ShortName</key>
+			<string>título,title</string>
+			<key>kMDItemTotalBitRate</key>
+			<string>Taxa de bits total</string>
+			<key>kMDItemTotalBitRate.Description</key>
+			<string>Taxa combinada de bits de áudio e vídeo na mídia</string>
+			<key>kMDItemTotalBitRate.ShortName</key>
+			<string>taxadebitstotal,taxadebits,totalbitrate,bitrate</string>
+			<key>kMDItemURL</key>
+			<string>URL</string>
+			<key>kMDItemURL.Description</key>
+			<string>URL deste item</string>
+			<key>kMDItemURL.ShortName</key>
+			<string>url,páginaweb,site,página</string>
+			<key>kMDItemUsedDates</key>
+			<string>Datas de uso</string>
+			<key>kMDItemUsedDates.Description</key>
+			<string>Datas de quando este item foi usado</string>
+			<key>kMDItemUsedDates.ShortName</key>
+			<string>usado,data,used,date</string>
+			<key>kMDItemUserTags</key>
+			<string>Etiquetas</string>
+			<key>kMDItemUserTags.Description</key>
+			<string>Etiquetas associadas a este item</string>
+			<key>kMDItemUserTags.ShortName</key>
+			<string>etiqueta,tag</string>
+			<key>kMDItemVersion</key>
+			<string>Versão</string>
+			<key>kMDItemVersion.Description</key>
+			<string>Número da versão deste item</string>
+			<key>kMDItemVersion.ShortName</key>
+			<string>versão,version</string>
+			<key>kMDItemVideoBitRate</key>
+			<string>Taxa de bits de vídeo</string>
+			<key>kMDItemVideoBitRate.Description</key>
+			<string>Taxa de bits do vídeo na mídia</string>
+			<key>kMDItemVideoBitRate.ShortName</key>
+			<string>taxadebitsdevídeo,taxadebits,videobitrate,bitrate</string>
+			<key>kMDItemWhereFroms</key>
+			<string>De onde</string>
+			<key>kMDItemWhereFroms.Description</key>
+			<string>Origem do item</string>
+			<key>kMDItemWhereFroms.ShortName</key>
+			<string>de,fonte,origem,from,source,wherefrom</string>
+			<key>kMDItemWhiteBalance</key>
+			<string>Balanço de branco</string>
+			<key>kMDItemWhiteBalance.Description</key>
+			<string>Ajuste do balanço de branco da câmera quando a foto foi tirada</string>
+			<key>kMDItemWhiteBalance.ShortName</key>
+			<string>balanceamentodebranco,pontobranco,whitebalance</string>
+		</dict>
+		<key>pt_PT</key>
+		<dict>
+			<key>_kMDItemLabels.ShortName</key>
+			<string>etiqueta,label</string>
+			<key>_kMDItemPathDisplayNames.ShortName</key>
+			<string>em,âmbito,scope,in</string>
+			<key>kMDItemAcquisitionMake</key>
+			<string>Marca do dispositivo</string>
+			<key>kMDItemAcquisitionMake.Description</key>
+			<string>Marca do dispositivo utilizado para obter este documento</string>
+			<key>kMDItemAcquisitionMake.ShortName</key>
+			<string>criar,make</string>
+			<key>kMDItemAcquisitionModel</key>
+			<string>Modelo do dispositivo</string>
+			<key>kMDItemAcquisitionModel.Description</key>
+			<string>Modelo do dispositivo utilizado para obter este documento</string>
+			<key>kMDItemAcquisitionModel.ShortName</key>
+			<string>modelo,model</string>
+			<key>kMDItemAlbum</key>
+			<string>Álbum</string>
+			<key>kMDItemAlbum.Description</key>
+			<string>Título de uma coleção de conteúdo multimédia, tal como um álbum</string>
+			<key>kMDItemAlbum.ShortName</key>
+			<string>álbum,título,title,album</string>
+			<key>kMDItemAlternateNames</key>
+			<string>Outros nomes possíveis</string>
+			<key>kMDItemAlternateNames.Description</key>
+			<string>Outros nomes do ficheiro</string>
+			<key>kMDItemAltitude</key>
+			<string>Altitude</string>
+			<key>kMDItemAltitude.Description</key>
+			<string>A altitude do elemento em metros acima do nível do mar, expressa através de WGS84. Os valores negativos situam‑se abaixo do nível do mar.</string>
+			<key>kMDItemAltitude.ShortName</key>
+			<string>altitude</string>
+			<key>kMDItemAperture</key>
+			<string>Valor da abertura</string>
+			<key>kMDItemAperture.Description</key>
+			<string>Tamanho da abertura da lente como valor APEX à escala logarítmica</string>
+			<key>kMDItemAperture.ShortName</key>
+			<string>abertura,aperture,fstop</string>
+			<key>kMDItemAppStoreCategory</key>
+			<string>Categoria</string>
+			<key>kMDItemAppStoreCategory.Description</key>
+			<string>Categoria da App Store de que o elemento faz parte</string>
+			<key>kMDItemAppStoreCategory.ShortName</key>
+			<string>categoria,category</string>
+			<key>kMDItemAppleLoopDescriptors</key>
+			<string>Descritores de loop</string>
+			<key>kMDItemAppleLoopDescriptors.Description</key>
+			<string>Palavras‑chave que descrevem o ambiente e outros aspetos do loop</string>
+			<key>kMDItemAppleLoopsKeyFilterType</key>
+			<string>Tipo de escala de loop</string>
+			<key>kMDItemAppleLoopsKeyFilterType.Description</key>
+			<string>Se o loop utiliza a escala maior ou menor, nenhuma escala, ou pode ser utilizado com ambas</string>
+			<key>kMDItemAppleLoopsLoopMode</key>
+			<string>Tipo de ficheiro de loop</string>
+			<key>kMDItemAppleLoopsLoopMode.Description</key>
+			<string>Se o ficheiro é um ficheiro de loop ou não. Os ficheiros em loop ajustam o seu tempo ao tempo da música e os ficheiros não loop mantêm o seu tempo registado</string>
+			<key>kMDItemAppleLoopsRootKey</key>
+			<string>Chave original do loop</string>
+			<key>kMDItemAppleLoopsRootKey.Description</key>
+			<string>Mostra a chave original do loop. A chave é a nota de raiz ou tónica para o loop e não inclui o tipo de escala</string>
+			<key>kMDItemApplicationCategories</key>
+			<string>Categorias de aplicações</string>
+			<key>kMDItemApplicationCategories.Description</key>
+			<string>Categorias de que a aplicação faz parte</string>
+			<key>kMDItemApplicationCategories.ShortName</key>
+			<string>categorias,categories</string>
+			<key>kMDItemAudiences</key>
+			<string>Públicos</string>
+			<key>kMDItemAudiences.Description</key>
+			<string>A quem se destina o documento</string>
+			<key>kMDItemAudiences.ShortName</key>
+			<string>para,público,to,audience</string>
+			<key>kMDItemAudioBitRate</key>
+			<string>Taxa de bits áudio</string>
+			<key>kMDItemAudioBitRate.Description</key>
+			<string>Taxa de bits do áudio no suporte</string>
+			<key>kMDItemAudioBitRate.ShortDisplayName</key>
+			<string>Taxa de bits</string>
+			<key>kMDItemAudioBitRate.ShortName</key>
+			<string>taxadebitsáudio,taxadebits,audiobitrate,bitrate</string>
+			<key>kMDItemAudioChannelCount</key>
+			<string>Canais de áudio</string>
+			<key>kMDItemAudioChannelCount.Description</key>
+			<string>Número de canais nos dados de áudio do ficheiro</string>
+			<key>kMDItemAudioChannelCount.ShortName</key>
+			<string>canais,channels</string>
+			<key>kMDItemAudioEncodingApplication</key>
+			<string>Aplicação de codificação de áudio</string>
+			<key>kMDItemAudioEncodingApplication.Description</key>
+			<string>Nome da aplicação que codificou os dados no ficheiro de áudio</string>
+			<key>kMDItemAudioEncodingApplication.ShortDisplayName</key>
+			<string>Codificado por</string>
+			<key>kMDItemAudioEncodingApplication.ShortName</key>
+			<string>codificador,codificadopor,aplicaçãodecodificaçãodeáudio,encoder,encodedby,audioencodingapplication</string>
+			<key>kMDItemAudioSampleRate</key>
+			<string>Taxa de amostragem</string>
+			<key>kMDItemAudioSampleRate.Description</key>
+			<string>Taxa de amostragem dos dados de áudio do ficheiro</string>
+			<key>kMDItemAudioSampleRate.ShortDisplayName</key>
+			<string>Taxa de amostragem</string>
+			<key>kMDItemAudioSampleRate.ShortName</key>
+			<string>taxadeamostragemdeáudio,taxadeamostragem,audiosamplerate,samplerate</string>
+			<key>kMDItemAudioTrackNumber</key>
+			<string>Número de faixa</string>
+			<key>kMDItemAudioTrackNumber.Description</key>
+			<string>Número de faixa da música integrada num álbum</string>
+			<key>kMDItemAudioTrackNumber.ShortName</key>
+			<string>númerodefaixa,tracknumber</string>
+			<key>kMDItemAuthorAddresses</key>
+			<string>Endereços do autor</string>
+			<key>kMDItemAuthorAddresses.Description</key>
+			<string>Endereços dos autores deste elemento</string>
+			<key>kMDItemAuthorAddresses.ShortName</key>
+			<string>de,from</string>
+			<key>kMDItemAuthorEmailAddresses</key>
+			<string>Endereços de e‑mail do autor</string>
+			<key>kMDItemAuthorEmailAddresses.Description</key>
+			<string>Endereços de e‑mail dos autores deste elemento</string>
+			<key>kMDItemAuthorEmailAddresses.ShortName</key>
+			<string>de,e‑mail,correio,from,email,mail</string>
+			<key>kMDItemAuthors</key>
+			<string>Autores</string>
+			<key>kMDItemAuthors.Description</key>
+			<string>Autores deste elemento</string>
+			<key>kMDItemAuthors.ShortName</key>
+			<string>de,da,do,das,dos,autor,com,por,from,author,with,by</string>
+			<key>kMDItemBitsPerSample</key>
+			<string>Bits por amostra</string>
+			<key>kMDItemBitsPerSample.Description</key>
+			<string>Número de bits por amostra</string>
+			<key>kMDItemBitsPerSample.ShortName</key>
+			<string>bitsporamostra,bpa,bitspersample,bps</string>
+			<key>kMDItemCity</key>
+			<string>Cidade</string>
+			<key>kMDItemCity.Description</key>
+			<string>Cidade deste elemento</string>
+			<key>kMDItemCity.ShortName</key>
+			<string>cidade,city</string>
+			<key>kMDItemCodecs</key>
+			<string>Codecs</string>
+			<key>kMDItemCodecs.Description</key>
+			<string>Codecs utilizados para codificar e descodificar o suporte</string>
+			<key>kMDItemCodecs.ShortName</key>
+			<string>codec</string>
+			<key>kMDItemColorSpace</key>
+			<string>Espaço de cor</string>
+			<key>kMDItemColorSpace.Description</key>
+			<string>Modelo de cor desta imagem</string>
+			<key>kMDItemColorSpace.ShortName</key>
+			<string>colorspace</string>
+			<key>kMDItemComment</key>
+			<string>Comentário</string>
+			<key>kMDItemComment.Description</key>
+			<string>Comentários sobre este elemento</string>
+			<key>kMDItemComment.ShortName</key>
+			<string>comentário,comment</string>
+			<key>kMDItemComposer</key>
+			<string>Compositor</string>
+			<key>kMDItemComposer.Description</key>
+			<string>Compositor da música no ficheiro áudio</string>
+			<key>kMDItemComposer.ShortName</key>
+			<string>de,compositor,autor,by,composer,author</string>
+			<key>kMDItemContactKeywords</key>
+			<string>Palavras‑chave de contacto</string>
+			<key>kMDItemContactKeywords.Description</key>
+			<string>Contactos associados a este elemento</string>
+			<key>kMDItemContactKeywords.ShortName</key>
+			<string>contacto,palavra‑chavedecontacto,palavra‑chave,contact,contactkeyword,keyword</string>
+			<key>kMDItemContentCreationDate</key>
+			<string>Conteúdo criado</string>
+			<key>kMDItemContentCreationDate.Description</key>
+			<string>Data em que o conteúdo deste elemento foi criado</string>
+			<key>kMDItemContentCreationDate.ShortName</key>
+			<string>conteúdocriado,criado,data,contentcreated,created,date</string>
+			<key>kMDItemContentModificationDate</key>
+			<string>Conteúdo alterado</string>
+			<key>kMDItemContentModificationDate.Description</key>
+			<string>Data em que o conteúdo deste elemento foi alterado</string>
+			<key>kMDItemContentModificationDate.ShortName</key>
+			<string>conteúdoalterado,alterado,data,contentmodified,modified,date</string>
+			<key>kMDItemContributors</key>
+			<string>Contribuidores</string>
+			<key>kMDItemContributors.Description</key>
+			<string>Pessoas ou organizações que contribuíram para o conteúdo do documento</string>
+			<key>kMDItemContributors.ShortName</key>
+			<string>de,participante,autor,com,by,contributor,author,with</string>
+			<key>kMDItemCopyright</key>
+			<string>Copyright</string>
+			<key>kMDItemCopyright.Description</key>
+			<string>Informação de copyright sobre este elemento</string>
+			<key>kMDItemCopyright.ShortName</key>
+			<string>copyright</string>
+			<key>kMDItemCountry</key>
+			<string>Região</string>
+			<key>kMDItemCountry.Description</key>
+			<string>País, região ou local onde o elemento foi criado, segundo o fornecedor</string>
+			<key>kMDItemCountry.ShortName</key>
+			<string>país,região</string>
+			<key>kMDItemCoverage</key>
+			<string>Cobertura</string>
+			<key>kMDItemCoverage.Description</key>
+			<string>Extensão ou abrangência do conteúdo do documento</string>
+			<key>kMDItemCoverage.ShortName</key>
+			<string>cobertura,coverage</string>
+			<key>kMDItemCreator</key>
+			<string>Gerador de conteúdo</string>
+			<key>kMDItemCreator.Description</key>
+			<string>Aplicação utilizada para criar o documento</string>
+			<key>kMDItemCreator.ShortName</key>
+			<string>criador,creator</string>
+			<key>kMDItemDateAdded</key>
+			<string>Data de adição</string>
+			<key>kMDItemDateAdded.Description</key>
+			<string>Data da última deslocação deste elemento</string>
+			<key>kMDItemDateAdded.ShortName</key>
+			<string>datadeadição,adição,data,dateadded,added,date</string>
+			<key>kMDItemDeliveryType</key>
+			<string>Tipo de entrega</string>
+			<key>kMDItemDeliveryType.Description</key>
+			<string>Método utilizado para fornecer o suporte (Fast Start ou RTSP)</string>
+			<key>kMDItemDeliveryType.ShortName</key>
+			<string>entrega,delivery</string>
+			<key>kMDItemDescription</key>
+			<string>Descrição</string>
+			<key>kMDItemDescription.Description</key>
+			<string>Descrição do conteúdo do documento</string>
+			<key>kMDItemDescription.ShortName</key>
+			<string>descrição,comentário,description,comment</string>
+			<key>kMDItemDirector</key>
+			<string>Realizador</string>
+			<key>kMDItemDirector.Description</key>
+			<string>Realizador</string>
+			<key>kMDItemDisplayName</key>
+			<string>Nome a apresentar</string>
+			<key>kMDItemDisplayName.Description</key>
+			<string>Nome localizado do ficheiro</string>
+			<key>kMDItemDisplayName.ShortName</key>
+			<string>nome,nomedeecrã,name,displayname</string>
+			<key>kMDItemDocumentContainer</key>
+			<string>Recipiente de documentos</string>
+			<key>kMDItemDocumentContainer.Description</key>
+			<string>Pasta contentora do elemento</string>
+			<key>kMDItemDocumentContainer.ShortName</key>
+			<string>recipiente,container</string>
+			<key>kMDItemDueDate</key>
+			<string>Data acordada</string>
+			<key>kMDItemDueDate.Description</key>
+			<string>Data limite deste elemento</string>
+			<key>kMDItemDueDate.ShortName</key>
+			<string>prazo,data,duedate,date</string>
+			<key>kMDItemDurationSeconds</key>
+			<string>Duração</string>
+			<key>kMDItemDurationSeconds.Description</key>
+			<string>Duração deste elemento em segundos</string>
+			<key>kMDItemDurationSeconds.ShortName</key>
+			<string>duração,tempo,duration,time</string>
+			<key>kMDItemEXIFGPSVersion</key>
+			<string>Versão GPS de EXIF</string>
+			<key>kMDItemEXIFGPSVersion.Description</key>
+			<string>A versão de GPSInfoIFD em EXIF utilizada para gerar os metadados</string>
+			<key>kMDItemEXIFVersion</key>
+			<string>Versão EXIF</string>
+			<key>kMDItemEXIFVersion.Description</key>
+			<string>Versão EXIF utilizada para gerar os metadados</string>
+			<key>kMDItemEXIFVersion.ShortName</key>
+			<string>versãoexif,exifversion</string>
+			<key>kMDItemEditors</key>
+			<string>Editores</string>
+			<key>kMDItemEditors.Description</key>
+			<string>Editores deste elemento</string>
+			<key>kMDItemEditors.ShortName</key>
+			<string>editor</string>
+			<key>kMDItemEmailAddresses</key>
+			<string>Endereços de e‑mail</string>
+			<key>kMDItemEmailAddresses.Description</key>
+			<string>Endereços de e‑mail associados a este elemento</string>
+			<key>kMDItemEmailAddresses.ShortName</key>
+			<string>e‑mail,correio</string>
+			<key>kMDItemEncodingApplications</key>
+			<string>Software de codificação</string>
+			<key>kMDItemEncodingApplications.Description</key>
+			<string>Software utilizado para converter o conteúdo original</string>
+			<key>kMDItemEncodingApplications.ShortDisplayName</key>
+			<string>Codificado por</string>
+			<key>kMDItemEncodingApplications.ShortName</key>
+			<string>codificador,codificadopor,aplicaçãodecodificação,encoder,encodedby,encodingapplication</string>
+			<key>kMDItemEndDate</key>
+			<string>Data final</string>
+			<key>kMDItemEndDate.Description</key>
+			<string>Data de fim deste elemento</string>
+			<key>kMDItemEndDate.ShortName</key>
+			<string>datafinal,data,enddate,date</string>
+			<key>kMDItemExecutableArchitectures</key>
+			<string>Arquiteturas executáveis</string>
+			<key>kMDItemExecutableArchitectures.Description</key>
+			<string>Arquiteturas de que o elemento necessita para execução</string>
+			<key>kMDItemExecutableArchitectures.ShortName</key>
+			<string>arquiteturas,architectures</string>
+			<key>kMDItemExecutablePlatform</key>
+			<string>Plataforma executável</string>
+			<key>kMDItemExecutablePlatform.Description</key>
+			<string>Plataforma de que o elemento necessita para execução</string>
+			<key>kMDItemExecutablePlatform.ShortName</key>
+			<string>plataforma,platform</string>
+			<key>kMDItemExposureMode</key>
+			<string>Modo de exposição</string>
+			<key>kMDItemExposureMode.Description</key>
+			<string>Modo utilizado para a exposição</string>
+			<key>kMDItemExposureMode.ShortName</key>
+			<string>mododeexposição,exposuremode</string>
+			<key>kMDItemExposureProgram</key>
+			<string>Programa de exposição</string>
+			<key>kMDItemExposureProgram.Description</key>
+			<string>Tipo de programa utilizado pela câmara para definir a exposição: manual, normal, prioridade da abertura, etc.</string>
+			<key>kMDItemExposureProgram.ShortName</key>
+			<string>exposição,programadeexposição,exposure,exposureprogram</string>
+			<key>kMDItemExposureTimeSeconds</key>
+			<string>Tempo de exposição</string>
+			<key>kMDItemExposureTimeSeconds.Description</key>
+			<string>Tempo que a lente esteve aberta durante a exposição</string>
+			<key>kMDItemExposureTimeSeconds.ShortName</key>
+			<string>tempodeexposição,tempo,exposuretime,time</string>
+			<key>kMDItemExposureTimeString</key>
+			<string>Tempo de exposição</string>
+			<key>kMDItemExposureTimeString.Description</key>
+			<string>Tempo de exposição</string>
+			<key>kMDItemExposureTimeString.ShortName</key>
+			<string>tempodeexposição,tempo,exposuretime,time</string>
+			<key>kMDItemFNumber</key>
+			<string>Número</string>
+			<key>kMDItemFNumber.Description</key>
+			<string>Comprimento focal da lente dividido pelo diâmetro da abertura</string>
+			<key>kMDItemFNumber.ShortName</key>
+			<string>fnumber,fstop</string>
+			<key>kMDItemFSContentChangeDate</key>
+			<string>Alterado</string>
+			<key>kMDItemFSContentChangeDate.Description</key>
+			<string>Data da última alteração do conteúdo do ficheiro</string>
+			<key>kMDItemFSContentChangeDate.ShortName</key>
+			<string>alterado,modified</string>
+			<key>kMDItemFSCreationDate</key>
+			<string>Criado</string>
+			<key>kMDItemFSCreationDate.Description</key>
+			<string>Data de criação do ficheiro</string>
+			<key>kMDItemFSCreationDate.ShortName</key>
+			<string>criado,created</string>
+			<key>kMDItemFSHasCustomIcon</key>
+			<string>Ícone personalizado</string>
+			<key>kMDItemFSHasCustomIcon.Description</key>
+			<string>Se o ficheiro tem um ícone personalizado</string>
+			<key>kMDItemFSInvisible</key>
+			<string>Ficheiro invisível</string>
+			<key>kMDItemFSInvisible.Description</key>
+			<string>Se o ficheiro é visível</string>
+			<key>kMDItemFSInvisible.ShortName</key>
+			<string>invisível,invisible</string>
+			<key>kMDItemFSIsExtensionHidden</key>
+			<string>Extensão do ficheiro oculta</string>
+			<key>kMDItemFSIsExtensionHidden.Description</key>
+			<string>Se a extensão do ficheiro está oculta</string>
+			<key>kMDItemFSIsStationery</key>
+			<string>Modelo</string>
+			<key>kMDItemFSIsStationery.Description</key>
+			<string>Se o ficheiro é modelo</string>
+			<key>kMDItemFSIsStationery.ShortName</key>
+			<string>modelo,stationery</string>
+			<key>kMDItemFSLabel</key>
+			<string>Etiqueta do ficheiro</string>
+			<key>kMDItemFSLabel.Description</key>
+			<string>Etiqueta do Finder atribuída ao ficheiro</string>
+			<key>kMDItemFSName</key>
+			<string>Ficheiro</string>
+			<key>kMDItemFSName.Description</key>
+			<string>Nome do ficheiro</string>
+			<key>kMDItemFSName.ShortName</key>
+			<string>ficheiro,filename</string>
+			<key>kMDItemFSNodeCount</key>
+			<string>Número de elementos</string>
+			<key>kMDItemFSNodeCount.Description</key>
+			<string>Número de ficheiros e pastas na pasta</string>
+			<key>kMDItemFSOwnerGroupID</key>
+			<string>Grupo</string>
+			<key>kMDItemFSOwnerGroupID.Description</key>
+			<string>ID de grupo do proprietário do ficheiro</string>
+			<key>kMDItemFSOwnerGroupID.ShortName</key>
+			<string>grupo,group</string>
+			<key>kMDItemFSOwnerUserID</key>
+			<string>Proprietário</string>
+			<key>kMDItemFSOwnerUserID.Description</key>
+			<string>ID de utilizador do proprietário do ficheiro</string>
+			<key>kMDItemFSOwnerUserID.ShortName</key>
+			<string>proprietário,owner</string>
+			<key>kMDItemFSSize</key>
+			<string>Tamanho do ficheiro</string>
+			<key>kMDItemFSSize.Description</key>
+			<string>Tamanho lógico do ficheiro no disco, em bytes</string>
+			<key>kMDItemFSSize.ShortName</key>
+			<string>tamanho,size</string>
+			<key>kMDItemFinderComment</key>
+			<string>Comentário do Spotlight</string>
+			<key>kMDItemFinderComment.Description</key>
+			<string>Comentário do Spotlight para este elemento</string>
+			<key>kMDItemFinderComment.ShortName</key>
+			<string>comentário,comentáriodospotlight,comment,spotlightcomment</string>
+			<key>kMDItemFlashOnOff</key>
+			<string>Flash</string>
+			<key>kMDItemFlashOnOff.Description</key>
+			<string>Se a fotografia foi tirada com flash</string>
+			<key>kMDItemFlashOnOff.ShortName</key>
+			<string>flash</string>
+			<key>kMDItemFocalLength</key>
+			<string>Distância focal</string>
+			<key>kMDItemFocalLength.Description</key>
+			<string>Distância focal da lente em milímetros (mm)</string>
+			<key>kMDItemFocalLength.ShortName</key>
+			<string>distânciafocal,focallength</string>
+			<key>kMDItemFonts</key>
+			<string>Tipos de letra</string>
+			<key>kMDItemFonts.Description</key>
+			<string>Tipos de letra usados neste elemento</string>
+			<key>kMDItemFonts.ShortName</key>
+			<string>letra,font</string>
+			<key>kMDItemGenre</key>
+			<string>Género</string>
+			<key>kMDItemGenre.Description</key>
+			<string>Género</string>
+			<key>kMDItemHasAlphaChannel</key>
+			<string>Canal alfa</string>
+			<key>kMDItemHasAlphaChannel.Description</key>
+			<string>Se a imagem tem um canal alfa</string>
+			<key>kMDItemHasAlphaChannel.ShortName</key>
+			<string>alfa,alpha</string>
+			<key>kMDItemHeadline</key>
+			<string>Cabeçalho</string>
+			<key>kMDItemHeadline.Description</key>
+			<string>Sumário publicável do conteúdo do elemento</string>
+			<key>kMDItemHeadline.ShortName</key>
+			<string>cabeçalho,título,headline,title</string>
+			<key>kMDItemISOSpeed</key>
+			<string>Velocidade ISO</string>
+			<key>kMDItemISOSpeed.Description</key>
+			<string>Velocidade ISO da câmara quando a fotografia foi tirada</string>
+			<key>kMDItemISOSpeed.ShortName</key>
+			<string>iso</string>
+			<key>kMDItemIdentifier</key>
+			<string>Identificador</string>
+			<key>kMDItemIdentifier.Description</key>
+			<string>Referência a um recurso em determinado contexto</string>
+			<key>kMDItemIdentifier.ShortName</key>
+			<string>id</string>
+			<key>kMDItemInformation</key>
+			<string>Informação sobre o filme</string>
+			<key>kMDItemInformation.Description</key>
+			<string>Informação sobre o filme</string>
+			<key>kMDItemInstantMessageAddresses</key>
+			<string>Endereços de mensagens instantâneas</string>
+			<key>kMDItemInstantMessageAddresses.Description</key>
+			<string>Endereços de mensagens instantâneas associados a este elemento</string>
+			<key>kMDItemInstantMessageAddresses.ShortName</key>
+			<string>conversa,nomeim,chat,imname,</string>
+			<key>kMDItemInstructions</key>
+			<string>Instruções</string>
+			<key>kMDItemInstructions.Description</key>
+			<string>Outra informação relativa ao elemento, tais como instruções de manuseio</string>
+			<key>kMDItemInstructions.ShortName</key>
+			<string>instruções,instructions</string>
+			<key>kMDItemIsApplicationManaged</key>
+			<string>Gestão por aplicação</string>
+			<key>kMDItemIsApplicationManaged.Description</key>
+			<string>O ficheiro é controlado e gerido por uma aplicação</string>
+			<key>kMDItemIsApplicationManaged.ShortName</key>
+			<string>appmanaged</string>
+			<key>kMDItemIsGeneralMIDISequence</key>
+			<string>Sequência MIDI geral</string>
+			<key>kMDItemIsGeneralMIDISequence.Description</key>
+			<string>Se a sequência MIDI contida no ficheiro está configurada para utilização com um dispositivo MIDI geral</string>
+			<key>kMDItemIsGeneralMIDISequence.ShortName</key>
+			<string>ismidi,midisi</string>
+			<key>kMDItemIsLikelyJunk</key>
+			<string>É indesejado</string>
+			<key>kMDItemIsLikelyJunk.Description</key>
+			<string>Se um ficheiro é ou não considerado indesejado</string>
+			<key>kMDItemIsLikelyJunk.ShortName</key>
+			<string>éindesejado,isjunk</string>
+			<key>kMDItemKeySignature</key>
+			<string>Assinatura da chave</string>
+			<key>kMDItemKeySignature.Description</key>
+			<string>Chave musical da música no ficheiro áudio</string>
+			<key>kMDItemKeySignature.ShortName</key>
+			<string>chave,assinaturachave,key,keysignature</string>
+			<key>kMDItemKeywords</key>
+			<string>Palavras‑chave</string>
+			<key>kMDItemKeywords.Description</key>
+			<string>Palavras‑chave associadas a este elemento</string>
+			<key>kMDItemKeywords.ShortName</key>
+			<string>palavra‑chave,keyword</string>
+			<key>kMDItemKind</key>
+			<string>Tipo</string>
+			<key>kMDItemKind.Description</key>
+			<string>Tipo de elemento</string>
+			<key>kMDItemKind.ShortName</key>
+			<string>tipo,kind</string>
+			<key>kMDItemLanguages</key>
+			<string>Idiomas</string>
+			<key>kMDItemLanguages.Description</key>
+			<string>Idiomas do conteúdo do documento</string>
+			<key>kMDItemLanguages.ShortName</key>
+			<string>idioma,language</string>
+			<key>kMDItemLastUsedDate</key>
+			<string>Última abertura</string>
+			<key>kMDItemLastUsedDate.Description</key>
+			<string>Data da última utilização deste elemento</string>
+			<key>kMDItemLastUsedDate.ShortName</key>
+			<string>últimautilização,data,lastused,date</string>
+			<key>kMDItemLatitude</key>
+			<string>Latitude</string>
+			<key>kMDItemLatitude.Description</key>
+			<string>A latitude do elemento em graus a norte do Equador, expressa através de WGS84. Os valores negativos situam‑se a sul do Equador.</string>
+			<key>kMDItemLatitude.ShortName</key>
+			<string>latitude</string>
+			<key>kMDItemLayerNames</key>
+			<string>Camadas</string>
+			<key>kMDItemLayerNames.Description</key>
+			<string>Nomes das camadas no ficheiro</string>
+			<key>kMDItemLayerNames.ShortName</key>
+			<string>camada,layer</string>
+			<key>kMDItemLensModel</key>
+			<string>Modelo da objetiva</string>
+			<key>kMDItemLensModel.Description</key>
+			<string>Modelo da objetiva utilizada para obter este documento</string>
+			<key>kMDItemLensModel.ShortName</key>
+			<string>objetiva</string>
+			<key>kMDItemLogicalSize</key>
+			<string>Tamanho lógico</string>
+			<key>kMDItemLogicalSize.Description</key>
+			<string>Tamanho lógico do elemento em bytes</string>
+			<key>kMDItemLongitude</key>
+			<string>Longitude</string>
+			<key>kMDItemLongitude.Description</key>
+			<string>A longitude do elemento em graus a este do meridiano de Greenwich, expressa através de WGS84. Os valores negativos situam‑se a oeste do meridiano de Greenwich.</string>
+			<key>kMDItemLongitude.ShortName</key>
+			<string>longitude</string>
+			<key>kMDItemLyricist</key>
+			<string>Letrista</string>
+			<key>kMDItemLyricist.Description</key>
+			<string>Letrista da música no ficheiro de áudio</string>
+			<key>kMDItemLyricist.ShortName</key>
+			<string>de,letrista,autor,by,lyricist,author</string>
+			<key>kMDItemMaxAperture</key>
+			<string>Abertura máxima</string>
+			<key>kMDItemMaxAperture.Description</key>
+			<string>O valor F mínimo da lente em unidades APEX, geralmente no intervalo de 00,00 a 99,99</string>
+			<key>kMDItemMaxAperture.ShortName</key>
+			<string>aberturamáxima,maxaperture</string>
+			<key>kMDItemMediaTypes</key>
+			<string>Tipos de suporte</string>
+			<key>kMDItemMediaTypes.Description</key>
+			<string>Tipos de suporte presentes no conteúdo</string>
+			<key>kMDItemMediaTypes.ShortName</key>
+			<string>multimédia,suporte,contém,tipodesuporte,media,contains,mediatype</string>
+			<key>kMDItemMeteringMode</key>
+			<string>Modo de medição</string>
+			<key>kMDItemMeteringMode.Description</key>
+			<string>O modo de medição (Desconhecido, Matricial, Ponderado ao centro, Pontual, Multipontual, Padrão, Parcial)</string>
+			<key>kMDItemMeteringMode.ShortName</key>
+			<string>medição,mododemedição,metering,meteringmode</string>
+			<key>kMDItemMusicalGenre</key>
+			<string>Género musical</string>
+			<key>kMDItemMusicalGenre.Description</key>
+			<string>Género musical da música no ficheiro áudio</string>
+			<key>kMDItemMusicalGenre.ShortName</key>
+			<string>género,géneromusical,genre,musicalgenre</string>
+			<key>kMDItemMusicalInstrumentCategory</key>
+			<string>Categoria do instrumento</string>
+			<key>kMDItemMusicalInstrumentCategory.Description</key>
+			<string>Categoria do instrumento a que pertence o ficheiro</string>
+			<key>kMDItemMusicalInstrumentCategory.ShortName</key>
+			<string>instrumento,categoriadoinstrumento,instrument,instrumentcategory</string>
+			<key>kMDItemMusicalInstrumentName</key>
+			<string>Nome do instrumento</string>
+			<key>kMDItemMusicalInstrumentName.Description</key>
+			<string>Nome do instrumento relativo à categoria de instrumento</string>
+			<key>kMDItemMusicalInstrumentName.ShortName</key>
+			<string>instrumento,nomedoinstrumento,instrument,instrumentname</string>
+			<key>kMDItemNamedLocation</key>
+			<string>Local</string>
+			<key>kMDItemNamedLocation.Description</key>
+			<string>Nome do local ou ponto de interesse</string>
+			<key>kMDItemNamedLocation.ShortName</key>
+			<string>localização,location</string>
+			<key>kMDItemNumberOfPages</key>
+			<string>Páginas</string>
+			<key>kMDItemNumberOfPages.Description</key>
+			<string>Número de páginas no documento</string>
+			<key>kMDItemNumberOfPages.ShortName</key>
+			<string>páginas,pages</string>
+			<key>kMDItemOrganizations</key>
+			<string>Organizações</string>
+			<key>kMDItemOrganizations.Description</key>
+			<string>Organizações que criaram o documento</string>
+			<key>kMDItemOrganizations.ShortName</key>
+			<string>organização,organization</string>
+			<key>kMDItemOrientation</key>
+			<string>Orientação</string>
+			<key>kMDItemOrientation.Description</key>
+			<string>Orientação da imagem (horizontal ou vertical)</string>
+			<key>kMDItemOrientation.ShortName</key>
+			<string>orientação,orientation</string>
+			<key>kMDItemOriginalFormat</key>
+			<string>Formato original</string>
+			<key>kMDItemOriginalFormat.Description</key>
+			<string>Formato original</string>
+			<key>kMDItemOriginalSource</key>
+			<string>Origem</string>
+			<key>kMDItemOriginalSource.Description</key>
+			<string>Origem</string>
+			<key>kMDItemPageHeight</key>
+			<string>Altura da página</string>
+			<key>kMDItemPageHeight.Description</key>
+			<string>Altura da página do documento em pontos</string>
+			<key>kMDItemPageHeight.ShortName</key>
+			<string>alturadapágina,altura,pageheight,height</string>
+			<key>kMDItemPageWidth</key>
+			<string>Largura da página</string>
+			<key>kMDItemPageWidth.Description</key>
+			<string>Largura da página do documento em pontos</string>
+			<key>kMDItemPageWidth.ShortName</key>
+			<string>largura,larguradepágina,pagewidth,width</string>
+			<key>kMDItemParticipants</key>
+			<string>Participantes</string>
+			<key>kMDItemParticipants.Description</key>
+			<string>Participantes neste elemento</string>
+			<key>kMDItemPath</key>
+			<string>Nome do caminho do ficheiro</string>
+			<key>kMDItemPath.Description</key>
+			<string>Nome do caminho completo deste ficheiro</string>
+			<key>kMDItemPath.ShortName</key>
+			<string>caminho,path</string>
+			<key>kMDItemPerformers</key>
+			<string>Intérpretes</string>
+			<key>kMDItemPerformers.Description</key>
+			<string>Intérpretes</string>
+			<key>kMDItemPhoneNumbers</key>
+			<string>Número de telefone</string>
+			<key>kMDItemPhoneNumbers.Description</key>
+			<string>Números de telefone associados a este elemento</string>
+			<key>kMDItemPhoneNumbers.ShortName</key>
+			<string>telefone,númerodetelefone,phone,phonenumber</string>
+			<key>kMDItemPhysicalSize</key>
+			<string>Tamanho físico</string>
+			<key>kMDItemPhysicalSize.Description</key>
+			<string>Tamanho físico do elemento em bytes</string>
+			<key>kMDItemPixelCount</key>
+			<string>Contagem de píxeis</string>
+			<key>kMDItemPixelCount.Description</key>
+			<string>Número de píxeis no documento</string>
+			<key>kMDItemPixelCount.ShortName</key>
+			<string>píxeis,pixelcount</string>
+			<key>kMDItemPixelHeight</key>
+			<string>Altura em píxeis</string>
+			<key>kMDItemPixelHeight.Description</key>
+			<string>Altura do documento em píxeis</string>
+			<key>kMDItemPixelHeight.ShortName</key>
+			<string>alturapíxel,altura,pixelheight,height</string>
+			<key>kMDItemPixelWidth</key>
+			<string>Largura em píxeis</string>
+			<key>kMDItemPixelWidth.Description</key>
+			<string>Largura do documento em píxeis</string>
+			<key>kMDItemPixelWidth.ShortName</key>
+			<string>largurapíxel,largura,pixelwidth,width</string>
+			<key>kMDItemProducer</key>
+			<string>Produtor</string>
+			<key>kMDItemProducer.Description</key>
+			<string>Produtor deste elemento</string>
+			<key>kMDItemProducer.ShortName</key>
+			<string>produtor,producer</string>
+			<key>kMDItemProfileName</key>
+			<string>Perfil de cor</string>
+			<key>kMDItemProfileName.Description</key>
+			<string>Nome do perfil de cores utilizado para a imagem</string>
+			<key>kMDItemProfileName.ShortName</key>
+			<string>perfil,profile</string>
+			<key>kMDItemProject.ShortName</key>
+			<string>projeto,project</string>
+			<key>kMDItemProjects</key>
+			<string>Projetos</string>
+			<key>kMDItemProjects.Description</key>
+			<string>Projetos a que pertence este elemento</string>
+			<key>kMDItemPublishers</key>
+			<string>Publicadores</string>
+			<key>kMDItemPublishers.Description</key>
+			<string>Publicador do documento</string>
+			<key>kMDItemPublishers.ShortName</key>
+			<string>editor,publisher</string>
+			<key>kMDItemPurchaseDate</key>
+			<string>Data de compra</string>
+			<key>kMDItemPurchaseDate.Description</key>
+			<string>Data de compra deste elemento</string>
+			<key>kMDItemPurchaseDate.ShortName</key>
+			<string>datadecompra,purchasedate</string>
+			<key>kMDItemRecipientAddresses</key>
+			<string>Endereços do destinatário</string>
+			<key>kMDItemRecipientAddresses.Description</key>
+			<string>Endereços dos destinatários deste elemento</string>
+			<key>kMDItemRecipientAddresses.ShortName</key>
+			<string>para,to</string>
+			<key>kMDItemRecipientEmailAddresses</key>
+			<string>Endereços de e‑mail dos destinatários</string>
+			<key>kMDItemRecipientEmailAddresses.Description</key>
+			<string>Endereços de e‑mail dos destinatários deste elemento</string>
+			<key>kMDItemRecipientEmailAddresses.ShortName</key>
+			<string>para,e‑mail,correio,to,email,mail</string>
+			<key>kMDItemRecipients</key>
+			<string>Destinatários</string>
+			<key>kMDItemRecipients.Description</key>
+			<string>Destinatários deste elemento</string>
+			<key>kMDItemRecipients.ShortName</key>
+			<string>para,destinatário,com,to,recipient,with</string>
+			<key>kMDItemRecordingDate</key>
+			<string>Data de gravação</string>
+			<key>kMDItemRecordingDate.Description</key>
+			<string>Data em que a música foi gravada</string>
+			<key>kMDItemRecordingDate.ShortName</key>
+			<string>datadegravação,data,recordingdate,date</string>
+			<key>kMDItemRecordingYear</key>
+			<string>Ano de gravação</string>
+			<key>kMDItemRecordingYear.Description</key>
+			<string>Ano em que o elemento foi gravado</string>
+			<key>kMDItemRecordingYear.ShortName</key>
+			<string>anodegravação,ano,yearrecorded,year</string>
+			<key>kMDItemRedEyeOnOff</key>
+			<string>Olhos‑vermelhos</string>
+			<key>kMDItemRedEyeOnOff.Description</key>
+			<string>Se a correção de “olhos‑vermelhos” estava ativa ou inativa</string>
+			<key>kMDItemRedEyeOnOff.ShortName</key>
+			<string>olhosvermelhos,redeye</string>
+			<key>kMDItemResolutionHeightDPI</key>
+			<string>Altura da resolução</string>
+			<key>kMDItemResolutionHeightDPI.Description</key>
+			<string>Altura da resolução desta imagem em DPI</string>
+			<key>kMDItemResolutionHeightDPI.ShortName</key>
+			<string>alturadpi,dpi,heightdpi</string>
+			<key>kMDItemResolutionWidthDPI</key>
+			<string>Largura da resolução</string>
+			<key>kMDItemResolutionWidthDPI.Description</key>
+			<string>Largura da resolução desta imagem em DPI</string>
+			<key>kMDItemResolutionWidthDPI.ShortName</key>
+			<string>larguradpi,widthdpi,dpi</string>
+			<key>kMDItemRights</key>
+			<string>Direitos</string>
+			<key>kMDItemRights.Description</key>
+			<string>Ligação para informação acerca dos direitos sobre o documento</string>
+			<key>kMDItemRights.ShortName</key>
+			<string>direitos,rights</string>
+			<key>kMDItemSecurityMethod</key>
+			<string>Segurança</string>
+			<key>kMDItemSecurityMethod.Description</key>
+			<string>Método de cifragem utilizado para tornar o documento seguro</string>
+			<key>kMDItemSecurityMethod.ShortName</key>
+			<string>segurança,métododesegurança,security,securitymethod</string>
+			<key>kMDItemStarRating</key>
+			<string>Classificação</string>
+			<key>kMDItemStarRating.Description</key>
+			<string>Classificação do utilizador</string>
+			<key>kMDItemStarRating.ShortName</key>
+			<string>estrelas,classificação,starrating</string>
+			<key>kMDItemStartDate</key>
+			<string>Data de início</string>
+			<key>kMDItemStartDate.Description</key>
+			<string>Data de início deste elemento</string>
+			<key>kMDItemStartDate.ShortName</key>
+			<string>datadeinício,data,startdate,date</string>
+			<key>kMDItemStateOrProvince</key>
+			<string>Região ou província</string>
+			<key>kMDItemStateOrProvince.Description</key>
+			<string>Região ou província do elemento segundo o fornecedor</string>
+			<key>kMDItemStateOrProvince.ShortName</key>
+			<string>região,província,state,province</string>
+			<key>kMDItemStreamable</key>
+			<string>Sequenciável</string>
+			<key>kMDItemStreamable.Description</key>
+			<string>Se o conteúdo está preparado para streaming</string>
+			<key>kMDItemStreamable.ShortName</key>
+			<string>stream,streamable</string>
+			<key>kMDItemSubject</key>
+			<string>Assunto</string>
+			<key>kMDItemSubject.Description</key>
+			<string>Assunto deste elemento</string>
+			<key>kMDItemSubject.ShortName</key>
+			<string>assunto,título,nome,subject,title,name</string>
+			<key>kMDItemTempo</key>
+			<string>Tempo</string>
+			<key>kMDItemTempo.Description</key>
+			<string>Tempo da música no ficheiro áudio em batidas por minuto</string>
+			<key>kMDItemTempo.ShortName</key>
+			<string>tempo</string>
+			<key>kMDItemTextContent</key>
+			<string>Conteúdo de texto</string>
+			<key>kMDItemTextContent.Description</key>
+			<string>Conteúdo de texto deste elemento</string>
+			<key>kMDItemTextContent.ShortName</key>
+			<string>conteúdo,contém,texto,content,contains,intext</string>
+			<key>kMDItemTheme</key>
+			<string>Tema</string>
+			<key>kMDItemTheme.Description</key>
+			<string>Tema deste elemento</string>
+			<key>kMDItemTheme.ShortName</key>
+			<string>tema,theme</string>
+			<key>kMDItemTimeSignature</key>
+			<string>Compasso</string>
+			<key>kMDItemTimeSignature.Description</key>
+			<string>Compasso da música no ficheiro áudio ou MIDI</string>
+			<key>kMDItemTimeSignature.ShortDisplayName</key>
+			<string>Compasso</string>
+			<key>kMDItemTimeSignature.ShortName</key>
+			<string>compasso,timesignature</string>
+			<key>kMDItemTitle</key>
+			<string>Título</string>
+			<key>kMDItemTitle.Description</key>
+			<string>Título deste elemento</string>
+			<key>kMDItemTitle.ShortName</key>
+			<string>título,title</string>
+			<key>kMDItemTotalBitRate</key>
+			<string>Taxa de bits total</string>
+			<key>kMDItemTotalBitRate.Description</key>
+			<string>Taxa de bits combinada de áudio e vídeo no suporte</string>
+			<key>kMDItemTotalBitRate.ShortName</key>
+			<string>taxadebitstotal,taxadebits,totalbitrate,bitrate</string>
+			<key>kMDItemURL</key>
+			<string>URL</string>
+			<key>kMDItemURL.Description</key>
+			<string>URL deste elemento</string>
+			<key>kMDItemURL.ShortName</key>
+			<string>url</string>
+			<key>kMDItemUsedDates</key>
+			<string>Datas de utilização</string>
+			<key>kMDItemUsedDates.Description</key>
+			<string>Datas em que este elemento foi utilizado</string>
+			<key>kMDItemUsedDates.ShortName</key>
+			<string>utilizado,data,used,date</string>
+			<key>kMDItemUserTags</key>
+			<string>Identificadores</string>
+			<key>kMDItemUserTags.Description</key>
+			<string>Identificadores associados a este elemento</string>
+			<key>kMDItemUserTags.ShortName</key>
+			<string>identificador,etiqueta,tag</string>
+			<key>kMDItemVersion</key>
+			<string>Versão</string>
+			<key>kMDItemVersion.Description</key>
+			<string>Número da versão deste elemento</string>
+			<key>kMDItemVersion.ShortName</key>
+			<string>versão,version</string>
+			<key>kMDItemVideoBitRate</key>
+			<string>Taxa de bits de vídeo</string>
+			<key>kMDItemVideoBitRate.Description</key>
+			<string>Taxa de bits de vídeo no suporte</string>
+			<key>kMDItemVideoBitRate.ShortName</key>
+			<string>taxadebitsvídeo,taxadebits,videobitrate,bitrate</string>
+			<key>kMDItemWhereFroms</key>
+			<string>Proveniência</string>
+			<key>kMDItemWhereFroms.Description</key>
+			<string>Origem do elemento</string>
+			<key>kMDItemWhereFroms.ShortName</key>
+			<string>de,origem,proveniência,from,source,wherefrom</string>
+			<key>kMDItemWhiteBalance</key>
+			<string>Equilíbrio de brancos</string>
+			<key>kMDItemWhiteBalance.Description</key>
+			<string>Definição do equilíbrio de brancos da câmara quando a fotografia foi tirada</string>
+			<key>kMDItemWhiteBalance.ShortName</key>
+			<string>equilíbriodebrancos,whitebalance</string>
+		</dict>
+		<key>ro</key>
+		<dict>
+			<key>_kMDItemLabels.ShortName</key>
+			<string>etichetă,label</string>
+			<key>_kMDItemPathDisplayNames.ShortName</key>
+			<string>în,domeniu,in,scope</string>
+			<key>kMDItemAcquisitionMake</key>
+			<string>Marca dispozitivului</string>
+			<key>kMDItemAcquisitionMake.Description</key>
+			<string>Marca dispozitivului utilizat pentru obținerea documentului</string>
+			<key>kMDItemAcquisitionMake.ShortName</key>
+			<string>marcă,make</string>
+			<key>kMDItemAcquisitionModel</key>
+			<string>Modelul dispozitivului</string>
+			<key>kMDItemAcquisitionModel.Description</key>
+			<string>Modelul dispozitivului utilizat la obținerea acestui document</string>
+			<key>kMDItemAcquisitionModel.ShortName</key>
+			<string>model</string>
+			<key>kMDItemAlbum</key>
+			<string>Albumul</string>
+			<key>kMDItemAlbum.Description</key>
+			<string>Titlul unei colecții multimedia, precum un album muzical</string>
+			<key>kMDItemAlbum.ShortName</key>
+			<string>album,titlu,album,title</string>
+			<key>kMDItemAlternateNames</key>
+			<string>Numele de afișare alternative</string>
+			<key>kMDItemAlternateNames.Description</key>
+			<string>Numele alternative ale fișierului</string>
+			<key>kMDItemAltitude</key>
+			<string>Altitudinea</string>
+			<key>kMDItemAltitude.Description</key>
+			<string>Altitudinea articolului în metri deasupra nivelului mării, exprimată utilizând parametrii elipsoidului WGS84. Valorile negative se află sub nivelul mării.</string>
+			<key>kMDItemAltitude.ShortName</key>
+			<string>altitudine,altitude</string>
+			<key>kMDItemAperture</key>
+			<string>Valoarea diafragmei</string>
+			<key>kMDItemAperture.Description</key>
+			<string>Dimensiunea diafragmei obiectivului ca valoare APEX </string>
+			<key>kMDItemAperture.ShortName</key>
+			<string>diafragmă,fstop,aperture,fstop</string>
+			<key>kMDItemAppStoreCategory</key>
+			<string>Categoria</string>
+			<key>kMDItemAppStoreCategory.Description</key>
+			<string>Categoria App Store din care articolul face parte</string>
+			<key>kMDItemAppStoreCategory.ShortName</key>
+			<string>categorie,category</string>
+			<key>kMDItemAppleLoopDescriptors</key>
+			<string>Descriptorii buclei</string>
+			<key>kMDItemAppleLoopDescriptors.Description</key>
+			<string>Cuvinte cheie care descriu modul și alte aspecte ale buclei</string>
+			<key>kMDItemAppleLoopsKeyFilterType</key>
+			<string>Tipul gamei buclei</string>
+			<key>kMDItemAppleLoopsKeyFilterType.Description</key>
+			<string>Dacă bucla utilizează o gamă majoră sau minoră, nicio gamă sau poate fi utilizată cu ambele.</string>
+			<key>kMDItemAppleLoopsLoopMode</key>
+			<string>Tip de fișier buclă</string>
+			<key>kMDItemAppleLoopsLoopMode.Description</key>
+			<string>Dacă fișierul e un fișier în buclă sau nu. Fișierele în buclă își reglează tempo-ul după tempo-ul melodiei, iar cele continue își păstrează tempo-ul înregistrat.</string>
+			<key>kMDItemAppleLoopsRootKey</key>
+			<string>Cheia originală a buclei</string>
+			<key>kMDItemAppleLoopsRootKey.Description</key>
+			<string>Afișează cheia originală a buclei. Cheia este nota rădăcină sau tonica buclei și nu include tipul gamei.</string>
+			<key>kMDItemApplicationCategories</key>
+			<string>Categoriile aplicației</string>
+			<key>kMDItemApplicationCategories.Description</key>
+			<string>Categoriile din care aplicația face parte</string>
+			<key>kMDItemApplicationCategories.ShortName</key>
+			<string>categorii,categories</string>
+			<key>kMDItemAudiences</key>
+			<string>Audiența</string>
+			<key>kMDItemAudiences.Description</key>
+			<string>Persoana căreia îi este destinat documentul</string>
+			<key>kMDItemAudiences.ShortName</key>
+			<string>către,audiență,to,audience</string>
+			<key>kMDItemAudioBitRate</key>
+			<string>Rata de biți audio</string>
+			<key>kMDItemAudioBitRate.Description</key>
+			<string>Rata de biți a componentei audio din fișierul multimedia</string>
+			<key>kMDItemAudioBitRate.ShortDisplayName</key>
+			<string>Rată de biți</string>
+			<key>kMDItemAudioBitRate.ShortName</key>
+			<string>ratădebițiaudio,ratădebiți,audiobitrate,bitrate</string>
+			<key>kMDItemAudioChannelCount</key>
+			<string>Numărul de canale audio</string>
+			<key>kMDItemAudioChannelCount.Description</key>
+			<string>Numărul de canale din datele audio ale fișierului</string>
+			<key>kMDItemAudioChannelCount.ShortName</key>
+			<string>canale,channels</string>
+			<key>kMDItemAudioEncodingApplication</key>
+			<string>Aplicația de codare audio</string>
+			<key>kMDItemAudioEncodingApplication.Description</key>
+			<string>Numele aplicației care a codat datele din fișierul audio</string>
+			<key>kMDItemAudioEncodingApplication.ShortDisplayName</key>
+			<string>Codat de</string>
+			<key>kMDItemAudioEncodingApplication.ShortName</key>
+			<string>codor,codatde,aplicațiedecodareaudio,encoder,encodedby,audioencodingapplication</string>
+			<key>kMDItemAudioSampleRate</key>
+			<string>Rata de eșantionare</string>
+			<key>kMDItemAudioSampleRate.Description</key>
+			<string>Rata de eșantionare a datelor audio ale fișierului</string>
+			<key>kMDItemAudioSampleRate.ShortDisplayName</key>
+			<string>Rată de eșantionare</string>
+			<key>kMDItemAudioSampleRate.ShortName</key>
+			<string>ratăeșantionaudio,ratădeeșantionare,audiosamplerate,samplerate</string>
+			<key>kMDItemAudioTrackNumber</key>
+			<string>Numărul pistei</string>
+			<key>kMDItemAudioTrackNumber.Description</key>
+			<string>Numărul de piesă al unei melodii dintr-un album</string>
+			<key>kMDItemAudioTrackNumber.ShortName</key>
+			<string>numărpistă,tracknumber</string>
+			<key>kMDItemAuthorAddresses</key>
+			<string>Adresele autorilor</string>
+			<key>kMDItemAuthorAddresses.Description</key>
+			<string>Adresele autorilor acestui articol</string>
+			<key>kMDItemAuthorAddresses.ShortName</key>
+			<string>dela,from</string>
+			<key>kMDItemAuthorEmailAddresses</key>
+			<string>Adresele de e-mail ale autorilor</string>
+			<key>kMDItemAuthorEmailAddresses.Description</key>
+			<string>Adresele de e-mail pentru autorii acestui articol</string>
+			<key>kMDItemAuthorEmailAddresses.ShortName</key>
+			<string>dela,email,mail</string>
+			<key>kMDItemAuthors</key>
+			<string>Autorii</string>
+			<key>kMDItemAuthors.Description</key>
+			<string>Autorii articolului</string>
+			<key>kMDItemAuthors.ShortName</key>
+			<string>dela,autor,cu,de,from,author,with,by,from,author,with,by</string>
+			<key>kMDItemBitsPerSample</key>
+			<string>Biți per eșantion</string>
+			<key>kMDItemBitsPerSample.Description</key>
+			<string>Numărul de biți per eșantion</string>
+			<key>kMDItemBitsPerSample.ShortName</key>
+			<string>bițipereșantion,bps,bitspersample,bps</string>
+			<key>kMDItemCity</key>
+			<string>Orașul</string>
+			<key>kMDItemCity.Description</key>
+			<string>Orașul articolului</string>
+			<key>kMDItemCity.ShortName</key>
+			<string>oraș,city</string>
+			<key>kMDItemCodecs</key>
+			<string>Codecurile</string>
+			<key>kMDItemCodecs.Description</key>
+			<string>Codecurile utilizate la codarea și decodarea fișierului multimedia</string>
+			<key>kMDItemCodecs.ShortName</key>
+			<string>codec</string>
+			<key>kMDItemColorSpace</key>
+			<string>Spațiul de culoare</string>
+			<key>kMDItemColorSpace.Description</key>
+			<string>Modelul spațiului de culoare al imaginii</string>
+			<key>kMDItemColorSpace.ShortName</key>
+			<string>spațiudeculoare,colorspace</string>
+			<key>kMDItemComment</key>
+			<string>Comentariul</string>
+			<key>kMDItemComment.Description</key>
+			<string>Comentariile despre acest articol</string>
+			<key>kMDItemComment.ShortName</key>
+			<string>comentariu,comment</string>
+			<key>kMDItemComposer</key>
+			<string>Compozitorul</string>
+			<key>kMDItemComposer.Description</key>
+			<string>Compozitorul melodiei din fișierul audio</string>
+			<key>kMDItemComposer.ShortName</key>
+			<string>de,compozitor,autor,by,composer,author</string>
+			<key>kMDItemContactKeywords</key>
+			<string>Cuvintele cheie de contact</string>
+			<key>kMDItemContactKeywords.Description</key>
+			<string>Contactele asociate cu acest articol</string>
+			<key>kMDItemContactKeywords.ShortName</key>
+			<string>contact,cuvântcheiecontact,cuvântcheie,contact,contactkeyword,keyword</string>
+			<key>kMDItemContentCreationDate</key>
+			<string>Conținutul creat</string>
+			<key>kMDItemContentCreationDate.Description</key>
+			<string>Data creării conținutului articolului</string>
+			<key>kMDItemContentCreationDate.ShortName</key>
+			<string>conținutcreat,creat,dată,contentcreated,created,date</string>
+			<key>kMDItemContentModificationDate</key>
+			<string>Conținutul modificat</string>
+			<key>kMDItemContentModificationDate.Description</key>
+			<string>Data modificării conținutului articolului</string>
+			<key>kMDItemContentModificationDate.ShortName</key>
+			<string>conținutmodificat,modificat,dată,contentmodified,modified,date</string>
+			<key>kMDItemContributors</key>
+			<string>Colaboratorii</string>
+			<key>kMDItemContributors.Description</key>
+			<string>Persoanele și organizațiile care contribuie la conținutul documentului</string>
+			<key>kMDItemContributors.ShortName</key>
+			<string>de,contribuitor,autor,cu,by,contributor,author,with</string>
+			<key>kMDItemCopyright</key>
+			<string>Copyrightul</string>
+			<key>kMDItemCopyright.Description</key>
+			<string>Informațiile de copyright referitoare la acest articol</string>
+			<key>kMDItemCopyright.ShortName</key>
+			<string>copyright</string>
+			<key>kMDItemCountry</key>
+			<string>Regiune</string>
+			<key>kMDItemCountry.Description</key>
+			<string>Țara, regiunea sau locul unde a fost creat articolul, conform furnizorului</string>
+			<key>kMDItemCountry.ShortName</key>
+			<string>țară,regiune</string>
+			<key>kMDItemCoverage</key>
+			<string>Acoperirea</string>
+			<key>kMDItemCoverage.Description</key>
+			<string>Domeniul sau obiectivul conținutului documentului</string>
+			<key>kMDItemCoverage.ShortName</key>
+			<string>acoperire,coverage</string>
+			<key>kMDItemCreator</key>
+			<string>Creatorul conținutului</string>
+			<key>kMDItemCreator.Description</key>
+			<string>Aplicația utilizată pentru a crea documentul</string>
+			<key>kMDItemCreator.ShortName</key>
+			<string>creator</string>
+			<key>kMDItemDateAdded</key>
+			<string>Data adăugării</string>
+			<key>kMDItemDateAdded.Description</key>
+			<string>Data ultimei mutări a acestui articol</string>
+			<key>kMDItemDateAdded.ShortName</key>
+			<string>dataadăugării,adăugat,data,dateadded,added,date</string>
+			<key>kMDItemDeliveryType</key>
+			<string>Tipul livrării</string>
+			<key>kMDItemDeliveryType.Description</key>
+			<string>Metoda utilizată pentru livrarea conținutului multimedia (Fast Start sau RTSP)</string>
+			<key>kMDItemDeliveryType.ShortName</key>
+			<string>livrare,delivery</string>
+			<key>kMDItemDescription</key>
+			<string>Descrierea</string>
+			<key>kMDItemDescription.Description</key>
+			<string>Descrierea conținutului documentului</string>
+			<key>kMDItemDescription.ShortName</key>
+			<string>descriere,comentariu,description,comment</string>
+			<key>kMDItemDirector</key>
+			<string>Regizorul</string>
+			<key>kMDItemDirector.Description</key>
+			<string>Regizorul</string>
+			<key>kMDItemDisplayName</key>
+			<string>Numele afișat</string>
+			<key>kMDItemDisplayName.Description</key>
+			<string>Numele localizat al fișierului</string>
+			<key>kMDItemDisplayName.ShortName</key>
+			<string>nume,numeafișat,name,displayname,name,displayname</string>
+			<key>kMDItemDocumentContainer</key>
+			<string>Containerul documentului</string>
+			<key>kMDItemDocumentContainer.Description</key>
+			<string>Dosarul părinte al articolului</string>
+			<key>kMDItemDocumentContainer.ShortName</key>
+			<string>container</string>
+			<key>kMDItemDueDate</key>
+			<string>Data scadentă</string>
+			<key>kMDItemDueDate.Description</key>
+			<string>Data scadentă a articolului</string>
+			<key>kMDItemDueDate.ShortName</key>
+			<string>datascadentă,dată,duedate,date</string>
+			<key>kMDItemDurationSeconds</key>
+			<string>Durata</string>
+			<key>kMDItemDurationSeconds.Description</key>
+			<string>Durata articolului în secunde</string>
+			<key>kMDItemDurationSeconds.ShortName</key>
+			<string>durată,timp,duration,time</string>
+			<key>kMDItemEXIFGPSVersion</key>
+			<string>Versiunea GPS EXIF</string>
+			<key>kMDItemEXIFGPSVersion.Description</key>
+			<string>Versiunea GPSInfoIFD din EXIF utilizată la generarea metadatelor</string>
+			<key>kMDItemEXIFVersion</key>
+			<string>Versiunea EXIF</string>
+			<key>kMDItemEXIFVersion.Description</key>
+			<string>Versiunea EXIF utilizată la generarea metadatelor</string>
+			<key>kMDItemEXIFVersion.ShortName</key>
+			<string>versiuneexif,exifversion</string>
+			<key>kMDItemEditors</key>
+			<string>Redactorii</string>
+			<key>kMDItemEditors.Description</key>
+			<string>Redactorii articolului</string>
+			<key>kMDItemEditors.ShortName</key>
+			<string>redactor</string>
+			<key>kMDItemEmailAddresses</key>
+			<string>Adresele de e-mail</string>
+			<key>kMDItemEmailAddresses.Description</key>
+			<string>Adresele de e-mail asociate cu articolul</string>
+			<key>kMDItemEmailAddresses.ShortName</key>
+			<string>email,mail</string>
+			<key>kMDItemEncodingApplications</key>
+			<string>Software-ul de codare</string>
+			<key>kMDItemEncodingApplications.Description</key>
+			<string>Software-ul utilizat pentru conversia conținutului original</string>
+			<key>kMDItemEncodingApplications.ShortDisplayName</key>
+			<string>Codat de</string>
+			<key>kMDItemEncodingApplications.ShortName</key>
+			<string>codor,codatde,aplicațiedecodare,encoder,encodedby,encodingapplication</string>
+			<key>kMDItemEndDate</key>
+			<string>Data terminării</string>
+			<key>kMDItemEndDate.Description</key>
+			<string>Data terminării acestui articol</string>
+			<key>kMDItemEndDate.ShortName</key>
+			<string>dataterminării,dată,enddate,date</string>
+			<key>kMDItemExecutableArchitectures</key>
+			<string>Arhitecturile executabile</string>
+			<key>kMDItemExecutableArchitectures.Description</key>
+			<string>Arhitecturile necesare articolului pentru execuție</string>
+			<key>kMDItemExecutableArchitectures.ShortName</key>
+			<string>architecturi,architectures</string>
+			<key>kMDItemExecutablePlatform</key>
+			<string>Platforma executabilă</string>
+			<key>kMDItemExecutablePlatform.Description</key>
+			<string>Platforma necesară articolului pentru execuție</string>
+			<key>kMDItemExecutablePlatform.ShortName</key>
+			<string>platformă,platform</string>
+			<key>kMDItemExposureMode</key>
+			<string>Modul de expunere</string>
+			<key>kMDItemExposureMode.Description</key>
+			<string>Modul utilizat pentru expunere</string>
+			<key>kMDItemExposureMode.ShortName</key>
+			<string>modexpunere,exposuremode</string>
+			<key>kMDItemExposureProgram</key>
+			<string>Programul de expunere</string>
+			<key>kMDItemExposureProgram.Description</key>
+			<string>Tipul de program utilizat de cameră pentru a regla expunerea: Manual, Normal, Prioritate de diafragmă, …</string>
+			<key>kMDItemExposureProgram.ShortName</key>
+			<string>expunere,programdeexpunere,exposure,exposureprogram</string>
+			<key>kMDItemExposureTimeSeconds</key>
+			<string>Timpul de expunere</string>
+			<key>kMDItemExposureTimeSeconds.Description</key>
+			<string>Durata pentru care obiectivul a fost deschis în timpul expunerii</string>
+			<key>kMDItemExposureTimeSeconds.ShortName</key>
+			<string>timpexpunere,timp,exposuretime,time</string>
+			<key>kMDItemExposureTimeString</key>
+			<string>Timpul de expunere</string>
+			<key>kMDItemExposureTimeString.Description</key>
+			<string>Timpul de expunere</string>
+			<key>kMDItemExposureTimeString.ShortName</key>
+			<string>timpexpunere,timp,exposuretime,time</string>
+			<key>kMDItemFNumber</key>
+			<string>Numărul F</string>
+			<key>kMDItemFNumber.Description</key>
+			<string>Distanța focală a obiectivului împărțită la diametrul diafragmei</string>
+			<key>kMDItemFNumber.ShortName</key>
+			<string>diafragmă,fstop,fnumber,fstop</string>
+			<key>kMDItemFSContentChangeDate</key>
+			<string>Modificat</string>
+			<key>kMDItemFSContentChangeDate.Description</key>
+			<string>Data ultimii modificări a conținutului</string>
+			<key>kMDItemFSContentChangeDate.ShortName</key>
+			<string>modificat,modified</string>
+			<key>kMDItemFSCreationDate</key>
+			<string>Creat</string>
+			<key>kMDItemFSCreationDate.Description</key>
+			<string>Data creării fișierului</string>
+			<key>kMDItemFSCreationDate.ShortName</key>
+			<string>creat,created</string>
+			<key>kMDItemFSHasCustomIcon</key>
+			<string>Pictogramă personalizată</string>
+			<key>kMDItemFSHasCustomIcon.Description</key>
+			<string>Dacă fișierul are o pictogramă personalizată</string>
+			<key>kMDItemFSInvisible</key>
+			<string>Fișier invizibil</string>
+			<key>kMDItemFSInvisible.Description</key>
+			<string>Dacă fișierul e vizibil</string>
+			<key>kMDItemFSInvisible.ShortName</key>
+			<string>invizibil,invisible</string>
+			<key>kMDItemFSIsExtensionHidden</key>
+			<string>Extensie fișier ascunsă</string>
+			<key>kMDItemFSIsExtensionHidden.Description</key>
+			<string>Dacă extensia fișierului este ascunsă</string>
+			<key>kMDItemFSIsStationery</key>
+			<string>Model</string>
+			<key>kMDItemFSIsStationery.Description</key>
+			<string>Dacă fișierul este de tip model</string>
+			<key>kMDItemFSIsStationery.ShortName</key>
+			<string>model,stationery</string>
+			<key>kMDItemFSLabel</key>
+			<string>Eticheta fișierului</string>
+			<key>kMDItemFSLabel.Description</key>
+			<string>Eticheta Finder alocată fișierului</string>
+			<key>kMDItemFSName</key>
+			<string>Numele fișierului</string>
+			<key>kMDItemFSName.Description</key>
+			<string>Numele fișierului</string>
+			<key>kMDItemFSName.ShortName</key>
+			<string>numefișier,filename</string>
+			<key>kMDItemFSNodeCount</key>
+			<string>Numărul de articole</string>
+			<key>kMDItemFSNodeCount.Description</key>
+			<string>Numărul de fișiere și de dosare din dosar</string>
+			<key>kMDItemFSOwnerGroupID</key>
+			<string>Grupul</string>
+			<key>kMDItemFSOwnerGroupID.Description</key>
+			<string>ID-ul de grup al proprietarului fișierului</string>
+			<key>kMDItemFSOwnerGroupID.ShortName</key>
+			<string>grup,group</string>
+			<key>kMDItemFSOwnerUserID</key>
+			<string>Proprietarul</string>
+			<key>kMDItemFSOwnerUserID.Description</key>
+			<string>ID de utilizator al proprietarului fișierului</string>
+			<key>kMDItemFSOwnerUserID.ShortName</key>
+			<string>proprietar,owner</string>
+			<key>kMDItemFSSize</key>
+			<string>Dimensiunea fișierului</string>
+			<key>kMDItemFSSize.Description</key>
+			<string>Dimensiunea logică a fișierului pe disc în bytes</string>
+			<key>kMDItemFSSize.ShortName</key>
+			<string>dimensiune,size</string>
+			<key>kMDItemFinderComment</key>
+			<string>Comentariul Spotlight </string>
+			<key>kMDItemFinderComment.Description</key>
+			<string>Comentariul Spotlight pentru acest articol</string>
+			<key>kMDItemFinderComment.ShortName</key>
+			<string>comentariu,comentariuspotlight,comment,spotlightcomment</string>
+			<key>kMDItemFlashOnOff</key>
+			<string>Bliț</string>
+			<key>kMDItemFlashOnOff.Description</key>
+			<string>Dacă imaginea a fost înregistrată utilizând un bliț</string>
+			<key>kMDItemFlashOnOff.ShortName</key>
+			<string>bliț,flash</string>
+			<key>kMDItemFocalLength</key>
+			<string>Distanța focală</string>
+			<key>kMDItemFocalLength.Description</key>
+			<string>Lungimea focală a obiectivului în milimetri (mm)</string>
+			<key>kMDItemFocalLength.ShortName</key>
+			<string>distanțăfocală,focallength</string>
+			<key>kMDItemFonts</key>
+			<string>Fonturile</string>
+			<key>kMDItemFonts.Description</key>
+			<string>Fonturile utilizate în articol</string>
+			<key>kMDItemFonts.ShortName</key>
+			<string>font</string>
+			<key>kMDItemGenre</key>
+			<string>Genul</string>
+			<key>kMDItemGenre.Description</key>
+			<string>Genul</string>
+			<key>kMDItemHasAlphaChannel</key>
+			<string>Canal alfa</string>
+			<key>kMDItemHasAlphaChannel.Description</key>
+			<string>Dacă imaginea are un canal alfa</string>
+			<key>kMDItemHasAlphaChannel.ShortName</key>
+			<string>alfa,alpha</string>
+			<key>kMDItemHeadline</key>
+			<string>Colontitlu</string>
+			<key>kMDItemHeadline.Description</key>
+			<string>Rezumatul publicabil al conținutului articolului</string>
+			<key>kMDItemHeadline.ShortName</key>
+			<string>colontitlu,titlu,headline,title</string>
+			<key>kMDItemISOSpeed</key>
+			<string>Sensibilitatea ISO </string>
+			<key>kMDItemISOSpeed.Description</key>
+			<string>Sensibilitatea ISO a camerei la înregistrarea imaginilor</string>
+			<key>kMDItemISOSpeed.ShortName</key>
+			<string>iso</string>
+			<key>kMDItemIdentifier</key>
+			<string>Identificatorul</string>
+			<key>kMDItemIdentifier.Description</key>
+			<string>Referința la o sursă din cadrul unui context dat</string>
+			<key>kMDItemIdentifier.ShortName</key>
+			<string>id</string>
+			<key>kMDItemInformation</key>
+			<string>Informațiile filmului</string>
+			<key>kMDItemInformation.Description</key>
+			<string>Informațiile filmului</string>
+			<key>kMDItemInstantMessageAddresses</key>
+			<string>Adresele de mesagerie instantanee</string>
+			<key>kMDItemInstantMessageAddresses.Description</key>
+			<string>Adresele de mesagerie instantanee asociate cu articolul</string>
+			<key>kMDItemInstantMessageAddresses.ShortName</key>
+			<string>chat,numeim,chat,imname</string>
+			<key>kMDItemInstructions</key>
+			<string>Instrucțiunile</string>
+			<key>kMDItemInstructions.Description</key>
+			<string>Alte informații despre articol, precum manevrarea instrucțiunilor</string>
+			<key>kMDItemInstructions.ShortName</key>
+			<string>instrucțiuni,instructions</string>
+			<key>kMDItemIsApplicationManaged</key>
+			<string>Este gestionat de o aplicație</string>
+			<key>kMDItemIsApplicationManaged.Description</key>
+			<string>Fișierul este deținut și gestionat de o aplicație</string>
+			<key>kMDItemIsApplicationManaged.ShortName</key>
+			<string>gestionatdeaplicație,appmanaged</string>
+			<key>kMDItemIsGeneralMIDISequence</key>
+			<string>Secvență MIDI generală</string>
+			<key>kMDItemIsGeneralMIDISequence.Description</key>
+			<string>Dacă secvența MIDI din fișier este configurată pentru utilizarea cu un dispozitiv MIDI general</string>
+			<key>kMDItemIsGeneralMIDISequence.ShortName</key>
+			<string>estemidi,ismidi</string>
+			<key>kMDItemIsLikelyJunk</key>
+			<string>Este spam</string>
+			<key>kMDItemIsLikelyJunk.Description</key>
+			<string>Dacă este probabil ca fișierul să fie considerat spam</string>
+			<key>kMDItemIsLikelyJunk.ShortName</key>
+			<string>estespam,isjunk</string>
+			<key>kMDItemKeySignature</key>
+			<string>Armura</string>
+			<key>kMDItemKeySignature.Description</key>
+			<string>Cheia muzicală a melodiei din fișierul audio</string>
+			<key>kMDItemKeySignature.ShortName</key>
+			<string>cheie,semnăturăcheie,key,keysignature</string>
+			<key>kMDItemKeywords</key>
+			<string>Cuvintele cheie</string>
+			<key>kMDItemKeywords.Description</key>
+			<string>Cuvintele cheie asociate cu articolul</string>
+			<key>kMDItemKeywords.ShortName</key>
+			<string>keyword</string>
+			<key>kMDItemKind</key>
+			<string>Tipul</string>
+			<key>kMDItemKind.Description</key>
+			<string>Tipul articolului</string>
+			<key>kMDItemKind.ShortName</key>
+			<string>tip,kind</string>
+			<key>kMDItemLanguages</key>
+			<string>Limbile</string>
+			<key>kMDItemLanguages.Description</key>
+			<string>Limbile conținutului documentului</string>
+			<key>kMDItemLanguages.ShortName</key>
+			<string>limbă,language</string>
+			<key>kMDItemLastUsedDate</key>
+			<string>Ultima deschidere</string>
+			<key>kMDItemLastUsedDate.Description</key>
+			<string>Data ultimei utilizări a articolului</string>
+			<key>kMDItemLastUsedDate.ShortName</key>
+			<string>dataultimeiutilizări,dată,lastused,date</string>
+			<key>kMDItemLatitude</key>
+			<string>Latitudinea</string>
+			<key>kMDItemLatitude.Description</key>
+			<string>Latitudinea articolului în grade la nord față de ecuator, exprimată utilizând parametrii elipsoidului WGS84. Valorile negative se află la sud de ecuator.</string>
+			<key>kMDItemLatitude.ShortName</key>
+			<string>latitudine,latitude</string>
+			<key>kMDItemLayerNames</key>
+			<string>Straturile</string>
+			<key>kMDItemLayerNames.Description</key>
+			<string>Numele straturilor din fișier</string>
+			<key>kMDItemLayerNames.ShortName</key>
+			<string>strat,layer</string>
+			<key>kMDItemLensModel</key>
+			<string>Modelul obiectivului</string>
+			<key>kMDItemLensModel.Description</key>
+			<string>Modelul obiectivului utilizat pentru obținerea acestui document</string>
+			<key>kMDItemLensModel.ShortName</key>
+			<string>obiectiv,lens</string>
+			<key>kMDItemLogicalSize</key>
+			<string>Dimensiunea logică</string>
+			<key>kMDItemLogicalSize.Description</key>
+			<string>Dimensiunea logică a articolului în bytes</string>
+			<key>kMDItemLongitude</key>
+			<string>Longitudinea</string>
+			<key>kMDItemLongitude.Description</key>
+			<string>Longitudinea articolului în grade spre est față de primul meridian, exprimat utilizând parametrii elipsoidului WGS84. Valorile negative se află la vest de primul meridian.</string>
+			<key>kMDItemLongitude.ShortName</key>
+			<string>longitudine,longitude</string>
+			<key>kMDItemLyricist</key>
+			<string>Textierul</string>
+			<key>kMDItemLyricist.Description</key>
+			<string>Textierul melodiei din fișierul audio</string>
+			<key>kMDItemLyricist.ShortName</key>
+			<string>de,textier,autor,by,lyricist,author</string>
+			<key>kMDItemMaxAperture</key>
+			<string>Diafragma maximă</string>
+			<key>kMDItemMaxAperture.Description</key>
+			<string>Cel mai mic număr F al obiectivului în unități APEX, de obicei în intervalul dintre 00,00 și 99,99</string>
+			<key>kMDItemMaxAperture.ShortName</key>
+			<string>diafragmămaximă,maxaperture</string>
+			<key>kMDItemMediaTypes</key>
+			<string>Tipurile multimedia</string>
+			<key>kMDItemMediaTypes.Description</key>
+			<string>Tipurile multimedia prezente în conținut</string>
+			<key>kMDItemMediaTypes.ShortName</key>
+			<string>mutimedia,conține,tipmultimedia,media,contains,mediatype</string>
+			<key>kMDItemMeteringMode</key>
+			<string>Modul de măsurare</string>
+			<key>kMDItemMeteringMode.Description</key>
+			<string>Modul de măsurare (Necunoscut, Medie, Medie central-ponderată, Spot, MultiSpot, Model, Parțial)</string>
+			<key>kMDItemMeteringMode.ShortName</key>
+			<string>măsurare,modmăsurare,metering,meteringmode</string>
+			<key>kMDItemMusicalGenre</key>
+			<string>Genul muzical</string>
+			<key>kMDItemMusicalGenre.Description</key>
+			<string>Genul muzical al melodiei din fișierul audio</string>
+			<key>kMDItemMusicalGenre.ShortName</key>
+			<string>gen,genmuzical,genre,musicalgenre</string>
+			<key>kMDItemMusicalInstrumentCategory</key>
+			<string>Categoria de instrumente</string>
+			<key>kMDItemMusicalInstrumentCategory.Description</key>
+			<string>Categoria de instrumente din care face parte fișierul</string>
+			<key>kMDItemMusicalInstrumentCategory.ShortName</key>
+			<string>instrument,categorieinstrument,instrument,instrumentcategory</string>
+			<key>kMDItemMusicalInstrumentName</key>
+			<string>Numele instrumentului</string>
+			<key>kMDItemMusicalInstrumentName.Description</key>
+			<string>Numele instrumentului relativ la categoria de instrumente</string>
+			<key>kMDItemMusicalInstrumentName.ShortName</key>
+			<string>instrument,numeinstrument,instrument,instrumentname</string>
+			<key>kMDItemNamedLocation</key>
+			<string>Locul</string>
+			<key>kMDItemNamedLocation.Description</key>
+			<string>Numele locului sau al obiectivului de interes</string>
+			<key>kMDItemNamedLocation.ShortName</key>
+			<string>loc,location</string>
+			<key>kMDItemNumberOfPages</key>
+			<string>Numărul de pagini</string>
+			<key>kMDItemNumberOfPages.Description</key>
+			<string>Numărul de pagini din document</string>
+			<key>kMDItemNumberOfPages.ShortName</key>
+			<string>pagini,pages</string>
+			<key>kMDItemOrganizations</key>
+			<string>Organizațiile</string>
+			<key>kMDItemOrganizations.Description</key>
+			<string>Organizațiile care au creat documentul</string>
+			<key>kMDItemOrganizations.ShortName</key>
+			<string>organizație,organization</string>
+			<key>kMDItemOrientation</key>
+			<string>Orientarea</string>
+			<key>kMDItemOrientation.Description</key>
+			<string>Orientarea imaginii (peisaj sau portret)</string>
+			<key>kMDItemOrientation.ShortName</key>
+			<string>orientare,orientation</string>
+			<key>kMDItemOriginalFormat</key>
+			<string>Formatul original</string>
+			<key>kMDItemOriginalFormat.Description</key>
+			<string>Formatul original</string>
+			<key>kMDItemOriginalSource</key>
+			<string>Sursa originală</string>
+			<key>kMDItemOriginalSource.Description</key>
+			<string>Sursa originală</string>
+			<key>kMDItemPageHeight</key>
+			<string>Înălțimea paginii</string>
+			<key>kMDItemPageHeight.Description</key>
+			<string>Înălțimea paginii documentului în puncte</string>
+			<key>kMDItemPageHeight.ShortName</key>
+			<string>înălțimepagină,înălțime,pageheight,height</string>
+			<key>kMDItemPageWidth</key>
+			<string>Lățimea paginii</string>
+			<key>kMDItemPageWidth.Description</key>
+			<string>Lățimea paginii documentului în puncte</string>
+			<key>kMDItemPageWidth.ShortName</key>
+			<string>lățimepagină,lățime,pagewidth,width</string>
+			<key>kMDItemParticipants</key>
+			<string>Participanții</string>
+			<key>kMDItemParticipants.Description</key>
+			<string>Participanții la acest articol</string>
+			<key>kMDItemPath</key>
+			<string>Numele căii fișierului</string>
+			<key>kMDItemPath.Description</key>
+			<string>Numele complet al căii acestui fișier</string>
+			<key>kMDItemPath.ShortName</key>
+			<string>cale,path</string>
+			<key>kMDItemPerformers</key>
+			<string>Interpreții</string>
+			<key>kMDItemPerformers.Description</key>
+			<string>Interpreții</string>
+			<key>kMDItemPhoneNumbers</key>
+			<string>Numărul de telefon</string>
+			<key>kMDItemPhoneNumbers.Description</key>
+			<string>Numerele de telefon asociate cu articolul</string>
+			<key>kMDItemPhoneNumbers.ShortName</key>
+			<string>telefon,numărtelefon,phone,phonenumber</string>
+			<key>kMDItemPhysicalSize</key>
+			<string>Dimensiunea fizică</string>
+			<key>kMDItemPhysicalSize.Description</key>
+			<string>Dimensiunea fizică a articolului în bytes</string>
+			<key>kMDItemPixelCount</key>
+			<string>Numărul de pixeli</string>
+			<key>kMDItemPixelCount.Description</key>
+			<string>Numărul total de pixeli din document</string>
+			<key>kMDItemPixelCount.ShortName</key>
+			<string>numărpixeli,pixelcount</string>
+			<key>kMDItemPixelHeight</key>
+			<string>Înălțimea în pixeli</string>
+			<key>kMDItemPixelHeight.Description</key>
+			<string>Înălțimea documentului în pixeli</string>
+			<key>kMDItemPixelHeight.ShortName</key>
+			<string>înălțimepixeli,înălțime,pixelheight,height</string>
+			<key>kMDItemPixelWidth</key>
+			<string>Lățimea în pixeli</string>
+			<key>kMDItemPixelWidth.Description</key>
+			<string>Lățimea documentului în pixeli</string>
+			<key>kMDItemPixelWidth.ShortName</key>
+			<string>lățimepixeli,lățime,pixelwidth,width</string>
+			<key>kMDItemProducer</key>
+			<string>Producătorul</string>
+			<key>kMDItemProducer.Description</key>
+			<string>Producătorul articolelor</string>
+			<key>kMDItemProducer.ShortName</key>
+			<string>producător,producer</string>
+			<key>kMDItemProfileName</key>
+			<string>Profilul de culoare</string>
+			<key>kMDItemProfileName.Description</key>
+			<string>Numele profilului de culoare al imaginii</string>
+			<key>kMDItemProfileName.ShortName</key>
+			<string>profil,profile</string>
+			<key>kMDItemProject.ShortName</key>
+			<string>proiect,project</string>
+			<key>kMDItemProjects</key>
+			<string>Proiectele</string>
+			<key>kMDItemProjects.Description</key>
+			<string>Proiectele din care face parte articolul</string>
+			<key>kMDItemPublishers</key>
+			<string>Editorii</string>
+			<key>kMDItemPublishers.Description</key>
+			<string>Editorul documentului</string>
+			<key>kMDItemPublishers.ShortName</key>
+			<string>editor,publisher</string>
+			<key>kMDItemPurchaseDate</key>
+			<string>Data cumpărării</string>
+			<key>kMDItemPurchaseDate.Description</key>
+			<string>Data cumpărării acestui articol</string>
+			<key>kMDItemPurchaseDate.ShortName</key>
+			<string>datacumpărării,purchasedate</string>
+			<key>kMDItemRecipientAddresses</key>
+			<string>Adresele destinatarilor</string>
+			<key>kMDItemRecipientAddresses.Description</key>
+			<string>Adresele autorilor acestui articol</string>
+			<key>kMDItemRecipientAddresses.ShortName</key>
+			<string>către,to</string>
+			<key>kMDItemRecipientEmailAddresses</key>
+			<string>Adresele de e-mail ale destinatarilor</string>
+			<key>kMDItemRecipientEmailAddresses.Description</key>
+			<string>Adresele de e-mail pentru destinatarii articolului</string>
+			<key>kMDItemRecipientEmailAddresses.ShortName</key>
+			<string>către,email,mail</string>
+			<key>kMDItemRecipients</key>
+			<string>Destinatarii</string>
+			<key>kMDItemRecipients.Description</key>
+			<string>Destinatarii articolului</string>
+			<key>kMDItemRecipients.ShortName</key>
+			<string>către,destinatar,cu,to,recipient,with</string>
+			<key>kMDItemRecordingDate</key>
+			<string>Data înregistrării</string>
+			<key>kMDItemRecordingDate.Description</key>
+			<string>Data înregistrării melodiei</string>
+			<key>kMDItemRecordingDate.ShortName</key>
+			<string>dataînregistrării,dată,recordingdate,date</string>
+			<key>kMDItemRecordingYear</key>
+			<string>Anul înregistrării</string>
+			<key>kMDItemRecordingYear.Description</key>
+			<string>Anul de înregistrare al articolului</string>
+			<key>kMDItemRecordingYear.ShortName</key>
+			<string>anulînregistrării,an,yearrecorded,year</string>
+			<key>kMDItemRedEyeOnOff</key>
+			<string>Ochi roșii</string>
+			<key>kMDItemRedEyeOnOff.Description</key>
+			<string>Dacă era activată sau dezactivată corecția de “ochi roșii”</string>
+			<key>kMDItemRedEyeOnOff.ShortName</key>
+			<string>ochiroșii,redeye</string>
+			<key>kMDItemResolutionHeightDPI</key>
+			<string>Înălțimea rezoluției</string>
+			<key>kMDItemResolutionHeightDPI.Description</key>
+			<string>Înălțimea rezoluției acestei imagini în DPI</string>
+			<key>kMDItemResolutionHeightDPI.ShortName</key>
+			<string>înălțimedpi,dpi,heightdpi,dpi</string>
+			<key>kMDItemResolutionWidthDPI</key>
+			<string>Lățimea rezoluției</string>
+			<key>kMDItemResolutionWidthDPI.Description</key>
+			<string>Lățimea rezoluției acestei imagini în DPI</string>
+			<key>kMDItemResolutionWidthDPI.ShortName</key>
+			<string>lățimedpi,dpi,widthdpi,dpi</string>
+			<key>kMDItemRights</key>
+			<string>Drepturile</string>
+			<key>kMDItemRights.Description</key>
+			<string>Linkul către informațiile despre drepturile asupra documentului</string>
+			<key>kMDItemRights.ShortName</key>
+			<string>drepturi,rights</string>
+			<key>kMDItemSecurityMethod</key>
+			<string>Securitate</string>
+			<key>kMDItemSecurityMethod.Description</key>
+			<string>Metoda de criptare utilizată la securizarea documentului</string>
+			<key>kMDItemSecurityMethod.ShortName</key>
+			<string>securitate,metodădesecuritate,security,securitymethod</string>
+			<key>kMDItemStarRating</key>
+			<string>Evaluarea</string>
+			<key>kMDItemStarRating.Description</key>
+			<string>Evaluarea utilizatorului</string>
+			<key>kMDItemStarRating.ShortName</key>
+			<string>evaluarestele,starrating</string>
+			<key>kMDItemStartDate</key>
+			<string>Data începerii</string>
+			<key>kMDItemStartDate.Description</key>
+			<string>Data începerii acestui articol</string>
+			<key>kMDItemStartDate.ShortName</key>
+			<string>dataînceperii,dată,startdate,date</string>
+			<key>kMDItemStateOrProvince</key>
+			<string>Statul sau provincia</string>
+			<key>kMDItemStateOrProvince.Description</key>
+			<string>Statul sau provincia articolului conform furnizorului</string>
+			<key>kMDItemStateOrProvince.ShortName</key>
+			<string>stat,provincie,state,province</string>
+			<key>kMDItemStreamable</key>
+			<string>Difuzabil în flux</string>
+			<key>kMDItemStreamable.Description</key>
+			<string>Dacă respectivul conținut este pregătit pentru streaming</string>
+			<key>kMDItemStreamable.ShortName</key>
+			<string>difuzabilînflux,streamable</string>
+			<key>kMDItemSubject</key>
+			<string>Subiectul</string>
+			<key>kMDItemSubject.Description</key>
+			<string>Subiectul articolului</string>
+			<key>kMDItemSubject.ShortName</key>
+			<string>subiect,titlu,nume,subject,title,name</string>
+			<key>kMDItemTempo</key>
+			<string>Tempoul</string>
+			<key>kMDItemTempo.Description</key>
+			<string>Tempoul muzicii din fișierul audio în bătăi pe minut</string>
+			<key>kMDItemTempo.ShortName</key>
+			<string>tempo</string>
+			<key>kMDItemTextContent</key>
+			<string>Conținutul de text</string>
+			<key>kMDItemTextContent.Description</key>
+			<string>Conținutul de text al articolului</string>
+			<key>kMDItemTextContent.ShortName</key>
+			<string>conținut,conține,întext,content,contains,intext</string>
+			<key>kMDItemTheme</key>
+			<string>Tema</string>
+			<key>kMDItemTheme.Description</key>
+			<string>Tema articolului</string>
+			<key>kMDItemTheme.ShortName</key>
+			<string>temă,theme</string>
+			<key>kMDItemTimeSignature</key>
+			<string>Semnătura temporală</string>
+			<key>kMDItemTimeSignature.Description</key>
+			<string>Semnătura temporală a melodiei din fișierul audio sau MIDI</string>
+			<key>kMDItemTimeSignature.ShortDisplayName</key>
+			<string>Semnătură temporală</string>
+			<key>kMDItemTimeSignature.ShortName</key>
+			<string>semnăturătemporală,timesignature</string>
+			<key>kMDItemTitle</key>
+			<string>Titlul</string>
+			<key>kMDItemTitle.Description</key>
+			<string>Titlul articolului</string>
+			<key>kMDItemTitle.ShortName</key>
+			<string>titlu,title</string>
+			<key>kMDItemTotalBitRate</key>
+			<string>Rata de biți totală</string>
+			<key>kMDItemTotalBitRate.Description</key>
+			<string>Rata de biți combinată a componentelor audio și video din fișierul multimedia</string>
+			<key>kMDItemTotalBitRate.ShortName</key>
+			<string>ratădebițitotală,ratădebiți,totalbitrate,bitrate</string>
+			<key>kMDItemURL</key>
+			<string>URL-ul</string>
+			<key>kMDItemURL.Description</key>
+			<string>URL-ul articolului</string>
+			<key>kMDItemURL.ShortName</key>
+			<string>url</string>
+			<key>kMDItemUsedDates</key>
+			<string>Datele utilizării</string>
+			<key>kMDItemUsedDates.Description</key>
+			<string>Datele la care a fost utilizat articolul</string>
+			<key>kMDItemUsedDates.ShortName</key>
+			<string>utilizat,dată,used,date</string>
+			<key>kMDItemUserTags</key>
+			<string>Etichete</string>
+			<key>kMDItemUserTags.Description</key>
+			<string>Etichetele asociate cu acest articol</string>
+			<key>kMDItemUserTags.ShortName</key>
+			<string>tag</string>
+			<key>kMDItemVersion</key>
+			<string>Versiunea</string>
+			<key>kMDItemVersion.Description</key>
+			<string>Numărul versiunii acestui articol</string>
+			<key>kMDItemVersion.ShortName</key>
+			<string>versiune,version</string>
+			<key>kMDItemVideoBitRate</key>
+			<string>Rata de biți video</string>
+			<key>kMDItemVideoBitRate.Description</key>
+			<string>Rata de biți a componentei video din fișierul multimedia</string>
+			<key>kMDItemVideoBitRate.ShortName</key>
+			<string>ratădebițivideo,ratădebiți,videobitrate,bitrate</string>
+			<key>kMDItemWhereFroms</key>
+			<string>De unde provine</string>
+			<key>kMDItemWhereFroms.Description</key>
+			<string>Originea articolului</string>
+			<key>kMDItemWhereFroms.ShortName</key>
+			<string>dela,sursă,deunde,from,source,wherefrom</string>
+			<key>kMDItemWhiteBalance</key>
+			<string>Balansul de alb</string>
+			<key>kMDItemWhiteBalance.Description</key>
+			<string>Configurarea balansului de alb al camerei în momentul realizării fotografiei</string>
+			<key>kMDItemWhiteBalance.ShortName</key>
+			<string>balansdealb,whitebalance</string>
+		</dict>
+		<key>ru</key>
+		<dict>
+			<key>_kMDItemLabels.ShortName</key>
+			<string>ярлык,подпись,метка,этикетка

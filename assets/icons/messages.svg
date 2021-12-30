@@ -1,0 +1,17 @@
+<svg id="Group_1688" data-name="Group 1688" xmlns="http://www.w3.org/2000/svg" width="24.237" height="24" viewBox="0 0 24.237 24">
+  <g id="Group_1685" data-name="Group 1685" transform="translate(0 2.422)">
+    <g id="chat_2_" data-name="chat (2)" transform="translate(0 1.449)">
+      <g id="Group_1306" data-name="Group 1306">
+        <path id="Path_2161" data-name="Path 2161" d="M17.545,0H2.105A2.105,2.105,0,0,0,0,2.107V13.337a2.105,2.105,0,0,0,2.105,2.105H4.6l-.382,3.432a.7.7,0,0,0,1.167.6l4.479-4.031h7.684a2.105,2.105,0,0,0,2.105-2.105V2.107A2.105,2.105,0,0,0,17.545,0Zm.7,13.335a.7.7,0,0,1-.7.7H9.592a.7.7,0,0,0-.47.18L5.814,17.2l.265-2.378a.7.7,0,0,0-.7-.78H2.105a.7.7,0,0,1-.7-.7V2.107a.7.7,0,0,1,.7-.7h15.44a.7.7,0,0,1,.7.7V13.337Z" transform="translate(0 -0.002)" fill="gray"/>
+      </g>
+    </g>
+    <g id="Group_1204" data-name="Group 1204" transform="translate(10.237)">
+      <g id="Ellipse_2" data-name="Ellipse 2" fill="#1dbdb7" stroke="#fff" stroke-width="0.8">
+        <circle cx="7" cy="7" r="7" stroke="none"/>
+        <circle cx="7" cy="7" r="6.6" fill="none"/>
+      </g>
+      <text id="_8" data-name="8" transform="translate(4 11)" fill="#fff" font-size="11" font-family="Tajawal-Regular, Tajawal"><tspan x="0" y="0">8</tspan></text>
+    </g>
+  </g>
+  <rect id="Rectangle_444" data-name="Rectangle 444" width="24" height="24" fill="none"/>
+</svg>

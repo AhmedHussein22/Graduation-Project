@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31.104" viewBox="0 0 31 31.104">
+  <g id="Group_2503" data-name="Group 2503" transform="translate(0 0)">
+    <g id="Group_1536" data-name="Group 1536" transform="translate(0 2)">
+      <g id="Icon_ionic-md-notifications-outline" data-name="Icon ionic-md-notifications-outline" transform="translate(2.5 0.354)">
+        <path id="Icon_ionic-md-notifications-outline-2" data-name="Icon ionic-md-notifications-outline" d="M17.858,8.384a9.991,9.991,0,0,1,1.653.31,7.043,7.043,0,0,1,5.368,6.9v8.819l.644.647.538.541H9.516l.538-.541.644-.647V15.594a7.043,7.043,0,0,1,5.368-6.9,12.235,12.235,0,0,1,1.653-.31m.069-5.009a2.113,2.113,0,0,0-2.147,2.156V6.537a9.317,9.317,0,0,0-7.155,9.056V23.5L5.625,26.375v1.437H29.952V26.375L27.09,23.5V15.594a9.317,9.317,0,0,0-7.155-9.056V5.531a2.113,2.113,0,0,0-2.147-2.156ZM20.65,29.25H14.926a2.862,2.862,0,1,0,5.724,0Z" transform="translate(-5.625 -3.375)" fill="gray"/>
+      </g>
+      <rect id="Rectangle_443" data-name="Rectangle 443" width="30" height="14" transform="translate(0 0)" fill="none"/>
+    </g>
+    <g id="Group_1537" data-name="Group 1537" transform="translate(18 0)">
+      <g id="Ellipse_50" data-name="Ellipse 50" transform="translate(0 2)" fill="#1fb9b3" stroke="#fff" stroke-width="1">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="6.5" fill="none"/>
+      </g>
+      <text id="_5" data-name="5" transform="translate(9 11)" fill="#fff" font-size="11" font-family="Tajawal-Regular, Tajawal"><tspan x="-5.665" y="0">5</tspan></text>
+    </g>
+  </g>
+</svg>

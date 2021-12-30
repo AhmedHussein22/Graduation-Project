@@ -1,0 +1,1202 @@
+			<key>com_apple_mail_read.Description</key>
+					<string>Se uma mensagem foi ou nÃ£o lida</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>Respondida</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>Se uma mensagem foi ou nÃ£o respondida</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>ID de conversa</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>O ID de conversa atribuÃ­do Ã  mensagem</string>
+				</dict>
+				<key>ro</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>Nume fiÈ™iere ataÈ™ate</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>O listÄƒ a numelor fiÈ™ierelor ataÈ™ate asociate cu un mesaj</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>Tipuri fiÈ™iere ataÈ™ate</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>O listÄƒ a tipurilor de fiÈ™iere ataÈ™ate asociate cu un mesaj</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>Data ultimei vizualizÄƒri</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>Data ultimei vizualizÄƒri a unui mesaj</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>Data primirii</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>Data primirii unui mesaj</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>Culoare fanion</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>Culoarea fanionului asociat cu un mesaj</string>
+					<key>com_apple_mail_flagged</key>
+					<string>Cu fanion</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>DacÄƒ un mesaj are fanion</string>
+					<key>com_apple_mail_messageID</key>
+					<string>ID mesaj</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>ID mesaj</string>
+					<key>com_apple_mail_priority</key>
+					<string>Prioritate</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>Prioritatea numerotatÄƒ a mesajului</string>
+					<key>com_apple_mail_read</key>
+					<string>Stare citire</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>DacÄƒ un mesaj a fost citit sau nu</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>RÄƒspuns</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>DacÄƒ un mesaj a primit un rÄƒspuns sau nu</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>ID conversaÈ›ie</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>ID-ul conversaÈ›iei alocat mesajului</string>
+				</dict>
+				<key>ru</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>Ğ˜Ğ¼ĞµĞ½Ğ° Ğ²Ğ»Ğ¾Ğ¶ĞµĞ½Ğ½Ñ‹Ñ… Ñ„Ğ°Ğ¹Ğ»Ğ¾Ğ²</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>Ğ¡Ğ¿Ğ¸ÑĞ¾Ğº Ğ¸Ğ¼ĞµĞ½ Ğ²Ğ»Ğ¾Ğ¶ĞµĞ½Ğ½Ñ‹Ñ… Ñ„Ğ°Ğ¹Ğ»Ğ¾Ğ², ÑĞ²ÑĞ·Ğ°Ğ½Ğ½Ñ‹Ñ… Ñ ÑÑ‚Ğ¸Ğ¼ ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸ĞµĞ¼</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>Ğ¢Ğ¸Ğ¿Ñ‹ Ğ²Ğ»Ğ¾Ğ¶ĞµĞ½Ğ½Ñ‹Ñ… Ñ„Ğ°Ğ¹Ğ»Ğ¾Ğ²</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>Ğ¡Ğ¿Ğ¸ÑĞ¾Ğº Ñ‚Ğ¸Ğ¿Ğ¾Ğ² Ğ´Ğ»Ñ Ğ²Ğ»Ğ¾Ğ¶ĞµĞ½Ğ½Ñ‹Ñ… Ñ„Ğ°Ğ¹Ğ»Ğ¾Ğ², ÑĞ²ÑĞ·Ğ°Ğ½Ğ½Ñ‹Ñ… Ñ ÑÑ‚Ğ¸Ğ¼ ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸ĞµĞ¼</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>Ğ”Ğ°Ñ‚Ğ° Ğ¿Ğ¾ÑĞ»ĞµĞ´Ğ½ĞµĞ³Ğ¾ Ğ¿Ñ€Ğ¾ÑĞ¼Ğ¾Ñ‚Ñ€Ğ°</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>Ğ”Ğ°Ñ‚Ğ° Ğ¿Ğ¾ÑĞ»ĞµĞ´Ğ½ĞµĞ³Ğ¾ Ğ¿Ñ€Ğ¾ÑĞ¼Ğ¾Ñ‚Ñ€Ğ° ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ñ</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>Ğ”Ğ°Ñ‚Ğ° Ğ¿Ğ¾Ğ»ÑƒÑ‡ĞµĞ½Ğ¸Ñ</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>Ğ”Ğ°Ñ‚Ğ° Ğ¿Ğ¾Ğ»ÑƒÑ‡ĞµĞ½Ğ¸Ñ ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ñ</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>Ğ¦Ğ²ĞµÑ‚ Ñ„Ğ»Ğ°Ğ¶ĞºĞ°</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>Ğ¦Ğ²ĞµÑ‚ Ñ„Ğ»Ğ°Ğ¶ĞºĞ°, Ğ¿Ñ€Ğ¸Ğ²ÑĞ·Ğ°Ğ½Ğ½Ğ¾Ğ³Ğ¾ Ğº ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ñ</string>
+					<key>com_apple_mail_flagged</key>
+					<string>ĞÑ‚Ğ¼ĞµÑ‡ĞµĞ½Ğ½Ñ‹Ğµ Ñ„Ğ»Ğ°Ğ¶ĞºĞ¾Ğ¼</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>Ğ£ÑÑ‚Ğ°Ğ½Ğ¾Ğ²Ğ»ĞµĞ½ Ğ»Ğ¸ Ğ½Ğ° ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ğ¸ Ñ„Ğ»Ğ°Ğ¶Ğ¾Ğº</string>
+					<key>com_apple_mail_messageID</key>
+					<string>MessageÂ ID</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>MessageÂ ID Ğ¸Ğ· Ğ·Ğ°Ğ³Ğ¾Ğ»Ğ¾Ğ²ĞºĞ° ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ñ</string>
+					<key>com_apple_mail_priority</key>
+					<string>ĞŸÑ€Ğ¸Ğ¾Ñ€Ğ¸Ñ‚ĞµÑ‚</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>ĞŸÑ€Ğ¸Ğ¾Ñ€Ğ¸Ñ‚ĞµÑ‚ ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ñ Ğ¿Ğ¾ Ğ½Ğ¾Ğ¼ĞµÑ€Ğ°Ğ¼</string>
+					<key>com_apple_mail_read</key>
+					<string>ĞŸÑ€Ğ¾Ñ‡Ğ¸Ñ‚Ğ°Ğ½Ğ½Ñ‹Ğµ</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>Ğ‘Ñ‹Ğ»Ğ¾ Ğ»Ğ¸ Ğ¿Ñ€Ğ¾Ñ‡Ğ¸Ñ‚Ğ°Ğ½Ğ¾ ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ğµ</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>ĞÑ‚Ğ²ĞµÑ‡ĞµĞ½Ğ¾</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>Ğ‘Ñ‹Ğ» Ğ»Ğ¸ Ğ¾Ñ‚Ğ¿Ñ€Ğ°Ğ²Ğ»ĞµĞ½ Ğ¾Ñ‚Ğ²ĞµÑ‚ Ğ½Ğ° ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ğµ</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>ID Ñ€Ğ°Ğ·Ğ³Ğ¾Ğ²Ğ¾Ñ€Ğ°</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>ID Ñ€Ğ°Ğ·Ğ³Ğ¾Ğ²Ğ¾Ñ€Ğ°, Ğ½Ğ°Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ½Ñ‹Ğ¹ ÑĞ¾Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ñ</string>
+				</dict>
+				<key>sk</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>NÃ¡zvy prÃ­loh</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>Zoznam nÃ¡zvov prÃ­loh pripojenÃ½ch k sprÃ¡ve</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>Typy prÃ­loh</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>Zoznam typov prÃ­loh pripojenÃ½ch k sprÃ¡ve</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>DÃ¡tum poslednÃ©ho zobrazenia</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>DÃ¡tum poslednÃ©ho zobrazenia sprÃ¡vy</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>DÃ¡tum prijatia</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>DÃ¡tum prijatia sprÃ¡vy</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>Farba znaÄky</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>Farba znaÄky priradenej kÂ sprÃ¡ve</string>
+					<key>com_apple_mail_flagged</key>
+					<string>OznaÄenÃ©</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>OznaÄenÃ©</string>
+					<key>com_apple_mail_messageID</key>
+					<string>ID sprÃ¡vy</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>ID sprÃ¡vy</string>
+					<key>com_apple_mail_priority</key>
+					<string>Priorita</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>ÄŒÃ­slovanÃ¡ priorita sprÃ¡vy</string>
+					<key>com_apple_mail_read</key>
+					<string>Stav preÄÃ­tania</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>ÄŒi bola sprÃ¡va preÄÃ­tanÃ¡</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>SÂ odpoveÄou</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>ÄŒi bola na sprÃ¡vu odoslanÃ¡ odpoveÄ</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>ID konverzÃ¡cie</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>ID konverzÃ¡cie priradenÃ© kÂ tejto sprÃ¡ve</string>
+				</dict>
+				<key>sv</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>Bilagenamn</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>En lista med namn pÃ¥ bilagor kopplade till mejlet</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>Bilagetyper</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>En lista med typ av bilagor kopplade till mejlet</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>Senast visat</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>Det datum ett mejl senast visades</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>Datum mottaget</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>Det datum ett mejl mottogs</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>FlaggfÃ¤rg</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>FÃ¤rgen pÃ¥ flaggan som associeras till ett mejl</string>
+					<key>com_apple_mail_flagged</key>
+					<string>Flaggat</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>Flaggat</string>
+					<key>com_apple_mail_messageID</key>
+					<string>Mejl-ID</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>Mejl-ID</string>
+					<key>com_apple_mail_priority</key>
+					<string>Prioritet</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>Den numrerade prioriteten fÃ¶r ett mejl</string>
+					<key>com_apple_mail_read</key>
+					<string>LÃ¤st</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>Om ett mejl har lÃ¤sts eller inte</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>Besvarat</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>Om ett mejl har besvarats eller inte</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>Konversations-ID</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>Det konversations-ID som har tilldelats till mejlet</string>
+				</dict>
+				<key>th</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>à¸Šà¸·à¹ˆà¸­à¹„à¸Ÿà¸¥à¹Œà¹à¸™à¸š</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>à¸£à¸²à¸¢à¸à¸²à¸£à¸Šà¸·à¹ˆà¸­à¹„à¸Ÿà¸¥à¹Œà¹à¸™à¸šà¸£à¹ˆà¸§à¸¡à¸à¸±à¸šà¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>à¸›à¸£à¸°à¹€à¸ à¸—à¹„à¸Ÿà¸¥à¹Œà¹à¸™à¸š</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>à¸£à¸²à¸¢à¸à¸²à¸£à¸›à¸£à¸°à¹€à¸ à¸—à¹„à¸Ÿà¸¥à¹Œà¹à¸™à¸šà¸£à¹ˆà¸§à¸¡à¸à¸±à¸šà¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>à¸§à¸±à¸™à¸—à¸µà¹ˆà¸”à¸¹à¸„à¸£à¸±à¹‰à¸‡à¸¥à¹ˆà¸²à¸ªà¸¸à¸”</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>à¸§à¸±à¸™à¸—à¸µà¹ˆà¸”à¸¹à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡à¸„à¸£à¸±à¹‰à¸‡à¸¥à¹ˆà¸²à¸ªà¸¸à¸”</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>à¸§à¸±à¸™à¸—à¸µà¹ˆà¹„à¸”à¹‰à¸£à¸±à¸š</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>à¸§à¸±à¸™à¸—à¸µà¹ˆà¹„à¸”à¹‰à¸£à¸±à¸šà¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>à¸ªà¸µà¸˜à¸‡</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>à¸ªà¸µà¸˜à¸‡à¸—à¸µà¹ˆà¹€à¸à¸µà¹ˆà¸¢à¸§à¸‚à¹‰à¸­à¸‡à¸à¸±à¸šà¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡</string>
+					<key>com_apple_mail_flagged</key>
+					<string>à¸•à¸´à¸”à¸˜à¸‡</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>à¹„à¸¡à¹ˆà¸§à¹ˆà¸²à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡à¸•à¸´à¸”à¸˜à¸‡à¸«à¸£à¸·à¸­à¹„à¸¡à¹ˆà¹„à¸”à¹‰à¸•à¸´à¸”à¸˜à¸‡</string>
+					<key>com_apple_mail_messageID</key>
+					<string>ID à¸‚à¸­à¸‡à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>ID à¸‚à¸­à¸‡à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡à¸ˆà¸²à¸à¸ªà¹ˆà¸§à¸™à¸«à¸±à¸§à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡</string>
+					<key>com_apple_mail_priority</key>
+					<string>à¸¥à¸³à¸”à¸±à¸šà¸„à¸§à¸²à¸¡à¸ªà¸³à¸„à¸±à¸</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>à¸•à¸±à¸§à¹€à¸¥à¸‚à¸„à¸§à¸²à¸¡à¸ªà¸³à¸„à¸±à¸à¸‚à¸­à¸‡à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡</string>
+					<key>com_apple_mail_read</key>
+					<string>à¸ªà¸–à¸²à¸™à¸°à¸à¸²à¸£à¸­à¹ˆà¸²à¸™</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>à¹„à¸¡à¹ˆà¸§à¹ˆà¸²à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡à¹„à¸”à¹‰à¸­à¹ˆà¸²à¸™à¸«à¸£à¸·à¸­à¹„à¸¡à¹ˆà¹„à¸”à¹‰à¸­à¹ˆà¸²à¸™</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>à¸•à¸­à¸šà¸à¸¥à¸±à¸š</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>à¹„à¸¡à¹ˆà¸§à¹ˆà¸²à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡à¹„à¸”à¹‰à¸•à¸­à¸šà¸à¸¥à¸±à¸šà¸«à¸£à¸·à¸­à¹„à¸¡à¹ˆà¹„à¸”à¹‰à¸•à¸­à¸šà¸à¸¥à¸±à¸š</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>ID à¸à¸²à¸£à¸ªà¸™à¸—à¸™à¸²</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>à¸à¸³à¸«à¸™à¸” ID à¸à¸²à¸£à¸ªà¸™à¸—à¸™à¸²à¸‚à¸­à¸‡à¸‚à¹‰à¸­à¸„à¸§à¸²à¸¡à¹à¸¥à¹‰à¸§</string>
+				</dict>
+				<key>tr</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>Ä°liÅŸik AdlarÄ±</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>Bir ileti ile iliÅŸkili olan iliÅŸiklerin adlarÄ±nÄ±n listesi</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>Ä°liÅŸik TÃ¼rleri</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>Bir ileti ile iliÅŸkili olan iliÅŸiklerin tÃ¼rlerinin listesi</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>Son GÃ¶rÃ¼ntÃ¼lenme Tarihi</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>Ä°letinin son gÃ¶rÃ¼ntÃ¼lendiÄŸi tarih</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>AlÄ±nÄ±ÅŸ Tarihi</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>Ä°letinin alÄ±ndÄ±ÄŸÄ± tarih</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>Bayrak Rengi</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>Ä°letiyle iliÅŸkili bayraÄŸÄ±n rengi</string>
+					<key>com_apple_mail_flagged</key>
+					<string>BayraklÄ±</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>Ä°letinin bayraklÄ± olup olmadÄ±ÄŸÄ±</string>
+					<key>com_apple_mail_messageID</key>
+					<string>Ä°leti KimliÄŸi</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>Ä°leti baÅŸlÄ±ÄŸÄ±ndaki ileti kimliÄŸi</string>
+					<key>com_apple_mail_priority</key>
+					<string>Ã–ncelik</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>Ä°letinin numaralÄ± Ã¶nceliÄŸi</string>
+					<key>com_apple_mail_read</key>
+					<string>Okunma Durumu</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>Ä°letinin okunup okunmadÄ±ÄŸÄ±</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>YanÄ±tlandÄ±</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>Ä°letinin yanÄ±tlanÄ±p yanÄ±tlanmadÄ±ÄŸÄ±</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>YazÄ±ÅŸma KimliÄŸi</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>Ä°letiye atanan yazÄ±ÅŸma kimliÄŸi</string>
+				</dict>
+				<key>uk</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>Ğ†Ğ¼ĞµĞ½Ğ° Ğ¿Ñ€Ğ¸ĞºÑ€Ñ–Ğ¿Ğ»ĞµĞ½ÑŒ</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>Ğ¡Ğ¿Ğ¸ÑĞ¾Ğº Ñ–Ğ¼ĞµĞ½ Ğ¿Ñ€Ğ¸ĞºÑ€Ñ–Ğ¿Ğ»ĞµĞ½ÑŒ, Ğ¿Ğ¾Ğ²â€™ÑĞ·Ğ°Ğ½Ğ¸Ñ… Ñ–Ğ· Ğ»Ğ¸ÑÑ‚Ğ¾Ğ¼</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>Ğ¢Ğ¸Ğ¿Ğ¸ Ğ¿Ñ€Ğ¸ĞºÑ€Ñ–Ğ¿Ğ»ĞµĞ½ÑŒ</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>Ğ¡Ğ¿Ğ¸ÑĞ¾Ğº Ñ‚Ğ¸Ğ¿Ñ–Ğ² Ğ¿Ñ€Ğ¸ĞºÑ€Ñ–Ğ¿Ğ»ĞµĞ½ÑŒ, Ğ¿Ğ¾Ğ²â€™ÑĞ·Ğ°Ğ½Ğ¸Ñ… Ñ–Ğ· Ğ»Ğ¸ÑÑ‚Ğ¾Ğ¼</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>Ğ”Ğ°Ñ‚Ğ° Ğ¾ÑÑ‚Ğ°Ğ½Ğ½ÑŒĞ¾Ğ³Ğ¾ Ğ¿ĞµÑ€ĞµĞ³Ğ»ÑĞ´Ñƒ</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>Ğ”Ğ°Ñ‚Ğ° Ğ¾ÑÑ‚Ğ°Ğ½Ğ½ÑŒĞ¾Ğ³Ğ¾ Ğ¿ĞµÑ€ĞµĞ³Ğ»ÑĞ´Ñƒ Ğ»Ğ¸ÑÑ‚Ğ°</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>Ğ”Ğ°Ñ‚Ğ° Ğ¾Ñ‚Ñ€Ğ¸Ğ¼Ğ°Ğ½Ğ½Ñ</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>Ğ”Ğ°Ñ‚Ğ° Ğ¾Ñ‚Ñ€Ğ¸Ğ¼Ğ°Ğ½Ğ½Ñ Ğ»Ğ¸ÑÑ‚Ğ°</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>ĞšĞ¾Ğ»Ñ–Ñ€ Ğ¼Ñ–Ñ‚ĞºĞ¸</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>ĞšĞ¾Ğ»Ñ–Ñ€ Ğ¼Ñ–Ñ‚ĞºĞ¸, Ğ¿Ğ¾Ğ²â€™ÑĞ·Ğ°Ğ½Ğ¾Ñ— Ğ· Ğ»Ğ¸ÑÑ‚Ğ¾Ğ¼</string>
+					<key>com_apple_mail_flagged</key>
+					<string>Ğ— Ğ¼Ñ–Ñ‚ĞºĞ¾Ñ</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>Ğ§Ğ¸ Ğ±ÑƒĞ² Ğ»Ğ¸ÑÑ‚ Ğ¿Ğ¾Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ğ¹ Ğ¼Ñ–Ñ‚ĞºĞ¾Ñ</string>
+					<key>com_apple_mail_messageID</key>
+					<string>Ğ†Ğ´ĞµĞ½Ñ‚Ğ¸Ñ„Ñ–ĞºĞ°Ñ‚Ğ¾Ñ€ Ğ»Ğ¸ÑÑ‚Ğ°</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>Ğ†Ğ´ĞµĞ½Ñ‚Ğ¸Ñ„Ñ–ĞºĞ°Ñ‚Ğ¾Ñ€ Ğ»Ğ¸ÑÑ‚Ğ°</string>
+					<key>com_apple_mail_priority</key>
+					<string>ĞŸÑ€Ñ–Ğ¾Ñ€Ğ¸Ñ‚ĞµÑ‚</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>Ğ§Ğ¸ÑĞ»Ğ¾Ğ²Ğ¸Ğ¹ Ğ¿Ñ€Ñ–Ğ¾Ñ€Ğ¸Ñ‚ĞµÑ‚ Ğ»Ğ¸ÑÑ‚Ğ°</string>
+					<key>com_apple_mail_read</key>
+					<string>Ğ¡Ñ‚Ğ°Ğ½: Ğ¿Ñ€Ğ¾Ñ‡Ğ¸Ñ‚Ğ°Ğ½Ğ¸Ğ¹</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>Ğ§Ğ¸ Ğ±ÑƒĞ² Ğ»Ğ¸ÑÑ‚ Ğ¿Ñ€Ğ¾Ñ‡Ğ¸Ñ‚Ğ°Ğ½Ğ¸Ğ¹</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>Ğ— Ğ²Ñ–Ğ´Ğ¿Ğ¾Ğ²Ñ–Ğ´Ğ´Ñ</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>Ğ§Ğ¸ Ğ±ÑƒĞ»Ğ¾ Ğ²Ñ–Ğ´Ğ¿Ñ€Ğ°Ğ²Ğ»ĞµĞ½Ğ¾ Ğ²Ñ–Ğ´Ğ¿Ğ¾Ğ²Ñ–Ğ´ÑŒ Ğ½Ğ° Ğ»Ğ¸ÑÑ‚</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>Ğ†Ğ´ĞµĞ½Ñ‚Ğ¸Ñ„Ñ–ĞºĞ°Ñ‚Ğ¾Ñ€ Ğ¾Ğ±Ğ³Ğ¾Ğ²Ğ¾Ñ€ĞµĞ½Ğ½Ñ</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>Ğ†Ğ´ĞµĞ½Ñ‚Ğ¸Ñ„Ñ–ĞºĞ°Ñ‚Ğ¾Ñ€ Ğ¾Ğ±Ğ³Ğ¾Ğ²Ğ¾Ñ€ĞµĞ½Ğ½Ñ, Ğ¿Ñ€Ğ¸Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ğ¹ Ñ†ÑŒĞ¾Ğ¼Ñƒ Ğ»Ğ¸ÑÑ‚Ñƒ</string>
+				</dict>
+				<key>vi</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>TÃªn Tá»‡p Ä‘Ã­nh kÃ¨m</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>Danh sÃ¡ch tÃªn cÃ¡c tá»‡p Ä‘Ã­nh kÃ¨m Ä‘Æ°á»£c liÃªn káº¿t vá»›i thÆ°</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>Loáº¡i tá»‡p Ä‘Ã­nh kÃ¨m</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>Danh sÃ¡ch cÃ¡c loáº¡i tá»‡p Ä‘Ã­nh kÃ¨m Ä‘Æ°á»£c liÃªn káº¿t vá»›i thÆ°</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>NgÃ y xem cuá»‘i cÃ¹ng</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>NgÃ y xem thÆ° láº§n cuá»‘i</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>NgÃ y nháº­n</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>NgÃ y nháº­n thÆ°</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>MÃ u cá»</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>MÃ u cá»§a cá» Ä‘Æ°á»£c liÃªn káº¿t vá»›i thÆ°</string>
+					<key>com_apple_mail_flagged</key>
+					<string>ÄÃ£ gáº¯n cá»</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>ThÆ° Ä‘Ã£ Ä‘Æ°á»£c gáº¯n cá» hay chÆ°a</string>
+					<key>com_apple_mail_messageID</key>
+					<string>ID thÆ°</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>ID thÆ° tá»« tiÃªu Ä‘á» thÆ°</string>
+					<key>com_apple_mail_priority</key>
+					<string>Má»©c Æ°u tiÃªn</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>Má»©c Æ°u tiÃªn Ä‘Æ°á»£c Ä‘Ã¡nh sá»‘ cá»§a thÆ°</string>
+					<key>com_apple_mail_read</key>
+					<string>Tráº¡ng thÃ¡i Ä‘á»c</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>ThÆ° Ä‘Ã£ Ä‘Æ°á»£c Ä‘á»c hay chÆ°a</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>ÄÃ£ tráº£ lá»i</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>ThÆ° Ä‘Ã£ Ä‘Æ°á»£c tráº£ lá»i hay chÆ°a</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>ID cuá»™c há»™i thoáº¡i</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>ID cuá»™c há»™i thoáº¡i Ä‘Æ°á»£c gÃ¡n cho thÆ°</string>
+				</dict>
+				<key>zh_CN</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>é™„ä»¶åç§°</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>ä¸æŸé‚®ä»¶ç›¸å…³çš„é™„ä»¶çš„åç§°åˆ—è¡¨</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>é™„ä»¶ç±»å‹</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>ä¸æŸé‚®ä»¶ç›¸å…³çš„é™„ä»¶çš„ç±»å‹åˆ—è¡¨</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>æœ€åæŸ¥çœ‹çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>æœ€åæŸ¥çœ‹é‚®ä»¶çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>æ”¶åˆ°æ—¥æœŸ</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>æ”¶åˆ°é‚®ä»¶çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>æ——æ ‡é¢œè‰²</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>ä¸é‚®ä»¶ç›¸å…³çš„æ——æ ‡é¢œè‰²</string>
+					<key>com_apple_mail_flagged</key>
+					<string>æœ‰æ——æ ‡</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>æœ‰æ——æ ‡</string>
+					<key>com_apple_mail_messageID</key>
+					<string>é‚®ä»¶ID</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>é‚®ä»¶æ ‡å¤´ä¸­çš„é‚®ä»¶ID</string>
+					<key>com_apple_mail_priority</key>
+					<string>ä¼˜å…ˆçº§</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>é‚®ä»¶çš„ç¼–å·ä¼˜å…ˆçº§</string>
+					<key>com_apple_mail_read</key>
+					<string>å·²è¯»çŠ¶æ€</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>æ˜¯å¦å·²ç»é˜…è¯»é‚®ä»¶</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>å·²å›å¤</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>æ˜¯å¦å·²ç»å›å¤é‚®ä»¶</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>å¯¹è¯ID</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>åˆ†é…åˆ°è¿™å°é‚®ä»¶çš„å¯¹è¯ID</string>
+				</dict>
+				<key>zh_HK</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>é™„ä»¶åç¨±</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>èˆ‡éƒµä»¶ç›¸é—œçš„é™„ä»¶åç¨±åˆ—è¡¨</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>é™„ä»¶é¡å‹</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>èˆ‡éƒµä»¶ç›¸é—œçš„é™„ä»¶é¡å‹åˆ—è¡¨</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>æœ€è¿‘ä¸€æ¬¡æª¢è¦–çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>ä¸Šä¸€æ¬¡æª¢è¦–éƒµä»¶çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>æ”¶ä»¶æ—¥æœŸ</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>ä¸Šä¸€æ¬¡æ¥æ”¶éƒµä»¶çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>æ——æ¨™é¡è‰²</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>èˆ‡éƒµä»¶ç›¸é—œçš„æ——æ¨™é¡è‰²</string>
+					<key>com_apple_mail_flagged</key>
+					<string>å·²åŠ ä¸Šæ——æ¨™</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>æ˜¯å¦å·²ç‚ºéƒµä»¶åŠ ä¸Šæ——æ¨™</string>
+					<key>com_apple_mail_messageID</key>
+					<string>éƒµä»¶è­˜åˆ¥ç¢¼</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>éƒµä»¶è­˜åˆ¥ç¢¼</string>
+					<key>com_apple_mail_priority</key>
+					<string>å„ªå…ˆé †åº</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>ä»¥æ•¸å­—è¡¨ç¤ºçš„éƒµä»¶é‡è¦æ€§</string>
+					<key>com_apple_mail_read</key>
+					<string>è®€å–ç‹€æ…‹</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>éƒµä»¶æ˜¯å¦å·²è®€</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>å·²å›è¦†</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>éƒµä»¶æ˜¯å¦å·²å›è¦†</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>å°è©±è­˜åˆ¥ç¢¼</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>æŒ‡å®šåˆ°éƒµä»¶çš„å°è©±è­˜åˆ¥ç¢¼</string>
+				</dict>
+				<key>zh_TW</key>
+				<dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<string>é™„ä»¶åç¨±</string>
+					<key>com_apple_mail_attachmentNames.Description</key>
+					<string>èˆ‡éƒµä»¶ç›¸é—œçš„é™„ä»¶åç¨±åˆ—è¡¨</string>
+					<key>com_apple_mail_attachmentTypes</key>
+					<string>é™„ä»¶é¡å‹</string>
+					<key>com_apple_mail_attachmentTypes.Description</key>
+					<string>èˆ‡éƒµä»¶ç›¸é—œçš„é™„ä»¶é¡å‹åˆ—è¡¨</string>
+					<key>com_apple_mail_dateLastViewed</key>
+					<string>æœ€è¿‘ä¸€æ¬¡æª¢è¦–çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_dateLastViewed.Description</key>
+					<string>ä¸Šä¸€æ¬¡æª¢è¦–éƒµä»¶çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_dateReceived</key>
+					<string>æ”¶ä»¶æ—¥æœŸ</string>
+					<key>com_apple_mail_dateReceived.Description</key>
+					<string>ä¸Šä¸€æ¬¡æ¥æ”¶éƒµä»¶çš„æ—¥æœŸ</string>
+					<key>com_apple_mail_flagColor</key>
+					<string>æ——æ¨™é¡è‰²</string>
+					<key>com_apple_mail_flagColor.Description</key>
+					<string>èˆ‡éƒµä»¶ç›¸é—œçš„æ——æ¨™é¡è‰²</string>
+					<key>com_apple_mail_flagged</key>
+					<string>å·²åŠ ä¸Šæ——æ¨™</string>
+					<key>com_apple_mail_flagged.Description</key>
+					<string>æ˜¯å¦å·²ç‚ºéƒµä»¶åŠ ä¸Šæ——æ¨™</string>
+					<key>com_apple_mail_messageID</key>
+					<string>éƒµä»¶è­˜åˆ¥ç¢¼</string>
+					<key>com_apple_mail_messageID.Description</key>
+					<string>è¨Šæ¯è­˜åˆ¥ç¢¼</string>
+					<key>com_apple_mail_priority</key>
+					<string>å„ªå…ˆé †åº</string>
+					<key>com_apple_mail_priority.Description</key>
+					<string>ä»¥æ•¸å­—è¡¨ç¤ºçš„éƒµä»¶é‡è¦æ€§</string>
+					<key>com_apple_mail_read</key>
+					<string>è®€å–ç‹€æ…‹</string>
+					<key>com_apple_mail_read.Description</key>
+					<string>éƒµä»¶æ˜¯å¦å·²è®€</string>
+					<key>com_apple_mail_repliedTo</key>
+					<string>å·²å›è¦†çµ¦</string>
+					<key>com_apple_mail_repliedTo.Description</key>
+					<string>éƒµä»¶æ˜¯å¦å·²å›è¦†</string>
+					<key>kMDItemEmailConversationID</key>
+					<string>å°è©±è­˜åˆ¥ç¢¼</string>
+					<key>kMDItemEmailConversationID.Description</key>
+					<string>æŒ‡å®šåˆ°éƒµä»¶çš„å°è©±è­˜åˆ¥ç¢¼</string>
+				</dict>
+			</dict>
+			<key>PATH</key>
+			<string>/System/Library/Spotlight/Mail.mdimporter</string>
+			<key>PLUGIN_UUIDS</key>
+			<array>
+				<string>142C071E-A837-11D8-A224-0003930A8D8C</string>
+			</array>
+			<key>SANDBOX_CONTAINER_PATH</key>
+			<string>/Users/eng_ahmed/Library/Containers/com.apple.mail/Data</string>
+			<key>SCHEMA</key>
+			<dict>
+				<key>Attributes</key>
+				<dict>
+					<key>com_apple_mail_attachmentKinds</key>
+					<dict>
+						<key>multivalued</key>
+						<true/>
+						<key>name</key>
+						<string>com_apple_mail_attachmentKinds</string>
+						<key>type</key>
+						<string>CFString</string>
+					</dict>
+					<key>com_apple_mail_attachmentNames</key>
+					<dict>
+						<key>multivalued</key>
+						<true/>
+						<key>name</key>
+						<string>com_apple_mail_attachmentNames</string>
+						<key>type</key>
+						<string>CFString</string>
+					</dict>
+					<key>com_apple_mail_attachmentSpecificTypes</key>
+					<dict>
+						<key>multivalued</key>
+						<true/>
+						<key>name</key>
+						<string>com_apple_mail_attachmentSpecificTypes</string>
+						<key>type</key>
+						<string>CFString</string>
+					</dict>
+					<key>com_apple_mail_attachmentTypes</key>
+					<dict>
+						<key>multivalued</key>
+						<true/>
+						<key>name</key>
+						<string>com_apple_mail_attachmentTypes</string>
+						<key>type</key>
+						<string>CFString</string>
+					</dict>
+					<key>com_apple_mail_dateLastViewed</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>com_apple_mail_dateLastViewed</string>
+						<key>type</key>
+						<string>CFDate</string>
+					</dict>
+					<key>com_apple_mail_dateReceived</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>com_apple_mail_dateReceived</string>
+						<key>type</key>
+						<string>CFDate</string>
+					</dict>
+					<key>com_apple_mail_flagColor</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>com_apple_mail_flagColor</string>
+						<key>type</key>
+						<string>CFNumber</string>
+					</dict>
+					<key>com_apple_mail_flagged</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>com_apple_mail_flagged</string>
+						<key>nosearch</key>
+						<true/>
+						<key>type</key>
+						<string>CFBoolean</string>
+					</dict>
+					<key>com_apple_mail_messageID</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>com_apple_mail_messageID</string>
+						<key>type</key>
+						<string>CFString</string>
+					</dict>
+					<key>com_apple_mail_priority</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>com_apple_mail_priority</string>
+						<key>type</key>
+						<string>CFNumber</string>
+					</dict>
+					<key>com_apple_mail_read</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>com_apple_mail_read</string>
+						<key>nosearch</key>
+						<true/>
+						<key>type</key>
+						<string>CFBoolean</string>
+					</dict>
+					<key>com_apple_mail_repliedTo</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>com_apple_mail_repliedTo</string>
+						<key>nosearch</key>
+						<true/>
+						<key>type</key>
+						<string>CFBoolean</string>
+					</dict>
+					<key>kMDItemEmailConversationID</key>
+					<dict>
+						<key>multivalued</key>
+						<false/>
+						<key>name</key>
+						<string>kMDItemEmailConversationID</string>
+						<key>type</key>
+						<string>CFString</string>
+					</dict>
+				</dict>
+				<key>Types</key>
+				<dict>
+					<key>com.apple.mail.emlx</key>
+					<dict>
+						<key>allattrs</key>
+						<array>
+							<string>com_apple_mail_attachmentNames</string>
+							<string>com_apple_mail_attachmentTypes</string>
+							<string>com_apple_mail_attachmentSpecificTypes</string>
+							<string>com_apple_mail_attachmentKinds</string>
+							<string>com_apple_mail_dateReceived</string>
+							<string>com_apple_mail_dateLastViewed</string>
+							<string>com_apple_mail_read</string>
+							<string>com_apple_mail_flagColor</string>
+							<string>com_apple_mail_flagged</string>
+							<string>com_apple_mail_repliedTo</string>
+							<string>com_apple_mail_priority</string>
+							<string>com_apple_mail_messageID</string>
+							<string>kMDItemEmailConversationID</string>
+						</array>
+						<key>displayattrs</key>
+						<array>
+							<string>com_apple_mail_attachmentNames</string>
+							<string>com_apple_mail_attachmentTypes</string>
+							<string>com_apple_mail_dateReceived</string>
+							<string>com_apple_mail_dateLastViewed</string>
+							<string>com_apple_mail_read</string>
+							<string>com_apple_mail_flagColor</string>
+							<string>com_apple_mail_flagged</string>
+							<string>com_apple_mail_repliedTo</string>
+							<string>com_apple_mail_priority</string>
+							<string>com_apple_mail_messageID</string>
+						</array>
+						<key>name</key>
+						<string>com.apple.mail.emlx</string>
+					</dict>
+				</dict>
+				<key>version</key>
+				<string>1.0</string>
+				<key>xmlns</key>
+				<string>http://www.apple.com/metadata</string>
+				<key>xmlns:xsi</key>
+				<string>http://www.w3.org/2001/XMLSchema-instance</string>
+				<key>xsi:schemaLocation</key>
+				<string>http://www.apple.com/metadata file:///System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Resources/MetadataSchema.xsd</string>
+			</dict>
+			<key>STRINGS</key>
+			<dict>
+				<key>com_apple_mail_attachmentNames</key>
+				<string>Attachment Names</string>
+				<key>com_apple_mail_attachmentNames.Description</key>
+				<string>A list of the names of attachments associated with a message</string>
+				<key>com_apple_mail_attachmentTypes</key>
+				<string>Attachment Types</string>
+				<key>com_apple_mail_attachmentTypes.Description</key>
+				<string>A list of the types for attachments associated with a message</string>
+				<key>com_apple_mail_dateLastViewed</key>
+				<string>Date Last Viewed</string>
+				<key>com_apple_mail_dateLastViewed.Description</key>
+				<string>The date a message was last viewed</string>
+				<key>com_apple_mail_dateReceived</key>
+				<string>Date Received</string>
+				<key>com_apple_mail_dateReceived.Description</key>
+				<string>The date a message was received</string>
+				<key>com_apple_mail_flagColor</key>
+				<string>Flag Color</string>
+				<key>com_apple_mail_flagColor.Description</key>
+				<string>The color of the flag associated with a message</string>
+				<key>com_apple_mail_flagged</key>
+				<string>Flagged</string>
+				<key>com_apple_mail_flagged.Description</key>
+				<string>Whether or not a message is flagged</string>
+				<key>com_apple_mail_messageID</key>
+				<string>Message ID</string>
+				<key>com_apple_mail_messageID.Description</key>
+				<string>The message ID from the message header</string>
+				<key>com_apple_mail_priority</key>
+				<string>Priority</string>
+				<key>com_apple_mail_priority.Description</key>
+				<string>The numbered priority of a message</string>
+				<key>com_apple_mail_read</key>
+				<string>Read Status</string>
+				<key>com_apple_mail_read.Description</key>
+				<string>Whether or not a message has been read</string>
+				<key>com_apple_mail_repliedTo</key>
+				<string>Replied To</string>
+				<key>com_apple_mail_repliedTo.Description</key>
+				<string>Whether or not a message has been replied to</string>
+				<key>kMDItemEmailConversationID</key>
+				<string>Conversation ID</string>
+				<key>kMDItemEmailConversationID.Description</key>
+				<string>The conversation ID assigned to the message</string>
+			</dict>
+			<key>UTI</key>
+			<array>
+				<string>com.apple.mail.emlx</string>
+				<string>com.apple.mail.emlx.part</string>
+			</array>
+			<key>VERSION</key>
+			<integer>0</integer>
+			<key>VERSION_STRING</key>
+			<string>3608.120.23.2.1</string>
+		</dict>
+		<dict>
+			<key>ARCH</key>
+			<array>
+				<integer>16777223</integer>
+			</array>
+			<key>BUNDLE_IDENTIFIER</key>
+			<string>com.apple.MDImporter.QuartzComposer</string>
+			<key>BUNDLE_PATH</key>
+			<string>/System/Library/Spotlight/QuartzComposer.mdimporter</string>
+			<key>BUNDLE_UTI</key>
+			<array/>
+			<key>IS_ANCHOR_APPLE</key>
+			<integer>1</integer>
+			<key>IS_LEGACY</key>
+			<integer>0</integer>
+			<key>IS_SANDBOXED</key>
+			<integer>0</integer>
+			<key>LOCALIZATIONS</key>
+			<dict/>
+			<key>PATH</key>
+			<string>/System/Library/Spotlight/QuartzComposer.mdimporter</string>
+			<key>PLUGIN_UUIDS</key>
+			<array>
+				<string>FF6428D6-15B8-414D-B95C-D5EF006B2045</string>
+			</array>
+			<key>SCHEMA</key>
+			<dict>
+				<key>Types</key>
+				<dict>
+					<key>com.apple.quartz-composer-composition</key>
+					<dict>
+						<key>name</key>
+						<string>com.apple.quartz-composer-composition</string>
+					</dict>
+				</dict>
+				<key>version</key>
+				<string>1.0</string>
+				<key>xmlns</key>
+				<string>http://www.apple.com/metadata</string>
+				<key>xmlns:xsi</key>
+				<string>http://www.w3.org/2001/XMLSchema-instance</string>
+				<key>xsi:schemaLocation</key>
+				<string>http://www.apple.com/metadata file:///System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Resources/MetadataSchema.xsd</string>
+			</dict>
+			<key>STRINGS</key>
+			<dict/>
+			<key>UTI</key>
+			<array>
+				<string>com.apple.quartz-composer-composition</string>
+			</array>
+			<key>VERSION</key>
+			<integer>285245440</integer>
+			<key>VERSION_STRING</key>
+			<string>11</string>
+		</dict>
+		<dict>
+			<key>ARCH</key>
+			<array>
+				<integer>16777223</integer>
+			</array>
+			<key>BUNDLE_IDENTIFIER</key>
+			<string>com.apple.MDImporter.vCard</string>
+			<key>BUNDLE_PATH</key>
+			<string>/System/Library/Spotlight/vCard.mdimporter</string>
+			<key>BUNDLE_UTI</key>
+			<array/>
+			<key>IS_ANCHOR_APPLE</key>
+			<integer>1</integer>
+			<key>IS_LEGACY</key>
+			<integer>0</integer>
+			<key>IS_SANDBOXED</key>
+			<integer>0</integer>
+			<key>LOCALIZATIONS</key>
+			<dict/>
+			<key>PATH</key>
+			<string>/System/Library/Spotlight/vCard.mdimporter</string>
+			<key>PLUGIN_UUIDS</key>
+			<array>
+				<string>88D35521-C56C-11D8-91E3-000A95CCC100</string>
+			</array>
+			<key>SCHEMA</key>
+			<dict/>
+			<key>STRINGS</key>
+			<dict/>
+			<key>UTI</key>
+			<array>
+				<string>public.vcard</string>
+				<string>com.apple.addressbook.group</string>
+				<string>com.apple.addressbook.person</string>
+			</array>
+			<key>VERSION</key>
+			<integer>285245440</integer>
+			<key>VERSION_STRING</key>
+			<string>11</string>
+		</dict>
+		<dict>
+			<key>ARCH</key>
+			<array>
+				<integer>16777223</integer>
+			</array>
+			<key>BUNDLE_IDENTIFIER</key>
+			<string>com.apple.MDImporter.Image</string>
+			<key>BUNDLE_PATH</key>
+			<string>/System/Library/Spotlight/Image.mdimporter</string>
+			<key>BUNDLE_UTI</key>
+			<array/>
+			<key>IS_ANCHOR_APPLE</key>
+			<integer>1</integer>
+			<key>IS_LEGACY</key>
+			<integer>0</integer>
+			<key>IS_SANDBOXED</key>
+			<integer>0</integer>
+			<key>LOCALIZATIONS</key>
+			<dict/>
+			<key>PATH</key>
+			<string>/System/Library/Spotlight/Image.mdimporter</string>
+			<key>PLUGIN_UUIDS</key>
+			<array>
+				<string>2230A5A5-1B34-4A1C-A6EF-FB198693BADA</string>
+			</array>
+			<key>SCHEMA</key>
+			<dict/>
+			<key>STRINGS</key>
+			<dict/>
+			<key>UTI</key>
+			<array>
+				<string>com.adobe.photoshop-image</string>
+				<string>com.apple.icns</string>
+				<string>com.apple.quicktime-image</string>
+				<string>com.compuserve.gif</string>
+				<string>com.ilm.openexr-image</string>
+				<string>com.microsoft.bmp</string>
+				<string>com.microsoft.ico</string>
+				<string>com.sgi.sgi-image</string>
+				<string>com.truevision.tga-image</string>
+				<string>org.khronos.ktx</string>
+				<string>public.heic</string>
+				<string>public.image</string>
+				<string>public.jpeg</string>
+				<string>public.jpeg-2000</string>
+				<string>public.png</string>
+				<string>public.radiance</string>
+				<string>public.tiff</string>
+				<string>public.xbitmap-image</string>
+				<string>public.camera-raw-image</string>
+			</array>
+			<key>VERSION</key>
+			<integer>0</integer>
+			<key>VERSION_STRING</key>
+			<string>210.1</string>
+		</dict>
+		<dict>
+			<key>ARCH</key>
+			<array>
+				<integer>16777223</integer>
+			</array>
+			<key>BUNDLE_IDENTIFIER</key>
+			<string>com.apple.MDImporter.iCal</string>
+			<key>BUNDLE_PATH</key>
+			<string>/System/Library/Spotlight/iCal.mdimporter</string>
+			<key>BUNDLE_UTI</key>
+			<array/>
+			<key>IS_ANCHOR_APPLE</key>
+			<integer>1</integer>
+			<key>IS_LEGACY</key>
+			<integer>0</integer>
+			<key>IS_SANDBOXED</key>
+			<integer>0</integer>
+			<key>LOCALIZATIONS</key>
+			<dict/>
+			<key>PATH</key>
+			<string>/System/Library/Spotlight/iCal.mdimporter</string>
+			<key>PLUGIN_UUIDS</key>
+			<array>
+				<string>5B48B1F9-D18E-11D8-ADD5-0003934B9B58</string>
+			</array>
+			<key>SCHEMA</key>
+			<dict/>
+			<key>STRINGS</key>
+			<dict/>
+			<key>UTI</key>
+			<array>
+				<string>com.apple.ical.ics</string>
+			</array>
+			<key>VERSION</key>
+			<integer>0</integer>
+			<key>VERSION_STRING</key>
+			<string>410</string>
+		</dict>
+		<dict>
+			<key>ARCH</key>
+			<array>
+				<integer>16777223</integer>
+			</array>
+			<key>BUNDLE_IDENTIFIER</key>
+			<string>com.apple.MDImporter.CoreMedia</string>
+			<key>BUNDLE_PATH</key>
+			<string>/System/Library/Spotlight/CoreMedia.mdimporter</string>
+			<key>BUNDLE_UTI</key>
+			<array/>
+			<key>IS_ANCHOR_APPLE</key>
+			<integer>1</integer>
+			<key>IS_LEGACY</key>
+			<integer>0</integer>
+			<key>IS_SANDBOXED</key>
+			<integer>0</integer>
+			<key>LOCALIZATIONS</key>
+			<dict/>
+			<key>PATH</key>
+			<string>/System/Library/Spotlight/CoreMedia.mdimporter</string>
+			<key>PLUGIN_UUIDS</key>
+			<array>
+				<string>9A764051-5FDE-4D12-B414-3C169D999503</string>
+			</array>
+			<key>SCHEMA</key>
+			<dict/>
+			<key>STRINGS</key>
+			<dict/>
+			<key>UTI</key>
+			<array>
+				<string>com.apple.quicktime-movie</string>
+				<string>public.mpeg-4</string>
+				<string>com.apple.protected-mpeg-4-video</string>
+				<string>com.apple.m4v-video</string>
+				<string>public.mpeg-4-audio</string>
+				<string>public.3gpp</string>
+				<string>public.3gpp2</string>
+				<string>public.mpeg</string>
+			</array>
+			<key>VERSION</key>
+			<integer>0</integer>
+			<key>VERSION_STRING</key>
+			<string>2625.9</string>
+		</dict>
+	</array>
+	<key>USER</key>
+	<array/>
+</dict>
+</plist>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ÙÕù ¡c×   ;ñ
+   g                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+ G Ü Ïiœ6Ğj7k8
+Ò
+Ÿ
+l
+9
+	Ó	 	m	:=	¢
+£<o;ÔpÕ	Ö¡n¥Ø?×¤q>rÙs¦Ú@§tAuB¨Û Ü›ÎÑh56¨8EA7372D-8       Ñ 3                                               2U	
+©ÊĞø8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE³2U	
+$»$`8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE²2U	
+ËcÃ8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE±2U	
+)ıÄE8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE°2U	
+ìç:L8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¯2U	
+úävS8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE®2U	
+úåR÷8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE­2U	
+AÈv8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¬2U	
+‘²)8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE«2U		û=®18EA7372D-8CB5-4C3D-8F54-97A887E0DDDEª2U		û9ç8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE©2U		û– 8{8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¨2U		û<åi8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE§2U		õª+^À8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¦2U		ötkQ48EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¥2U		ô|ı§8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¤2U		õ%DA™8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE£2U		í7@î8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¢2U		í¸¢XO8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¡2U		í²WE8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE 2U		íAR8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEŸ2U		í+x8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE2U		í-SU8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE2U		í(Ê†ï8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEœ2U		í{2A8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE›2U		íxîº8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEš2U		ébr¿½8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE™2U		éX•8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE˜2U		ê<‰şü8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE—2U		é‚j.8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE–2U		êS¡ÅÜ8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE•2U		êAË¬8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE”2U		é¦‹H½8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE“2U		ê:äÖ¢8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE’2U		ébql°8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‘2U		ê<«Şê8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE2U		ê:óá¸8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE2U		ê:î‚8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE2U		êŒY¹Ñ8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEŒ2U		êiHªv8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE2U		ê:ûîÃ8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‹2U		ébiãñ8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEŠ2U		éWíà¦8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‰2U		é'IpP8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE„2U		èb¯8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE…2U		èR™08EA7372D-8CB5-4C3D-8F54-97A887E0DDDE†2U		èJ‰âú8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‡2U		è?Ï~u8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEˆ2U		)…,8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEƒ2U	í•š"8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‚2U	í•“İÙ8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE2U	ìŒÉ ç8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE€2U	ë›¾à8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE2U	éQ¶r…8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE~2U	æí³"	8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE{2U	
+n¢8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEµ2U	
+ú6¨8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE´2U	æ½3Fì8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE}2U	æ†|Œ˜8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE|2U	ÕÒĞÈ¡8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEz2U	ÕVz{×8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEy2U	ÕÒÄT“8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEx2U	†õOT
+8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEw2U	ƒ0v³µ8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEv2U	ƒáŒ8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEu2U	‚	±“8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEp2U	‚›¨¤*8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEn2U	
+:B†¿8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¹2U	
+.Cï8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¸2U	
+óµ_28EA7372D-8CB5-4C3D-8F54-97A887E0DDDE·2U	
+Û'€8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¶   ÿ                                                                                                                                                                                                                                                           ;ñ©   
+ A â )şÓ¨}Rè½’g<æ»e:ä¹c8 âwL!
+ö
+Ë
+ 
+u
+J
+	ô	É		s	H	òÇœqFğÅšoDîÃ˜mBìÁ–k@êêêêêê â â â â â â â â â â â â â â â â â â â â                                      *	U5CB49C16-2420-4B3C-AC20-B86406C84F59w*	U5CB49C16-2420-4B3C-AC20-B86406C84F59v*	U5CB49C16-2420-4B3C-AC20-B86406C84F59u*	U5CB49C16-2420-4B3C-AC20-B86406C84F59t*	U5CB49C16-2420-4B3C-AC20-B86406C84F59s*	U5CB49C16-2420-4B3C-AC20-B86406C84F59r*	U5CB49C16-2420-4B3C-AC20-B86406C84F59q*	U5CB49C16-2420-4B3C-AC20-B86406C84F59p*	U5CB49C16-2420-4B3C-AC20-B86406C84F59o*	U5CB49C16-2420-4B3C-AC20-B86406C84F59n*	U5CB49C16-2420-4B3C-AC20-B86406C84F59m*	U5CB49C16-2420-4B3C-AC20-B86406C84F59l*	U5CB49C16-2420-4B3C-AC20-B86406C84F59k*	U5CB49C16-2420-4B3C-AC20-B86406C84F59j*	U5CB49C16-2420-4B3C-AC20-B86406C84F59i*	U5CB49C16-2420-4B3C-AC20-B86406C84F59h*	U5CB49C16-2420-4B3C-AC20-B86406C84F59g*	U5CB49C16-2420-4B3C-AC20-B86406C84F59f*	U5CB49C16-2420-4B3C-AC20-B86406C84F59e¢ ×                                                                                                                                                                                                                   *	U5CB49C16-2420-4B3C-AC20-B86406C84F59Ÿ*	U5CB49C16-2420-4B3C-AC20-B86406C84F59*	U5CB49C16-2420-4B3C-AC20-B86406C84F59*	U5CB49C16-2420-4B3C-AC20-B86406C84F59œ*	U5CB49C16-2420-4B3C-AC20-B86406C84F59›*	U5CB49C16-2420-4B3C-AC20-B86406C84F59š*	U5CB49C16-2420-4B3C-AC20-B86406C84F59™*	U5CB49C16-2420-4B3C-AC20-B86406C84F59˜*	U5CB49C16-2420-4B3C-AC20-B86406C84F59—*	U5CB49C16-2420-4B3C-AC20-B86406C84F59–*	U5CB49C16-2420-4B3C-AC20-B86406C84F59•*	U5CB49C16-2420-4B3C-AC20-B86406C84F59”*	U5CB49C16-2420-4B3C-AC20-B86406C84F59“*	U5CB49C16-2420-4B3C-AC20-B86406C84F59’*	U5CB49C16-2420-4B3C-AC20-B86406C84F59‘*	U5CB49C16-2420-4B3C-AC20-B86406C84F59*	U5CB49C16-2420-4B3C-AC20-B86406C84F59*	U5CB49C16-2420-4B3C-AC20-B86406C84F59*	U5CB49C16-2420-4B3C-AC20-B86406C84F59*	U5CB49C16-2420-4B3C-AC20-B86406C84F59Œ*	U5CB49C16-2420-4B3C-AC20-B86406C84F59‹*	U5CB49C16-2420-4B3C-AC20-B86406C84F59Š*	U5CB49C16-2420-4B3C-AC20-B86406C84F59‰*	U5CB49C16-2420-4B3C-AC20-B86406C84F59ˆ*	U5CB49C16-2420-4B3C-AC20-B86406C84F59‡*	U5CB49C16-2420-4B3C-AC20-B86406C84F59†*	U5CB49C16-2420-4B3C-AC20-B86406C84F59…*	U5CB49C16-2420-4B3C-AC20-B86406C84F59„*	U5CB49C16-2420-4B3C-AC20-B86406C84F59ƒ*	U5CB49C16-2420-4B3C-AC20-B86406C84F59‚*	U5CB49C16-2420-4B3C-AC20-B86406C84F59*	U5CB49C16-2420-4B3C-AC20-B86406C84F59€*	U5CB49C16-2420-4B3C-AC20-B86406C84F59*	U5CB49C16-2420-4B3C-AC20-B86406C84F59~*	U5CB49C16-2420-4B3C-AC20-B86406C84F59}*	U5CB49C16-2420-4B3C-AC20-B86406C84F59|*	U5CB49C16-2420-4B3C-AC20-B86406C84F59{*	U5CB49C16-2420-4B3C-AC20-B86406C84F59z*	U5CB49C16-2420-4B3C-AC20-B86406C84F59y*	U5CB49C16-2420-4B3C-AC20-B86406C84F59xT°                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            *	U5CB49C16-2420-4B3C-AC20-B86406C84F59d*	U5CB49C16-2420-4B3C-AC20-B86406C84F59c*	U5CB49C16-2420-4B3C-AC20-B86406C84F59b*	U5CB49C16-2420-4B3C-AC20-B86406C84F59a*	U5CB49C16-2420-4B3C-AC20-B86406C84F59`*	U5CB49C16-2420-4B3C-AC20-B86406C84F59_   ¬                                                                                                                                                                        ;ñ/   
+ù „® ‰zk\M>/ óäÕÆ·¨™Š{l]N?0!ôåÖÇ¸©š‹|m^O@1"õæ×È¹ªñâÓÄµ¦—ˆyj[L=.êÛÌ½®›Œ}n_PA2#
+ö
+ç
+Ø
+É
+º
+«
+œ
+
+~
+o
+`
+Q
+B
+3
+$
+
+	÷	è	Ù	Ê	»	¬				p	a	R	C	4	%		øéÚË¼­€qbSD5&.....................................................ìİÎ¿°¡’ƒteVG8)        ˜u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ùI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	A×âcr£	A×âcr¹¢	A×âcô&¡	A×âcô¶ 	A×âcô²Ÿ˜                           	A×âvp4¨à	A×âvp4¤ß	A×âvp4vŞ	A×âvnGAæİ	A×âvnGAâÜ	A×âvnGAİÛ	A×âvnGAÙÚ	A×âvnGAÔÙ	A×âvnGA–Ø	A×âduçš^×	A×âdmÎº¶Ö	A×âdmÎº¢Õ	A×âdmÎ§çÔ	A×âdb"¼4Ó	A×âdaDØÒ	A×âdaDÔÑ	A×âdaDÈĞ	A×âdaDÄÏ	A×âdaDÀÎ	A×âdaDÍ	A×âd_Ì»èÌ	A×âd_Ì»äË	A×âd_Ì»àÊ	A×âd_Ì»ÜÉ	A×âd_Ì»ØÈ	A×âd_Ì»ØÇ	A×âd_Ì»ĞÆ	A×âd_Ì»ªÅ	A×âd^v>Ä	A×âd^v=ÿÃ	A×âd^v=ŞÂ	A×âd]+h0Á	A×âd]+h,À	A×âd]+h'¿	A×âd]+h
+¾	A×âd]£^½	A×âd1ùD¼	A×âd1ù»	A×âdelº	A×âdeh¹	A×âdeK¸	A×âd	kï··	A×âd	kï¶	A×âd`È`µ	A×âd`È\´	A×âd`ÈX³	A×âd`ÈT²	A×âd`ÈP±	A×âd`ÈL°	A×âd`ÈG¯	A×âd`ÈC®	A×âd`È?­	A×âd`È:¬	A×âd`È«	A×âdô>!ª	A×âc/Ú
+©	A×âc‡t¬¨	A×âc‡t¨§	A×âc‡tŸ¦	A×âc‡s—¥	A×âcr¤	A×âb˜âÉê	A×âb˜âÉ¬	A×âb˜âÆ—	A×âb—Ò		A×âb—Ò	Œ	A×âb—Òş‹	A×âb—ÒúŠ	A×âb—Òò‰	A×âb—Òîˆ	A×âb—Òâ‡	A×âb—ÒĞ†	A×âb—ÒÄ…	A×âb—Ò³„	A×âb—Òlƒ	A×âb”á‚	A×âb”á	A×âb”àü€	A×âb”à¾	A×âb“¢~	A×âb“¢}	A×âb“¢
+|	A×âb“¢
+{	A×âb“¢z	A×âb“¢y	A×âb“¡ıx	A×âb“¡ùw	A×âb“¡ôv	A×âb“¡ğu	A×âb“¡ğt	A×âb“¡ìs	A×âb“¡èr	A×âb“¡äq	A×âb“¡àp	A×âb“¡Üo	A×âb“¡”n	A×âbaĞØm	A×âbT$qCl	A×âbQIúk	A×âbQIñj	A×âbQIìi	A×âbQIèh	A×âbQIäg	A×âbQIÃf	A×âbOŞSe	A×âbOŞSd	A×âbOŞRµc	A×âbG¢”Úb	A×âbG¢”Õa	A×âbG¢”`	A×âbCª_   x                                                                                                                    	A×âvp4¬â	A×âvp4¨á	A×âcô²	A×âcô­	A×âcô­œ	A×âcô©›	A×âcô¥š	A×âcô¥™	A×âcô ˜	A×âcôœ—	A×âcô˜–	A×âcô˜•	A×âcô””	A×âcô“	A×âcôn’	A×âb¨4G‘;ñ1   
+   È  ôèÜĞÄ¸¬ ”ˆ|pdXL@4(øìàÔÈ¼°¤˜Œ€th\PD8, üğäØÌÀ´¨œ„xl`TH<0$ ôèÜĞÄ¸¬ ”ˆ|pdXL@4(øìàÔÈ¼°¤˜Œ€th\PD8, 
+ü
+ğ
+ä
+Ø
+Ì
+À
+´
+¨
+œ
+
+„
+x
+l
+`
+T
+H
+<
+0
+$
+
+
+ 	ô	è	Ü	Ğ	Ä	¸	¬	 	”	ˆ	|	p	d	X	L	@	4	(ìø			à,Ô€ Dht¤˜È8Œ\P°¼ÌØ´üäğÀœ¨„`xTlH< $0ôè¸ÜÄĞ¬                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+:B†¿¹
+.Cï¸
+óµ_2·
+Û'€¶
+n¢µ
+ú6¨´
+©ÊĞø³
+$»$`²
+ËcÃ±
+)ıÄE°
+ìç:L¯
+úävS®
+úåR÷­
+AÈv¬
+‘²)«	û=®1ª	û9ç©	û– 8{¨	û<åi§	õª+^À¦	ötkQ4¥	ô|ı§¤	õ%DA™£	í7@î¢	í¸¢XO¡	í²WE 	íARŸ	í+x	í-SU	í(Ê†ïœ	í{2A›	íxîºš	ébr¿½™	éX•˜	ê<‰şü—	é‚j.–	êS¡ÅÜ•	êAË¬”	é¦‹H½“	ê:äÖ¢’	ébql°‘	ê<«Şê	ê:óá¸	ê:î‚	êiHªv	êŒY¹ÑŒ	ê:ûîÃ‹	ébiãñŠ	éWíà¦‰	è?Ï~uˆ	èJ‰âú‡	èR™0†	èb¯…	é'IpP„	)…,ƒí•š"‚í•“İÙìŒÉ ç€ë›¾àéQ¶r…~æí³"	{æ½3Fì}æ†|Œ˜|ÕÒĞÈ¡zÕÒÄT“xÕVz{×y†õOT
+wƒáŒuƒ0v³µv‚›¨¤*n‚	±“p‚~Töam‚sY$ét‚stRs‚røC5q‚füÔo‚=Xi.r€Ë(şõg€¬exh€~…f€yú¤Ùk€yóÒoj€VßH~l€VÅJ»e€#bÃ i~oŞúd}ÌDjÛb}£YmÃa}7(­cgç”íù`ebÜ«_S7wÎ*^øˆì]ô Ñ¼Ã\óJ¢ZóLØˆYó¬¦[ò¨«ºWòfä¨¤XñÍA$UñÍ9¥/Rñ›	Ù©Vñ›ÁºTñ› DŠOñŠ›»Pñ†ÉRúQñXDñÀSğĞNîşÇMîe@ İLë|‰ÊúK†u”'÷†uQÛö…ê6_õ¿Î±‘2ë¿¶Ÿ«á¿§®)ãß¿«Ùgğ¿‰ï6ç¿€‡î†ó¿}Hëæ¿zD§ñ¿$fô¿~zcŞ¿~.ï¿dlî”ì¿ZŞ(é¿Yı²(ã¿V€É%à¿T{5è¿TzLaâ¿Tpõ§å¿Tj[¥ä¿0 î¿ı  ê¿á’Xò¿îc—í¾NŠˆÙ¾!mÜZØ½é?,İ½åÚ‚Û½x ­MÜ½/Å78Úå™®% Jå™­AIå™šşùHÆÿTºeGÀ¾óåìFÀXoùƒEÀXla’CÀK°$êD¿_£/B¾%B©N@½·ğâAº=úïŸ>º6,/­?¹ËZiw<¹ËYŞ;¹ËVrj=¹»Õí§5¹³wú!4¹‡úó¥:¹İ7¹ÿÎM6¹ÿi9¹ùƒs8±@ço3±@ãî2­Âd51¬ŸDd‡0ªÓı,ï/¨Eİ¨.§Ö`[“-¥Ow–,]®I×wæ©ÙÕw‹îLÔwwÄÖlËÆrÓl•‹„ŞÎlo›»ÒlcGKĞlMPÉÑl
+å±$Ík¶?%IÏjÙéeÈjÏ¹hÇjˆ²ä$Åjù…ÉjéËj}º-BÆj{3b¶ÊjkñÌi]{#ÑÄi:`lÂi'û&ÃhõdX÷¾hõVÀã½hğÁ®ºÀh‘xò¿;ñ¥   
+’ W è h>
+ê
+À
+–
+l
+B
+	î	Ä	š	p	F	òÈtJ öÌ¢xN$úĞ¦|R(şÔª€V,Ø®„Z0Ü²ˆ^4
+à¶Œb8äºf< èÖ¬‚X.Ú°†\2Ş´Š`6â¸d                                                  )U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE£)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¢)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¡)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE )U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEŸ)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEœ)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE›)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEš)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE™)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE˜)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE—)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE–)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE•)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE”)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE“)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE’)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‘)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEŒ)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‹)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEŠ)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‰)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEˆ)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‡)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE†)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE…)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE„)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEƒ)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‚)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE€)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE~)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE})U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE|)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE{)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEz)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEy)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEx)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEw)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEv)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEu)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEt)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEs)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEr)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEq)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEp)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEo)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEn)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEm)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEl)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEk)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEj)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEi)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEh)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEg)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEf)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEe)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEd)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEc   Ò                                                                                                                                                                                                              )U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¹)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¸)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE·)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¶)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEµ)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE´)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE³)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE²)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE±)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE°)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¯)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE®)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE­)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¬)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE«)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDEª)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE©)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¨)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE§)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¦)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¥)U8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE¤;ñ   L    k‚Ö)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ‚‰9
+UƒJ	8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE°
+:B†¿{"groupIdentifier":"com.apple.ace.sync","classIdentifier":"GetAnchorsResponse","timestamp":11073403127487,"refId":"5a3c3351-4fa2-4482-bad7-8d969dd3e4c5","sessionType":"remote","aceId":"9090D47F-2550-4645-AAC3-D126D587C364"}A×â—á()‰8
+U`	8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE’
+.Cï{"resultCallbackCode":-1,"com.apple.ace.sync.GetAnchors":{"aceId":"5a3c3351-4fa2-4482-bad7-8d969dd3e4c5"}}A×â—á(Ê(‰7
+U^	8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE©
+óµ_2{"path":"\/System\/Library\/Assistant\/Plugins\/Podcasts.assistantBundle","class":"POPodcastSyncHandler"}A×â—ßáÛe‰6
+U‚X	8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE°
+Û'€{"groupIdentifier":"com.apple.ace.sync","classIdentifier":"Finished","timestamp":11068212193152,"sessionType":"remote","aceId":"3A8037CD-2DB8-49BB-8781-7AF30596D35E"}A×â—ßáÖ‰5
+U0	8EA7372D-8CB5-4C3D-8F54-97A887E0DDDE‘
+n¢{"com.apple.ace.sync.GetAnchors":{"aceId":"5a3c3351-4fa2-4482-bad7-8d969dd3e4c5"}}A×â—ßáÎ;ñ   SQLite format 3   @     ó   g   
+   9                                                    ó .4    y ¡7«y                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 =eindexevents_index_event_batcheventsCREATE INDEX 'events_index_event_batch' ON "events" ("timestamp", "stream_uid", "status", "delivery_stream")[Cindexevents_index_covering_status_stream_uideventsCREATE INDEX 'events_index_covering_status_stream_uid' ON "events" ("status", "stream_uid")	M9indexevents_index_date_created_statuseventsCREATE INDEX 'events_index_date_created_status' ON "events" ("status", "date_created")h9indexevents_index_timestampeventsCREATE INDEX 'events_index_timestamp' ON "events" ("timestamp")k;indexevents_index_stream_uideventsCREATE INDEX 'events_index_stream_uid' ON "events" ("stream_uid")oƒ9tableeventseventsCREATE TABLE 'events' ('stream_uid' TEXT, 'delivery_stream' INTEGER DEFAULT 0, 'type' INTEGER, 'timestamp' INTEGER, 'context_data' BLOB, 'context_data_type' INTEGER, 'date_created' REAL, 'status' INTEGER DEFAULT 0);ñ«                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        {"id":"monaco-parts-splash","colorInfo":{"foreground":"#cccccc","editorBackground":"#1e1e1e","titleBarBackground":"#3c3c3c","activityBarBackground":"#333333","sideBarBackground":"#252526","statusBarBackground":"#007acc","statusBarNoFolderBackground":"#68217a"},"layoutInfo":{"sideBarSide":"left","editorPartMinWidth":220,"titleBarHeight":22,"activityBarWidth":48,"sideBarWidth":170,"statusBarHeight":22,"windowBorder":false},"baseTheme":"vs-dark"}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ÙÕù ¡c×   ,9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                L  G úæ3 G«D6f› G                                       …IqŠ3terminal.integrated.environmentVariableCollections[{"extensionIdentifier":"vscode.git","collection":[["VSCODE_GIT_IPC_HANDLE",{"value":"/var/folders/8s/mnl3_fbd7szc4vsk_21_tg2r0000gn/T/vscode-git-fea97a1486.sock","type":1}],["GIT_ASKPASS",{"value":"/Users/eng_ahmed/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh","type":1}],["VSCODE_GIT_ASKPASS_NODE",{"value":"/Users/eng_ahmed/Downloads/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer)","type":1}],["VSCODE_GIT_ASKPASS_MAIN",{"value":"/Users/eng_ahmed/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js","type":1}]]}]5output.activechanneltasks‚+„codelens/cache2{"file:///Users/eng_ahmed/Desktop/nasr/nasr/pubspec.yaml":{"lineCount":42,"lines":[]},"file:///Users/eng_ahmed/Desktop/nasr/nasr/ios/Podfile":{"lineCount":39,"lines":[]},"file:///Users/eng_ahmed/Desktop/nasr/nasr/lib/main.dart":{"lineCount":59,"lines":[13]}}1 ÅI…uworkbench.explorer.views.state{"outline":{"collapsed":true,"isHidden":true,"size":22},"timeline":{"collapsed":true,"isHidden":true,"size":22},"workbench.explorer.openEditorsView":{"collapse0!eworkbench.view.explorer.numberOfVisibleViews4d5%workbench.panel.repl{"workbench.panel.repl.view":{"collapsed":false,"isHidden":true,"size":825}}8O5workbench.panelpart.activepanelidworkbench.panel.replHterminal{"terminal":{"collapsed":false,"isHidden":true,"size":1099}}’ jI‰memento/workbench.parts.editor{"editorpart.state":{"serializedGrid":{"root":{"type":"branch","data„[%Iˆmemento/workbench.parts.editor{"editorpart.state":{"serializedGrid":{"root":{"type":"branch","data":[{"type":"leaf","data":{"id":0,"editors":[{"id":"workbench.editors.files.fileEditorInput","value":"{\"resourceJSON\":{\"$mid\":1,\"fsPath\":\"/Users/eng_ahmed/Desktop/nasr/nasr/lib/main.dart\",\"external\":\"file:///Users/eng_ahmed/Desktop/nasr/nasr/lib/main.dart\",\"path\":\"/Users/eng_ahmed/Desktop/nasr/nasr/lib/main.dart\",\"scheme\":\"file\"},\"encoding\":\"utf8\"}"}],"mru":[0]},"size":474}],"size":825},"orientation":0,"width":825,"height":474},"activeGroup":0,"mostRecentActiveGroups":[0]}}‡iQmemento/workbench.editors.files.textFileEditor{"textEditorViewState":[["file:///Users/eng_ahmed/Desktop/nasr/nasr/pubspec.yaml",{"0":{"cursorState":[{"inSelectionMode":false,"selectionStart":{"lineNumber":1,"column":1},"position":{"lineNumber":1,"column":1}}],"viewState":{"scrollLeft":0,"firstPosition":{"lineNumber":3,"column":1},"firstPositionDeltaTop":-14},"contributionsState":{"editor.contrib.wordHighlighter":false,"editor.contrib.folding":{"lineCount":42,"provider":"indent"}}}}],["file:///Users/eng_ahmed/Desktop/nasr/nasr/lib/main.dart",{"0":{"cursorState":[{"inSelectionMode":false,"selectionStart":{"lineNumber":16,"column":19},"position":{"lineNumber":16,"column":19}}],"viewState":{"scrollLeft":0,"firstPosition":{"lineNumber":2,"column":1},"firstPositionDeltaTop":-14},"contributionsState":{"editor.contrib.folding":{"lineCount":59,"provider":"syntax"},"editor.contrib.wordHighlighter":false}}}]]}   ¤M„	workbench.explorer.treeViewState{"focus":["file:///Users/eng_ahmed/Desktop/nasr/nasr/ios"],"selection":["file:///Users/eng_ahmed/Desktop/nasr/nasr/lib/main.d‚,"M„workbench.explorer.treeViewState{"focus":["file:///Users/eng_ahmed/Desktop/nasr/nasr/lib/main.dart"],"selection":["file:///Users/eng_ahmed/Desktop/nasr/nasr/lib/main.dart"],"expanded":["file:///Users/eng_ahmed/Desktop/nasr/nasr/ios","file:///Users/eng_ahmed/Desktop/nasr/nasr/lib"],"scrollTop":0}ƒ$I…uworkbench.explorer.views.state{"outline":{"collapsed":true,"isHidden":true,"size":22},"timeline":{"collapsed":true,"isHidden":true,"size":22},"workbench.explorer.openEditorsView":{"collapsed":true,"isHidden":true,"size":22},"workbench.explorer.fileView":{"collapsed":false,"isHidden":true,"size":529},"npm":{"collapsed":true,"isHidden":true},"dartPackages":{"collapsed":true,"isHidden":true,"size":22}},@t   
+ !
+ä‚£æ+]INB’æ„™ı¡ø†É®eK¸Òî`»Ç
+ä ¶@@                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        1eworkbench.view.explorer.numberOfVisibleViews ¡7qterminal.integrated.environmentVariableCollections 3imemento/workbench.editors.files.textFileEditor ‚;__$__isNewStorageMarkerF• c+codelens/cache2 Œ5workbench.panel.repl Ÿ-_workbench.panel.repl.numberOfVisibleViews5*Yworkbench.view.extension.flutter.state11debugStartLanguage,"Imemento/workbench.panel.output+/cworkbench.panel.output.numberOfVisibleViews*é !Gterminal.numberOfVisibleViewsK-_workbench.view.debug.numberOfVisibleViewsem memento/&O#Iworkbench.explorer.views.state ¤,]memento/workbench.editor.walkThroughPart+history.entriest#editors.mrusŞ memento/workbench.pterminal ˆ#Imemento/workbench.parts.editor ¥'Sworkbench.view.extension.test.state2 terminal.int&Oworkbench.panelpart.activepanelid =vscode.debug-auto-launchq workbenterminal %Oworkbench.panel.placeholderPanels' 0workbench.explorer.treeViewStatew' 1workben%Mworkbench.explorer.treeViewState ¢Aworkbench.view.debug.state1debug.selectedroot
+)Wworkbench.centerededitorlayout.active	~ output.activechannelyCworkbench.view.search.state?workbench.scm.views.state¡ work9workbench.panel.hidden&   terminal9workbench.panel.output;workbench.panel.markers 5output.activechannel ,;5   SQLite format 3   @     w                                                            w .4 ø \ \Å                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            gtableItemTableItemTableCREATE TABLE ItemTable (key TEXT UNIQUE ON CONFLICT REPLACE, value BLOB)1E indexsqlite_autoindex_ItemTable_1ItemTable       ,9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ÙÕù ¡c×   lyÊâ   M                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             M   
+´ 
+ÒúÛ¾ 
+´‚C;ÆœƒS3 u u u                                                                         ?typescript.1.sessionCount2<vEGtelemetry.currentSessionDateFri, 16 Oct 2020 11:56:59 GMT9u?Gtelemetry.lastSessionDateThu, 15 Oct 2020 01:$7workbench.grid.height665#5workbench.grid.width1126†"Q‹Gworkbench.activity.pinnedViewlets2[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"oƒƒJ\E†aworkbench.panel.pinnedPanels[{"id":"workbench.panel.repl","name":"Debug Console","pinned":true,"order":2,"visible":true},{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"refactorPreview","name":"Refactor Preview","pinned":true,"visible":false}]—4[Y®!workbench.activity.placeholderViewlets[{"id":"workbench.view.explorer","iconCSS":"codicon codicon-files","name":"Explorer","views":[{"when":"openEditorsVisible"},{},{},{"when":"timelineHasProvider"},{},{"when":"dart-code:dartProjectLoaded"}]},{"id":"workbench.view.search","iconCSS":"codicon codicon-search","name":"Search","views":[{}]},{"id":"workbench.view.scm","iconCSS":"codicon codicon-source-control","name":"Source Control","views":[{"when":"scm.providerCount && scm.providerCount != '0'"},{}]},{"id":"workbench.view.debug","iconCSS":"codicon codicon-debug-alt","name":"Run","views":[{"when":"debugUx == 'simple'"},{"when":"debugUx == 'default'"},{"when":"debugUx == 'default'"},{"when":"debugUx == 'default'"},{"when":"loadedScriptsSupported && debugUx == 'default'"},{"when":"breakpointsExist || debugUx == 'default'"},{"when":"debugConfigurationType == 'pwa-chrome'"}]},{"id":"workbench.view.remote","iconCSS":"codicon-remote-explorer","name":"Remote Explorer","views":[]},{"id":"workbench.view.extensions","iconCSS":"codicon-extensions","name":"Extensions","views":[{"when":"defaultExtensionViews && !hasInstalledExtensions"},{"when":"recommendedExtensions && workbenchState != 'empty'"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"recommendedExtensions"},{"when":"defaultExtensionViews && !config.extensions.showRecommendationsOnlyOnDemand"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"searchMarketplaceExtensions"},{"when":"searchInstalledExtensions"},{"when":"searchEnabledExtensions"},{"when":"searchDisabledExtenc7workbench.grid.height674ƒJ\E†aworkbench.panel.pinnedPanels[{"id":"workbench.panel.repl","name":"Debug Console","pinned":true,"order":2,"visible":true},{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"refactorPreview","name":"Refactor Preview","pinned":true,"visible":false}]a5workbench.grid.width1043`5workbench.panel.size156_9workbench.sidebar.size170†^Q‹Eworkbench.activity.pinnedViewlets2[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":2},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":true,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.flutter","pinned":true,"visible":true,"order":8},{"id":"workbench.view.sync","pinned":true,"visible":false}]lyÒ   û Ú    MìöñæàÚ”\v
+ò
+š™? Ù Á — ~ N                        .E+javascript.1.lastSessionDateWed Oct 14 20203java.2.sessionCount1(9+java.2.lastSessionDateWed Oct 14 20201cpp.1.sessionCount1'7+cpp.1.lastSessionDateWed Oct 14 2020-nps/sessionCount1%3+nps/lastSessionDateWed Oct 14 2020X5productIconThemeData{"id":"","label":"Default","settingsId":"Default","watch":false}sY›workbench.activity.placeholderViewlets[{"id":"workbench.view.explorer","iconCSS":"codicon codicon-files","name":"Explorer","views":[{},{"when":"timelineHasProvider"}]},{"id":"workbench.view.search","iconCSS":"codicon codicon-search","name":"Search","views":[{}]},{"id":"workbench.view.scm","iconCSS":"codicon codicon-source-control","name":"Source Control","views":[{"when":"scm.providerCount && scm.providerCount != '0'"},{}]},{"id":"workbench.view.debug","iconCSS":"codicon codicon-debug-alt","name":"Run","views":[{"when":"debugUx == 'simple'"},{"when":"debugUx == 'default'"},{"when":"debugUx == 'default'"},{"when":"debugUx == 'default'"},{"when":"loadedScriptsSupported && debugUx == 'default'"},{"when":"breakpointsExist || debugUx == 'default'"}]},{"id":"workbench.view.remote","iconCSS":"codicon-remote-explorer","name":"Remote Explorer","views":[]},{"id":"workbench.view.extensions","iconCSS":"codicon-extensions","name":"Extensions","views":[{"when":"defaultExtensionViews && !hasInstalledExtensions"},{"when":"recommendedExtensions && workbenchState != 'empty'"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"recommendedExtensions"},{"when":"defaultExtensionViews && !config.extensions.showRecommendationsOnlyOnDemand"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"searchMarketplaceExtensions"},{"when":"searchInstalledExtensions"},{"when":"searchEnabledExtensions"},{"when":"searchDisabledExtensions"},{"when":"searchOutdatedExtensions"},{"when":"searchBuiltInExtensions"},{"when":"builtInExtensions"},{"when":"builtInExtensions"},{"when":"builtInExtensions"}]},{"id":"workbench.view.sync","iconCSS":"codicon codicon-sync","name":"Settings Sync","views":[]}]„Q‡Qworkbench.activity.pinnedViewlets2[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":2},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.sync","pinned":true,"visible":true}]VQoworkbench.view.search.state.hidden[{"id":"workbench.view.search","isHidden":false}]MGworkbench.scm.views.state.hidden[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false}]cWƒworkbench.explorer.views.state.hidden[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false}]6+Uterminal.hidden[{"id":"terminal","isHidden":false}]R
+Gqworkbench.panel.output.hidden[{"id":"workbench.panel.output","isHidden":false}]Y	I}workbench.panel.markers.hidden[{"id":"workbench.panel.markers.view","isHidden":false}]7'[sync.storeUrlhttps://vscode-sync.trafficmanager.net/‚i3…1sync.previous.store{"url":"https://vscode-sync.trafficmanager.net/","stableUrl":"https://vscode-sync.trafficmanager.net/","insidersUrl":"https://vscode-sync-insiders.trafficmanager.net/","canSwitch":false,"authenticationProviders":{"microsoft":{"scopes":["https://management.core.windows.net/.default","offline_access"]},"github":{"scopes":["user:email"]}}}<EGtelemetry.currentSessionDateThu, 15 Oct 2020 00:29:53 GMT:AGtelemetry.firstSessionDateThu, 15 Oct 2020 00:29:53 GMT;5Utelemetry.instanceId485e68dd-b2ff-477e-99df-0756b06781d6;__$__isNewStorageMarkertrue?=Ustorage.serviceMaû    L[   7      "   @   ;   glyÒ   [ < z?9~< Áhhhh                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ‹5workbench[ Y7workbench.grid.height677[ ;5workbench.grid.width1366[ 5workbench.panel.size221[ {EGtelemetry.currentSessionDateSat, 17 Oct 2020 00:15:23 GMT98?Gtelemetry.lastSessionDateFri, 16 Oct 2020 18:37:00 GMT?7=Ustorage.serviceMachineId583a27b7-fba2-48fd-b894-3c2bb395d008743‚MDart-Code.dart-code{"lastSeenVersion":"3.15.1","hasPrompted.use_recommended_settings":true,"devToolsNotificationLastShown":1602728319462,"devToolsNotificationDoNotShowAgain":true}ƒO*)‡editorFontInfo[{"zoomLevel":0,"fontFamily":"Menlo, Monaco, 'Courier New', monospace","fontWeight":"normal","fontSize":12,"fontFeatureSettings":"\"liga\" off, \"calt\" off","lineHeight":18,"letterSpacing":0,"isTrusted":true,"isMonospace":true,"typicalHalfwidthCharacterWidth":7.2265625,"typicalFullwidthCharacterWidth":12,"canUseHalfwidthRightwardsArrow":false,"spaceWidth":7.2265625,"middotWidth":7.2265625,"wsmiddotWidth":3.328125,"maxDigitWidth":7.2265625}]0C1debug.actionswidgetposition0.72474377745241585debug.actionswidgety70   9workbench.sidebar.size219Òv)¥ScolorThemeData{"id":"vs-dark vscode-theme-defaults-themes-dark_plus-json","label":"Dark+ (default dark)","settingsId":"Default Dark+","selector":"vs-dark.vscode-theme-defaults-themes-dark_plus-json","themeTokenColors":[{"scope":["meta.embedded","source.groovy.embedded"],"settings":{"foreground":"#D4D4D4"}},{"scope":"emphasis","settings":{"fontStyle":"italic"}},{"scope":"strong","settings":{"fontStyle":"bold"}},{"scope":"header","settings":{"foreground":"#000080"}},{"scope":"comment","settings":{"foreground":"#6A9955"}},{"scope":"constant.language","settings":{"foreground":"#569cd6"}},{"scope":["constant.numeric","variable.other.enummember","keyword.operator.plus.exponent","keyword.operator.minus.exponent"],"settings":{"foreground":"#b5cea8"}},{"scope":"constant.regexp","settings":{"foreground":"#646695"}},{"scope":"entity.name.tag","settings":{"foreground":"#569cd6"}},{"scope":"entity.name.tag.css","settings":{"foreground":"#d7ba7d"}},{"scope":"entity.other.attribute-name","settings":{"foreground":"#9cdcfe"}},{"scope":["entity.other.attribute-name.class.css","entity.other.attribute-name.class.mixin.css","entity.other.attribute-name.id.css","entity.other.attribute-name.parent-selector.css","entity.other.attribute-name.pseudo-class.css","entity.other.attribute-name.pseudo-element.css","source.css.less entity.other.attribute-name.id","entity.other.attribute-name.attribute.scss","entity.other.attribute-name.scss"],"settings":{"foreground":"#d7ba7d"}},{"scope":"invalid","settings":{"foreground":"#f44747"}},{"scope":"markup.underline","settings":{"fontStyle":"underline"}},{"scope":"markup.bold","settings":{"fontStyle":"bold","foreground":"#569cd6"}},{"scope":"markup.heading","settings":{"fontStyle":"bold","foreground":"#569cd6"}},{"scope":"markup.italic","settings":{"fontStyle":"italic"}},{"scope":"markup.inserted","settings":{"foreground":"#b5cea8"}},{"scope":"markup.deleted","settings":{"foreground":"#ce9178"}},{"scope":"markup.changed","settings":{"foreground":"#569cd6"}},{"scope":"punctuation.definition.quote.begin.markdown","settings":{"foreground":"#6A9955"}},{"scope":"punctuation.definition.list.begin.markdown","settings":{"foreground":"#6796e6"}},{"scope":"markup.inline.raw","settings":{"foreground":"#ce9178"}},{"name":"brackets of XML/HTML tags","scope":"punctuation.definition.tag","settings":{"foreground":"#808080"}},{"scope":["meta.preprocessor","entity.name.function.preprocess   lyÑp   L   Í ÍHround":"#569cd6"ææeground":"#569cd6"}},{"scope":"storage.type","settings":{"foreground":"#569cd6"}},{"scope":["storage.modifier","keyword.operator.noexcept"],"settings":{"foreground":"#569cd6"}},{"scope":["string  EGtelemetry.currentSessionDateSat, 17 Oct 2020 00:15:23 GMT98?Gtelemetry.lastSessionDateFri, 16 Oct 2020 18:37:00 GMT?7=Ustorage.serviceMachineId583a27b7-fba2-48fd-b894-3c2bb395d00855workbench.grid.width1045743‚MDart-Code.dart-code{"lastSeenVersion":"3.15.1","hasPrompted.use_recommended_settings":true  ß7workbench.grid.height677R5workbench.grid.width1366Q5workbench.panel.size22   ÎE†aworkbench.panel.pinnedPanels[{"id":"workbench.panel.repl","name":"Debug Console","pinned":true,"order":2,"visible":true},{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"terminal","name":"Terminal<9EGtelemetry.currentSessionDateSat, 17 Oct 2020 00:15:23 GMT98?Gtelemetry.lastSessionDateFri, 16 Oct 2020 18:37:00 GMT—4[Y®!workbench.activity.placeholderViewlets[{"id":"workbench.view.explorer","iconCSS":"codicon codicon-files","name":"Explorer","views":[{"when":"openEditorsVisible"},{},{},{"when":"timelineHasProvider"},{},{"when":"dart-code:dartProjectLoaded"}]},{"id":"workbench.view.search","iconCSS":"codicon codicon-search","name":"Search","views":[{}]},{"id":"workbench.view.scm","iconCSS":"codicon codicon-source-control","name":"Source Control","views":[{"when":"scm.providerCount && scm.providerCount != '0'"},{}]},{"id":"workbench.view.debug","iconCSS":"codicon codicon-debug-alt","name":"Run","views":[{"when":"debugUx == 'simple'"},{"when":"debugUx == 'default'"},{"when":"debugUx == 'default'"},{"when":"debugUx == 'default'"},{"when":"loadedScriptsSupported && debugUx == 'default'"},{"when":"breakpointsExist || debugUx == 'default'"},{"when":"debugConfigurationType == 'pwa-chrome'"}]},{"id":"workbench.view.remote","iconCSS":"codicon-remote-explorer","name":"Remote Explorer","views":[]},{"id":"workbench.view.extensions","iconCSS":"codicon-extensions","name":"Extensions","views":[{"when":"defaultExtensionViews && !hasInstalledExtensions"},{"when":"recommendedExtensions && workbenchState != 'empty'"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"recommendedExtensions"},{"when":"defaultExtensionViews && !config.extensions.showRecommendationsOnlyOnDemand"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"defaultExtensionViews && hasInstalledExtensions"},{"when":"searchMarketplaceExtensions"},{"when":"searchInstalledExtensions"},{"when":"searchEnabledExtensions"},{"when":"searchDisabledExtensions"},{"when":"searchOutdatedExtensions"},{"when":"searchBuiltInExtensions"},{"when":"builtInExtensions"},{"when":"builtInExtensions"},{"when":"builtInExtensions"}]},{"id":"workbench.view.extension.test","iconCSS":"codicon codicon-beaker","name":"Test","views":[{"when":"dart-code:dartProjectLoaded"}]},{"id":"workbench.view.extension.references-view","iconUrl":{"$mid":1,"path":"/Users/eng_ahmed/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.references-view/media/container-icon.svg","scheme":"file"},"name":"References","views":[{"when":"reference-list.isActive"}]},{"id":"workbench.view.extension.flutter","iconUrl":{"$mid":1,"path":"/Users/eng_ahmed/.vscode/extensions/dart-code.dart-code-3.15.1/media/icons/flutter_activity_bar.svg","scheme":"file"},"name":"Flutter","views":[{"when":"dart-code:anyFlutterProjectLoaded && dart-code:showFlutterOutline"}]},{"id":"workbench.view.sync","iconCSS":"codicon codicon-sync","name":"Settings Sync","views":[{"when":"enableSyncMergesView"},{"when":"enableSyncActivityViews && userDataSyncAccountStatus == 'available' && syncStatus != 'uninitialized'"},{"when":"enableSyncActivityViews && userDataSyncAccountStatus == 'available' && syncStatus != 'uninitialized'"},{"when":"enableSyncActivityViews && userDataSyncAccountStatus == 'available' && syncStatus != 'uninitialized'"}]}]lyÓA   
+£ >p	0	˜Ğ'X	h	I»¤Ï‹¨
+
+3
+c
+Œ	Ù
+Ú
+´†¼‰qPRl/êÕ°±WEp¯’ì.#&¹RmãKê	”ğ	¶Íqä¿m                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            !Etelemetry.currentSessionDate ¹?telemetry.lastSessionDate ¸=storage.serviceMachineId · Cdebug.actionswidgetposition –9workbench.sidebar.size ß5workbench.grid.width á+Yworkbench.activity.placeholderViewlets Û?javascript.1.sessionCount €1gworkbench.view.extension.flutter.state.hidden^	… d)editorFontInfo ª'SextensionsAssistant/recommendationsY.aworkbench.view.extension.test.state.hiddenQ	… 5workbench.panel.size à3Dart-Code.dart-code ´AcommandPalette.mru.counterS=commandPalette.mru.cacheR: editorFontInfoD?PKief.material-icon-theme9"Iworkbench.telemetryOptOutShown6'Sexperiments.saajani.reactnative.nps51gexperiments.copeet.jsDebugChromeInsiderPrompt4/cexperiments.copeet.jsDebugNodeInsiderPrompt3(Uexperiments.fiveisprime.searchForIoT2'Sexperiments.fiveisprime.windowsDocs1%Oexperiments.saajani.searchForJava0'Sexperiments.saajani.searchForGithub/$Mexperiments.cdias.searchForAzure.)allExperiments-¥ workbench.grid.heigh7workbench.grid.height ã?workbench.panel.dimension*5debug.actionswidgety •
+ workbench.panel.size ©*Yworkbench.view.extensions.state.hidden'Cworkbench.panel.repl.hidden&K colorThemeDatah'iconThemeData@;memento/notebookEditors#ó workbench)colorThemeData …7memento/customEditors)Wextensions.ignoredAutoUpdateExtension=releaseNotes/lastVersion%Oworkbench.view.debug.state.hidden[ type)editorFontInfo ˆ?typescript.1.sessionCount ‚!Etypescript.1.lastSessionDate  Ejavascript.1.lastSessionDate3java.2.sessionCount~9java.2.lastSessionDate}1cpp.1.sessionCount|7cpp.1.lastSessionDate{-nps/sessionCountz3nps/lastSessionDatey5productIconThemeData( work'Qworkbench.activity.pinnedViewlets2 Ş!Eworkbench.panel.pinnedPanels Ü&Qworkbench.view.search.state.hidden$Mworkbench.scm.views.state.hidden)Wworkbench.explorer.views.state.hiddenV!Gworkbench.panel.output.hidden
+"Iworkbench.panel.markers.hidden	o storage.serviceMachineIdt'sync.storeUrl3sync.previous.storeÈ !telemetry.currentSessionDatevAtelemetry.firstSessionDate5telemetry.instanceId   __$_;__$__isNewStorageMarkerG+terminal.hiddenlyÎc   SQLite format 3   @     ‡   M                                                           ‡ .4 ø \ \Å                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            gtableItemTableItemTableCREATE TABLE ItemTable (key TEXT UNIQUE ON CONFLICT REPLACE, value BLOB)1E indexsqlite_autoindex_ItemTable_1ItemTable       lyÊâ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                bplist00ß	
+")0ACJSU\emwy{‚”˜Ÿ¦¨ª®°_Tcom.apple.locationd.bundle-/System/Library/PrivateFrameworks/HomeKitDaemon.framework_Scom.apple.locationd.bundle-/System/Library/PrivateFrameworks/FindMyDevice.framework_Rcom.apple.locationd.bundle-/System/Library/PrivateFrameworks/IPTelephony.framework_Qcom.apple.locationd.bundle-/System/Library/PrivateFrameworks/CoreParsec.framework_ùcom.apple.locationd.bundle-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/LocationBundles/PassbookRelevancy.bundle_Ncom.apple.locationd.bundle-/System/Library/PrivateFrameworks/iAdCore.framework^com.apple.Maps_com.apple.mobilecal_Zcom.apple.locationd.bundle-/System/Library/PrivateFrameworks/WirelessDiagnostics.framework_Icom.apple.locationd.bundle-/System/Library/LocationBundles/Routine.bundle_şcom.apple.locationd.bundle-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.framework_com.apple.MapsSupport_úcom.apple.locationd.bundle-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/BulletinBoard.framework_øcom.apple.locationd.bundle-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/LocationBundles/CalendarLocation.bundle_Mcom.apple.locationd.bundle-/System/Library/Frameworks/CoreTelephony.framework_Jcom.apple.locationd.bundle-/System/Library/LocationBundles/TimeZone.bundle_Mcom.apple.locationd.bundle-/System/Library/LocationBundles/WifiCalling.bundle_com.apple.locationd_Ecom.apple.locationd.bundle-/System/Library/LocationBundles/Wea.bundle__com.apple.locationd.bundle-/System/Library/LocationBundles/DestinationdLocationBundleiOS.bundle_øcom.apple.locationd.bundle-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/PassKitCore.framework_úcom.apple.locationd.bundle-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/HomeKitDaemon.framework_com.apple.springboard_şcom.apple.locationd.bundle-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/LocationBundles/PassbookMerchantLookup.bundle_Ícom.apple.locationd.bundle-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/libexecÔ ! [WhitelistedZRegisteredZBundlePathZExecutableP_9/System/Library/PrivateFrameworks/HomeKitDaemon.frameworkÔ#$%& ( [WhitelistedZRegisteredZBundlePathZExecutable_8/System/Library/PrivateFrameworks/FindMyDevice.frameworkÔ*+,- / [WhitelistedZRegisteredZBundlePathZExecutable_7/System/Library/PrivateFrameworks/IPTelephony.frameworkÙ123456789:;=?  @ZBundlePath_SupportedAuthorizationMask_AuthorizationUpgradeAvailable_'ReceivingLocationInformationTimeStopped[Whitelisted]AuthorizationZRegisteredZExecutable_LocationTimeStopped_6/System/Library/PrivateFrameworks/CoreParsec.framework#AÂHg~G#AÂHbgÓ‘ÑB;_SupportedAuthorizationMaskÔDEFGH  ZBundlePath[WhitelistedZExecutableZRegistered_3/System/Library/PrivateFrameworks/iAdCore.frameworkÕKLMNOQR  [WhitelistedXBundleId_SupportedAuthorizationMaskZExecutableZRegistered^com.apple.MapsÑTR_SupportedAuthorizationMaskÔVWXY [ [WhitelistedZRegisteredZBundlePathZExecutable_?/System/Library/PrivateFrameworks/WirelessDiagnostics.frameworkÕ]^_`a c d[WhitelistedZRegistered_SupportedAuthorizationMaskZExecutableZBundlePath_./System/Library/LocationBundles/Routine.bundleÕfghij Rl [WhitelistedZExecutable_SupportedAuthorizationMaskZBundlePathZRegistered_ã/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AssistantServices.frameworkÕnopqrstcuv[WhitelistedXBundleId_SupportedAuthorizationMaskZRegisteredZExecutable	_com.apple.MapsSupport_â/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MapsSupport.framework/navd_â/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/MapsSupport.framework/navdÑx;_SupportedAuthorizationMaskÑz;_SupportedAuthorizationMaskÔ|}~  [WhitelistedZRegisteredZBundlePathZExecutable_2/System/Library/Frameworks/CoreTelephony.framework×ƒ„…†‡ˆ‰;‹?  [Whitelisted_SupportedAuthorizationMaskZBundlePath_AuthorizationUpgradeAvailable]AuthorizationZRegisteredZExecutable_//System/Library/LocationBundles/TimeZone.bundleÔ‘ “ [WhitelistedZRegisteredZBundlePathZExecutable_2/System/Library/LocationBundles/WifiCalling.bundleÒ•–c—_SupportedAuthorizationMask[TimeMissing#AÂG)ı³ Ô™š›œ  [WhitelistedZRegisteredZBundlePathZExecutable_*/System/Library/LocationBundles/Wea.bundleÔ ¡¢£ ¥ [WhitelistedZRegisteredZBundlePathZExecutable_D/System/Library/LocationBundles/DestinationdLocationBundleiOS.bundleÑ§R_SupportedAuthorizationMaskÑ©;_SupportedAuthorizationMaskÒ«¬c­_SupportedAuthorizationMaskZInUseLevelÑ¯;_SupportedAuthorizationMaskÑ±c_SupportedAuthorizationMask  = ” ê?“àïb®¯ÇÄ¿\¬Â
+l	g
+d
+|}MVbmxƒ„…ÁÊÖáì÷ø3<HS^ij¤·Âßÿ)5CNYo¨ª«´µ·ÀÃàéô LMXdmŠ• ¡°²µÒÛçòı	KVbmŠ• ¡£Ôßëö)*'0MXcd|aFIfi†›¦±¼½ò*5Ucnyz¬­¶ÂÍØãä;GPYep{†‡´½ÉÔßêë25RUrw”Ÿ¡¤ÁÄ             ²              á                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           bplist00Ô
+X$versionY$archiverT$topX$objects † _NSKeyedArchiverÑ	Troot€£U$nullÓWNS.keysZNS.objectsV$class  €ÒZ$classnameX$classes_NSMutableDictionary£_NSMutableDictionary\NSDictionaryXNSObject$)27ILQSW]dlw~€‚‡’›±µËØ                            á                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/Library/Application Support/ApplePushService/aps.db</key>
+	<dict>
+		<key>filepath</key>
+		<string>/Library/Application Support/ApplePushService/aps.db</string>
+		<key>filetype</key>
+		<string>sqlite3</string>
+	</dict>
+	<key>/Users/eng_ahmed/Library/IdentityServices/ids-pub-id.db</key>
+	<dict>
+		<key>filepath</key>
+		<string>/Users/eng_ahmed/Library/IdentityServices/ids-pub-id.db</string>
+		<key>filetype</key>
+		<string>sqlite3</string>
+	</dict>
+	<key>/Users/eng_ahmed/Library/IdentityServices/ids.db</key>
+	<dict>
+		<key>filepath</key>
+		<string>/Users/eng_ahmed/Library/IdentityServices/ids.db</string>
+		<key>filetype</key>
+		<string>sqlite3</string>
+	</dict>
+	<key>/Users/eng_ahmed/Library/Messages/chat.db</key>
+	<dict>
+		<key>filepath</key>
+		<string>/Users/eng_ahmed/Library/Messages/chat.db</string>
+		<key>filetype</key>
+		<string>sqlite3</string>
+	</dict>
+</dict>
+</plist>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        bplist00Ó     w_ProductBuildVersion_ActivityBaseDates_VersionSpecificActivitiesRunU19G73ß»    	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~  €  ‚ ƒ „ … † ‡ ˆ ‰ Š ‹ Œ     ‘ ’ “ ” • – — ˜ ™ š › œ   Ÿ   ¡ ¢ £ ¤ ¥ ¦ § ¨ © ª « ¬ ­ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ğ Ñ Ò Ó Ô Õ Ö × Ø Ù Ú Û Ü İ Ş ß à á â ã ä å æ ç è é ê ë ì í î ï ğ ñ ò ó ô õ ö ÷ ø ù ú û ü ı ş ÿ 	
+ ô !"#$ ô%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXY ôZ[\]^_`abcdefghi ôjklmnopq ôrstuv_3com.apple.routined.persistence.mirroring.background_com.apple.family.heartbeat_'com.apple.suggestd.ma-metadata-download_7com.apple.healthd.awd-submission-manager.database-stats_4com.apple.keyboard.analytics.scheduledEventsActivity_:com.apple.siri.inference.SiriRemembers.ScrubDeletedRecords_com.apple.voiced.weekly_8com.apple.siri.xpc_activity.context-collector-reelection_-com.apple.avatar.activity.UserRequestedBackup_com.apple.healthd.daily-report_)com.apple.email.ConversationDailyExporter_4com.apple.KeyboardServices.TextReplacementCKSyncTask_6com.apple.healthd.healthrecords.opt-in-data-collection_8com.apple.healthd.healthrecords-daily-analytics-activity_(com.apple.remotemanagement.periodic-sync_5com.apple.email.searchableIndex.scheduler.maintenance_$com.apple.medialibraryd.maintainence_Icom.apple.telephonyutilities.callservicesd.calldirectorymaintenance.daily_!com.apple.transparencyd.dutycycle_com.apple.ak.listupdate_+com.apple.photoanalysisd.backgroundanalysis_/com.apple.suggestd.process-pending-verification_.com.apple.ScreenTimeAgent.activity.awd-logging_)com.apple.healthd.healthrecords.ingestion_com.apple.suggestd.vacuum_5com.apple.siri.inference.SiriRemembers.RefreshRollups_1com.apple.itunescloud.subscription_status_refresh_Lcom.apple.SafariBookmarksSyncAgent.XPC.CloudTabsZoneSubscriptionRegistration_*com.apple.suggestd.custom-response-harvest_com.apple.suggestd.sendrtc_com.apple.bird.sync_Ncom.apple.healthd.healthrecords.HDHealthRecordsAPIReminderRegistry-FirstUnlock_Bcom.apple.itunescloud.ICInAppMessageManager.periodic-poll-activity_com.apple.suggestions.harvest_2com.apple.email.searchableIndex.scheduler.budgeted_-com.apple.ids.registrationaccountstatusmetric_+com.apple.ids.key-transparency.verification_3com.apple.siriactionsd.ShortcutsWeeklyMetricCheckIn_,com.apple.calendar.daemon.changetablecleanup_2com.apple.siriactionsd.ShortcutsDailyMetricCheckIn_com.apple.accounts.cleanup_$com.apple.Maps.geocorrectiond.launch_com.apple.coreduetd.knowledge_!com.apple.sensorkit.removeOldData_#com.apple.suggestd.identityanalysis_/com.apple.Maps.mapspushd.launchForAnnouncements_$com.apple.cloudkit.tokenregistration_/com.apple.siri.xpc_activity.service_maintenance_%com.apple.mobilemail.scheduledFetches_Ecom.apple.itunescloud.ICDBackgroundTaskManager.periodic-poll-activity_%com.apple.email.spotlightVerification_com.apple.sensorkit.gcKeys_com.apple.suggestd.trim_CLPrivacyManager.C_6com.apple.email.maild.suggestionsLostMessageProcessing_ com.apple.searchd.sendmlfeedback_(com.apple.cloudkit.assetHandleExpiration_Mcom.apple.telephonyutilities.callservicesd.csdvoipapplicationcontroller.daily_$com.apple.message.libraryCompression_com.apple.triald.cellular_com.apple.ak.hb_com.apple.searchd.defrag_.com.apple.GeoServices.UpdateExperiment.Execute_#com.apple.calendar.daemon.analytics_-com.apple.healthd.HDWorkoutCondenser-activity_2com.apple.healthd.healthrecords.opt-in-data-upload_#com.apple.IntlPreferences.analytics_,com.apple.companionmessagesd.ResponseKitSync_,com.apple.fontservicesd.subscription-support_'com.apple.businesschatd.prefetch.config_0com.apple.mailsupport.downloadMobileAssetCatalog_*com.apple.assetsd.curatedlibraryprocessing_/com.apple.HMFoundation.Message.Dispatcher.Index_com.apple.securityd.daily_=com.apple.healthd.menstrual-cycles.HDMCAnalyticsManager.Daily_-com.apple.cloudkit.operationInfoCacheEviction_4com.apple.healthd.hearing.HDAudioAnalyticsCalculator_5com.apple.businesschatd.prefetch.bloomFilterAndConfig_#com.apple.locationd.MetricHeartbeat_ com.apple.routined.metrics.daily_*com.apple.fontservicesd.check-asset-update_'com.apple.textinput.keyboardmaintenance_:com.apple.itunesstored.PurchaseActionManager.IAParamsClean_&com.apple.siri.xpc_activity.peer_fetch_&com.apple.GeoServices.UpdateExperiment_<com.apple.healthd.awd-submission-manager.sleep-alarm-monthly_com.apple.searchd.expirations_com.apple.routined.assets_*com.apple.proactiveeventtrackerd.sendDaily_-com.apple.sensorkit.syncCompanionStateToGizmo_:com.apple.emaildaemon.protecteddatabasepersistence.cleanup_com.apple.bird.app-telemetry_%com.apple.cloudkit.pcs.sqlcache.evict_#com.apple.EscrowSecurityAlert.daily_*com.apple.bird.configuration-server-update_Gcom.apple.webbookmarksd.passwordIconsRepeatingCleanupActivityIdentifier_/com.apple.healthd.sync.cloud.periodic.secondary_Kcom.apple.dataaccess.dataaccessd.fetch.72C6EFE3-2373-44F5-A880-101F89AAEFFF_Acom.apple.homed.HMDMobileAssetManager.BackgroundActivityScheduler_+com.apple.ProtectedCloudStorage.fortnightly_6com.apple.ondemandd.PeriodicLaunchServicesSyncActivity_&com.apple.contextkit.mobileasset.check_$com.apple.geod.updateNetworkDefaults_!com.apple.voiced.neural-compiling_3com.apple.UIKit.UserInterfaceStyleAnalyticsActivity_4com.apple.proactiveeventtrackerd.updateAssetMetadata_%com.apple.siri.xpc_activity.heartbeat_4com.apple.siri.inference.Stitching.ProcessOldIntents_#com.apple.email.ConversationPruning_$com.apple.siri.morphunassetsupdaterd_$com.apple.mobilemail.powernapFetches_+com.apple.suggestd.process-pending-geocodes_;com.apple.coreduetd.homecontrolsuggestion.notification.task_*com.apple.message.LibraryPurgeableMigrator_com.apple.tccd.gc_.com.apple.routined.locationAwareness.heartbeat_&com.apple.siri.xpc_activity.sync.daily_&com.apple.mobilemail.compactingFetches_1com.apple.quicklook.cloudThumbnailDatabaseCleanup_4com.apple.siri.xpc_activity.speech-dictation-sampled_com.apple.routined.purge_+com.apple.calendar.daemon.attachmentcleanup_"com.apple.triald.fetch-experiments_Acom.apple.webbookmarksd.restoreReadingListQueueActivityIdentifier_)com.apple.calendar.daemon.databasecleanup_2com.apple.healthd.healthrecords-analytics-activity_+com.apple.companionmessagesd.DeviceSaltSync_*com.apple.email.interaction-log.submit-pet_6com.apple.siri.inference.SiriRemembers.ScrubOldRecords_'CLClientManager.loc-consumption-pruning_<com.apple.healthd.remote-feature-availability-asset-activity_CLPrivacyManager.D_.com.apple.launchservices.defaultapps.analytics_-com.apple.FileProvider.maintenance.auto-trash_com.apple.securityd.prng_com.apple.devicecheck.notify_(com.apple.FileProvider.cache-delete.push_"com.apple.siri.inference.FirstBoot_com.apple.coreduetd.people_9com.apple.siri.xpc_activity.announce-messages-eligibility_6com.apple.healthd.respiratory.DailyAnalyticsCalculator_com.apple.searchd.updateRanking_#com.apple.suggestd.cd-cache-rebuild_*com.apple.webbookmarksd.xpc.backupActivity_com.apple.bird.analytics-report_'com.apple.homed.logEvent.dailyScheduler_<com.apple.itunesstored.PurchaseActionManager.IAPingbackRetry_com.apple.ak.postinstall_CLPrivacyManager.B_.com.apple.searchd.createEncryptedRankingBackup_*com.apple.healthappd.generation.prediction_UserRequestedBackupTask_com.apple.followup.notify_:com.apple.siri.xpc_activity.speech-dictation-sample-delete_ com.apple.kvs.periodic-analytics_com.apple.sensorkit.postMetric_.com.apple.contactsd.BackupConfigurationService_!com.apple.cloudphotod.maintenance_6com.apple.ScreenTimeAgent.activity.hourly-usage-rollup_.com.apple.contactsd.VerifyCoreSpotlightService_%com.apple.healthd.sync.cloud.periodic_.com.apple.routined.learnedLocationEngine.train_"PDCardFileManager.CacheMaintenance_&com.apple.photoanalysisd.turboanalysis_)com.apple.schooltime.database.maintenance_>com.apple.healthd.awd-submission-manager.heart-daily-analytics_7com.apple.ClipServices.clipserviced.xpc.cleanupActivity_8com.apple.siri.inference.SiriInference.HolidaysDBUpdater_Ccom.apple.SafariBookmarksSyncAgent.XPC.ZoneSubscriptionRegistration_@PDSpotlightServiceClientIdentifier.PDSpotlightActivityIdentifier_com.apple.message.db.vacuum_@com.apple.proactive.PersonalizationPortrait.NamedEntityFiltering_'com.apple.devicecheck.appattest.cleanup_*com.apple.siri.xpc_activity.metrics-sender_com.apple.geo.analytics_:com.apple.healthd.awd-submission-manager.sleep-alarm-daily_!PDCardFileManager.RevocationCheck_8com.apple.suggestions.sqlentitystore.cacheprecomputation_1com.apple.locationd.CLClientManager.coreanalytics_com.apple.parsec-fbf.flush_%com.apple.assetsd.periodicmaintenance_0com.apple.cloudkit.recordCachePool.expireRecords_(com.apple.suggestions.collectweeklystats_.com.apple.siri.xpc_activity.refresh_validation_com.apple.voiced_-com.apple.siriactionsd.RemoteQuarantineUpdate_ com.apple.healthd.prune-database3AÂ8¢ZõM3AÂG¦
+ş3AÂG£*3AÂ›ó¡¶ƒ3AÂïôAì3AÂHz~õ3AÂ›ósz3AÂG eÚ3AÂH &Š¯3AÂHDİ÷33AÂH5ÿı3AÂG]–&&3AÂ›ó¥)Mî3AÂHDŞ¨3AÂ›ñï¢«3AÂH4„ç¥3AÂ>$GÖ3AÂG­@ò3AÂ8 44µ3AÂG£ÔL3AÂG¨Lˆ±3AÂG£wÃ3AÂ8¿=iF3AÂ›ó¥*EG3AÂG¢Ts3AÂUTpÅ3AÂ>%²·3AÂGŸt’}3AÂG¡ë~3AÂG¢Ã£3AÂ9œA×3AÂ9©0Y3AÂFg-Cè3AÂ8 kY3AÂrd„nH3AÂ8¤Åè3AÂGvÿ3AÂ¸½1”3AÂG§›3AÂ8 2nª3AÂ›ô‘ß;r3AÂ8 "“3AÂG$L†3AÂ9“§r3AÂG¡7º3AÂ8 _}3AÂ›òAÀ3AÂG cÑH3AÂO3ğ¹3AÂ›ôæOæ¼3AÂU“[N73Áµ:v¿v3AÂ
+ß§ld3AÂ›ñïV3AÂH9v<L3AÂ›ñï-d3AÂM»9d’3AÂ8¥¶gm3AÂ›ø÷+3AÂ9G2•3AÂG¤13AÂ›ñï-à~3AÂ9X·å‚3AÂ
+ßÚğ
+3AÂHDØZZ3AÂHDß73AÂ9 ö=3AÂG^fê<3AÂK´¦Âû3AÂ8 /Ÿ3AÂ›ôÉÌ²3AÂG¯Lí3AÂH:pır3AÂG²nß3AÂHDàSı3AÂG8º„c3AÂHDßµº3AÂ8 /FB3AÂTÀ`ã3AÂG=(3AÂG¥±ı3AÂïôÖâ3AÂ›òÙ8ù3AÂG Um%3AÂ8¤/O$3AÂ›ó¡·l3AÂœâ3›Ci3AÂGÿg3AÂG«ø>3AÂH4óš3AÂ›ñï§t3AÂTÃTÕ+3AÂG©¤Ñ3AÂœâª<3AÂ›ñï¢a3AÂ›ó¤£ü3AÂJ+¦J¬3AÂH3"^3AÂ›ñï+¢¹3AÂG¯Ğ€3AÂ8£ÇÀ­3AÂTßœVQ3AÂM½bLœ3AÂ8 +õ¬3AÂG c>Ö3AÂH{P>3AÂH6 l3AÂ8½Îi3AÂI³~šŸ3AÂG ¦Á3AÂK÷f3AÂ›ø,úú3AÂœâ3²"13AÂNnÔ3AÂG b}3AÂH+t3AÂG±÷ó3AÂG eÎ
+3AÂG¤9è3AÂ
+ßÛX3AÂKÒ§V3AÂGÀ¡y3AÂ
+ßÚ?S3AÂ›ó¤¥B73AÂG^gn‹3AÂH4òƒ³3AÂHz_3AÂGªv²3AÂHDŞ=¯3AÂ›ñïàL3AÂ›ò¹Å÷3AÂïÄ !3AÂM¸6Gï3AÂG¥]ğ3AÂUfÑÍ3AÂHx-3AÂTÅo‹3AÂG fƒÃ3AÂH„}8>3AÂœâ3›`@3AÂ›ñï'²ƒ3AÂ›ñï¢­3AÂ9kªÉ3AÂH82!¢3AÂG3ö¬M3AÂG5´„³3AÂ›ñïl3AÂ
+ßÙ»3AÂD©b3AÂ›ó¤¤ÆÎ3AÂGl…3AÂG g+H3AÂG=·NÄ3AÂ
+ßÕß‚3AÂG²ÀA3AÂIéÕ-m3AÂ
+ßÌ^×3AÂ9­!LZ3AÂTÃÛ„±3AÂ¦ ØRn3AÂG¨NHË3AÂ9Ã3AÂHDİªÒ3AÂïÄ®Ğ3AÂH{¥?3AÂGİ(.3AÂG%Œ×à3AÂK¸õ-3AÂ>=Ğìß3AÂG dVÜ3AÂTÃúRÀ3AÂHDİbê3AÂïà×+ 3AÂG¡ï3AÂ›ñï˜I3AÂM¸16Œ3AÂG¯‹ú3AÂ›ñï(Hl3AÂgdàp3AÂGWS'Æ3AÂGk0_3AÂ9¬¦·‰¦xyz{|}_com.apple.ak.postinstall_5com.apple.routined.persistence.mirroring.post-install_com.apple.voiced.postInstall_com.apple.triald.post-upgrade_.com.apple.avatar.activity.PostInstallMigration_0com.apple.nanotimekitcompanion.snapshots.prewarm   + ? ^ dS‰¦Ğ
+A~˜Ó$P‡Àû&^…Ñõ=o Ìè T£Ğí		T	™	¹	î
+
+L
+‚
+±
+æ*Jn”ÆíG·Ôî<_ŠÚ/J{¡Ñ,[Š´çFb¢Ò	AgŠ·áGp¯ÏëH…¤Ìòi›é-[”½ä>uÔú!Hv´áõ&Ox¬ãş,Q•Áö$QŠ´ó9i„£ÎóL…§ÍúF… µæ-I†©ÊûX‰±â  0 \  ×!!X!›!¹!ü"&"S"m"ª"Î#	#=#Z#‚#µ#à$$$$T$w$€$‰$’$›$¤$­$¶$¿$È$Ñ$Ú$ã$ì$õ$ş%%%%"%+%4%=%F%O%X%a%j%s%|%…%%—% %©%²%»%Ä%Í%Ö%ß%è%ñ%ú&&&&&'&0&9&B&K&T&]&f&o&x&&Š&“&œ&¥&®&·&À&É&Ò&Û&ä&í&ö&ÿ''''#','5'>'G'P'Y'b'k't'}'†''˜'¡'ª'³'¼'Å'Î'×'à'é'ò'û(((((((1(:(C(L(U(^(g(p(y(‚(‹(”((¦(¯(¸(Á(Ê(Ó(Ü(å(î(÷) )	)))$)-)6)?)H)Q)Z)c)l)u)~)‡))™)¢)«)´)½)Æ)Ï)Ø)á)ê)ó)ü**** *)*2*;*D*M*V*_*h*q*z*ƒ*Œ*•**§*°*¹*Â*Ë*Ô*İ*ê++=+\+|+­            ~              +à                                                                                                                                                                                                                                                                                    bplist00Ò    TsizeTlist¢  #@t     #@u     Ò   	
+ßUitemsXfeatures¡ 
+Ô        RUframeXidentityUvalueWversion¤    #        Ò   
+ĞZeffectListVeffectÑ  ¯  q ñeÙ>ÊQØíQ•ÚÔ        R¤    #@0      #@9      #@@ÕUUUUU"Ò    oZeffectListÑ   ¡ !Ô     " $ % R¤    ##@@ÕUUUUU!Ò &  ' SZeffectListÑ  (¡ )Ô     * , - R¤    +#@@ÕUUUUUÑ . /WcontentÒ  0 1 QTseedÒ  2 3 PTkindÒ 4  5 NTtextÓ 6 7 8 9 L MVstring_minimumScaleFactor[pixelLengthÒ 6 : ; <ZattributesR--¡ =Ó > ? @ A G JTfont_foregroundColor^paragraphStyleÓ B  C D E F\sizeCategoryYtextStyle#@<      _UICTFontTextStyleShortTitle1¤ H H H I"    "?€  Ñ K _lineHeightMultiple#?è      #?ÕUUUUUU¢  O#@@ÕUUUUU++Ò  2 T n¡ UÒ V W X mWstorage[createsNodeÒ Y Z [ iUlabelVtraitsÒ 6 \ ] h[pixelLengthÒ 6 ^ ; _Zattributes¡ `Ó > a b c e f_foregroundColor^paragraphStyleÓ d  C D E F\sizeCategory¤ H H H IÑ g _lineHeightMultiple#?ÕUUUUUUÒ j k l lVvaluesTmask	Ñ 2 p Ô     r v w R¤  s t u#@LÕUUUUU#@Sjªªªªª#@VjªªªªªˆÒ x  y ğZeffectListÑ  z¢ { ºÔ     |  € R¤   } ~#@Sjªªªªª#@F€     Ò   ‚ ¹ZeffectListÑ  ƒ¢ „ ¥Ô     … ‡ ˆ R¤   † ~#@Sjªªªªª‹Ñ . ‰Ò  0 Š QÒ  2 ‹ ¤Ó Œ    › £TpathUpaintYfillStyleÑ  ‘WstrokedÒ Œ ’ “ •UstyleÑ Œ ”_0 0 m 0 44.8333 lÒ – — ˜ ™WlineCapTdash¢ š š#@       Ò œ   Ttype ¤ Ÿ   ¡ ¢">pğğ">pğğ">††‡">8QìĞÔ     ¦ ¨ © R¤   § ~#@SjªªªªªÑ . ªÒ  0 « QÒ  2 ¬ ¤Ó Œ   ­ ² ¸Ñ  ®Ò Œ ’ ¯ ±Ñ Œ °_0 0 m 77.7143 0 lĞÒ œ   ³¤ ´ µ ¶ ·">pğğ">pğğ">††‡">8QìĞÑ 2 pÔ     » ¿ À R¤  ¼ ½ ¾#@Fÿÿÿÿÿ#@Sjªªªªª#@FUUUUUU”Ò Á  Â ïZeffectListÑ  Ã¢ Ä ÚÔ     Å È É R¤   Æ Ç#@Sjªªªªª#@FUUUUUUÑ . ÊÒ  0 Ë QÒ  2 Ì ¤Ó Œ   Í Ó ÙÑ  ÎÒ Œ ’ Ï ÑÑ Œ Ğ_0 0 m 0 44.8333 lÒ – — ˜ Ò¢ š šÒ œ   Ô¤ Õ Ö × Ø">pğğ">pğğ">††‡">8QìĞÔ     Û Ş ß R¤   Ü İ#@Sjªªªªª#@FUUUUUU’Ñ . àÒ  0 á QÒ  2 â ¤Ó Œ   ã è îÑ  äÒ Œ ’ å çÑ Œ æ_0 0 m 77.7143 0 lĞÒ œ   é¤ ê ë ì í">pğğ">pğğ">††‡">8QìĞÑ 2 pÑ 2 pÔ     ò ÷ ø R¤ ó ô õ ö#@Wjªªªªª#@LÕUUUUU#@Sjªªªªª#@Vjªªªªª‰Ò ù  údZeffectListÑ  û¢ ü.Ô     ı ÿ  R¤   ş ~#@Sjªªªªª™Ò -ZeffectListÑ ¢Ô     R¤   ~#@Sjªªªªª•Ñ .	Ò  0
+ QÒ  2 ¤Ó Œ  Ñ Ò Œ ’Ñ Œ_0 0 m 0 44.8333 lÒ – — ˜¢ š šÒ œ  ¤">pğğ">pğğ">††‡">8QìĞÔ     R¤   ~#@Sjªªªªª—Ñ .Ò  0 QÒ  2  ¤Ó Œ  !&,Ñ "Ò Œ ’#%Ñ Œ$_0 0 m 77.7143 0 lĞÒ œ  '¤()*+">pğğ">pğğ">††‡">8QìĞÑ 2 pÔ    /34 R¤ 012#@Fÿÿÿÿÿ#@Sjªªªªª#@FUUUUUUÒ5 6cZeffectListÑ 7¢8NÔ    9<= R¤  :;#@Sjªªªªª#@FUUUUUUšÑ .>Ò  0? QÒ  2@ ¤Ó Œ  AGMÑ BÒ Œ ’CEÑ ŒD_0 0 m 0 44.8333 lÒ – — ˜F¢ š šÒ œ  H¤IJKL">pğğ">pğğ">††‡">8QìĞÔ    ORS R¤  PQ#@Sjªªªªª#@FUUUUUUœÑ .TÒ  0U QÒ  2V ¤Ó Œ  W\bÑ XÒ Œ ’Y[Ñ ŒZ_0 0 m 77.7143 0 lĞÒ œ  ]¤^_`a">pğğ">pğğ">††‡">8QìĞÑ 2 pÑ 2 pÔ    fkl R¤ghij#@ejªªªªª#@LÕUUUUU#@Sjªªªªª#@VjªªªªªŠÒm nØZeffectListÑ o¢p¢Ô    qst R¤  r ~#@Sjªªªªª£Òu v¡ZeffectListÑ w¢xÔ    y{| R¤  z ~#@SjªªªªªŸÑ .}Ò  0~ QÒ  2 ¤Ó Œ  €†ŒÑ Ò Œ ’‚„Ñ Œƒ_0 0 m 0 44.8333 lÒ – — ˜…¢ š šÒ œ  ‡¤ˆ‰Š‹">pğğ">pğğ">††‡">8QìĞÔ    ‘ R¤   ~#@Sjªªªªª¡Ñ .’Ò  0“ QÒ  2” ¤Ó Œ  •š Ñ –Ò Œ ’—™Ñ Œ˜_0 0 m 77.7143 0 lĞÒ œ  ›¤œŸ">pğğ">pğğ">††‡">8QìĞÑ 2 pÔ    £§¨ R¤ ¤¥¦#@Fÿÿÿÿÿ#@Sjªªªªª#@FUUUUUU¨Ò© ª×ZeffectListÑ «¢¬ÂÔ    ­°± R¤  ®¯#@Sjªªªªª#@FUUUUUU¤Ñ .²Ò  0³ QÒ  2´ ¤Ó Œ  µ»ÁÑ ¶Ò Œ ’·¹Ñ Œ¸_0 0 m 0 44.8333 lÒ – — ˜º¢ š šÒ œ  ¼¤½¾¿À">pğğ">pğğ">††‡">8QìĞÔ    ÃÆÇ R¤  ÄÅ#@Sjªªªªª#@FUUUUUU¦Ñ .ÈÒ  0É QÒ  2Ê ¤Ó Œ  ËĞÖÑ ÌÒ Œ ’ÍÏÑ ŒÎ_0 0 m 77.7143 0 lĞÒ œ  Ñ¤ÒÓÔÕ">pğğ">pğğ">††‡">8QìĞÑ 2 pÑ 2 pÔ    ÚŞß R¤ÛÜİ ~#@o      #@LÕUUUUU#@C€     ­Òà á
+ZeffectListÑ â¢ã÷Ô    äåæ R¤  İ ~©Ñ .çÒ  0è QÒ  2é ¤Ó Œ  êğöÑ ëÒ Œ ’ìîÑ Œí_0 0 m 0 44.8333 lÒ – — ˜ï¢ š šÒ œ  ñ¤òóôõ">pğğ">pğğ">††‡">8QìĞÔ    øùú R¤  İ ~«Ñ .ûÒ  0ü QÒ  2ı ¤Ó Œ  ş	Ñ ÿÒ Œ ’ Ñ Œ_0 0 m 38.8571 0 lĞÒ œ  ¤">pğğ">pğğ">††‡">8QìĞÑ 2 pÔ     R¤Ûİ#@Yªªªªªª#@FUUUUUU²Ò =ZeffectListÑ ¢)Ô     R¤  İ#@FUUUUUU®Ñ .Ò  0 QÒ  2 ¤Ó Œ  "(Ñ Ò Œ ’ Ñ Œ_0 0 m 0 44.8333 lÒ – — ˜!¢ š šÒ œ  #¤$%&'">pğğ">pğğ">††‡">8QìĞÔ    *,- R¤  İ+#@FUUUUUU°Ñ ..Ò  0/ QÒ  20 ¤Ó Œ  16<Ñ 2Ò Œ ’35Ñ Œ4_0 0 m 38.8571 0 lĞÒ œ  7¤89:;">pğğ">pğğ">††‡">8QìĞÑ 2 pÔ    ?CD R¤ @AB#@bjªªªªª#@Sjªªªªª#@(      ÒE FÉZeffectListÑ G£H]qÔ    IKL R¤  JB#@Sjªªªªª…Ñ .MÒ  0N QÒ  2O ¤Ó Œ  PV\Ñ QÒ Œ ’RTÑ ŒS\0 0 m 0 12 lÒ – — ˜U¢ š šÒ œ  W¤XYZ[">pğğ">pğğ">††‡">8QìĞÔ    ^`a R¤  _B#@Sjªªªªª‡Ñ .bÒ  0c QÒ  2d ¤Ó Œ  ejpÑ fÒ Œ ’giÑ Œh_0 0 m 77.7143 0 lĞÒ œ  k¤lmno">pğğ">pğğ">††‡">8QìĞÔ    ruv R¤ stB#@ªªªªªÀ#@>ªªªªªªŒÒw xÀZeffectListÑ y¡zÔ    {~ R¤| }B#?ğ      #@=ªªªªªª‹Ò€ ¤ZeffectListÑ ‚¡ƒÔ    „†‡ R¤  …B#@=ªªªªªª‰Ñ .ˆÒ  0‰ QÒ  2Š PÒ 4 ‹¢Ó 6Œ ¡_minimumScaleFactor[pixelLengthÒ 6‘ZattributesU12 AM¡’Ó >“”•™_foregroundColor^paragraphStyleÓ–  C D—˜\sizeCategory#@&      _UICTFontTextStyleShortCaption2¤š›œ">pğğ">pğğ">††‡"?™šÑŸ _lineHeightMultiple#?ìÌÌÌÌÌÍ#?ÕUUUUUU¢£B#@=ªªªªªªÒ  2¥ n¡¦Ò V§¨ m[createsNodeÒ Y Z©½Ó 6ª«¬»¼_minimumScaleFactor[pixelLengthÒ 6­®Zattributes¡¯Ó >°±²´¹_foregroundColor^paragraphStyleÓ³  C D—˜\sizeCategory¤µ¶·¸">pğğ">pğğ">††‡"?™šÑº _lineHeightMultiple#?ìÌÌÌÌÌÍ#?ÕUUUUUUÒ j k¾¾ 	Ò  2Á n¡ÂÒ VÃÄÈ[createsNodeÒÅ Z DÆZvisibilityÒ j kÇÇ Ñ 2 pÔ    ËÏĞ R¤ÌÍÎB#@Wjªªªªª#@bjªªªªª#@Sjªªªªª–ÒÑ ÒPZeffectListÑ Ó£ÔéıÔ    Õ×Ø R¤  ÖB#@SjªªªªªÑ .ÙÒ  0Ú QÒ  2Û ¤Ó Œ  ÜâèÑ İÒ Œ ’ŞàÑ Œß\0 0 m 0 12 lÒ – — ˜á¢ š šÒ œ  ã¤äåæç">pğğ">pğğ">††‡">8QìĞÔ    êìí R¤  ëB#@SjªªªªªÑ .îÒ  0ï QÒ  2ğ ¤Ó Œ  ñöüÑ òÒ Œ ’óõÑ Œô_0 0 m 77.7143 0 lĞÒ œ  ÷¤øùúû">pğğ">pğğ">††‡">8QìĞÔ    ş R¤ ÿ B#@ªªªªªÀ#@:UUUUUU•Ò HZeffectListÑ ¡Ô    	
+ R¤| B#@9UUUUUU”Ò -ZeffectListÑ ¡Ô     R¤  B#@9UUUUUU’Ñ .Ò  0 QÒ  2 PÒ 4 +Ó 6)*_minimumScaleFactor[pixelLengthÒ 6ZattributesT6 AM¡Ó > "'_foregroundColor^paragraphStyleÓ!  C D—˜\sizeCategory¤#$%

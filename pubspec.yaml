@@ -1,0 +1,82 @@
+name: tot
+description: A new Flutter application.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  #for Ios icons
+  cupertino_icons: ^1.0.2
+  #to make app responesive
+  device_preview: ^0.7.3
+  flutter_screenutil: ^5.0.0+2
+  #statemanagment
+  provider: ^5.0.0
+
+  #onboarding
+  introduction_screen: ^2.1.0
+  #Persistent Storage
+  shared_preferences: ^2.0.6
+  #to show svg images
+  flutter_svg: ^0.22.0
+  # image slider
+  carousel_slider: ^4.0.0
+  # to show rating stars
+  flutter_rating_bar: ^4.0.0
+  #OTP TextFelid
+  pinput: ^1.2.0
+  #counter to notification
+  badges: ^2.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_native_splash: ^1.1.7+1
+
+  
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - assets/lang/
+    - assets/icons/
+
+ 
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Tajawal-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Tajawal-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Tajawal-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Tajawal-Light.ttf
+          weight: 300
+  
+  
