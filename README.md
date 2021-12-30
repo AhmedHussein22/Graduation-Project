@@ -1,4 +1,4 @@
-# tot
+# TOT App
 
 **In TOT we are here to help you find a teacher at any aspect of science you want 
 from kindergarten to secondary schools. Instead of searching many blogs and 
@@ -10,10 +10,8 @@ With TOT you can find a teacher that is suitable for your needs with less effort
 less time, and less money.**
 
 # Sample Videos
-- ** Student Functions
 https://user-images.githubusercontent.com/63206011/147782650-53f838e5-61ea-4995-81c2-3074195e72bd.mp4
 
-- ** Teacher Functions
 https://user-images.githubusercontent.com/63206011/147782742-14da7a49-f9e1-46df-81ff-48ab7ba7fbfa.mp4
 
 # Sample ScreenShots
@@ -40,15 +38,4 @@ you can scan this QR code to get everything about this project
 
 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
